@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Conteúdos - 3studaSP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/site.webmanifest">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        (function () {
+            const tema = localStorage.getItem('tema');
+            if (tema === 'dark') {
+                document.documentElement.classList.add('dark');
+            }
+        })();
+    </script>
+</head>
+
+<body>
+    <header>
+        <img id="logo" src="img/STUDA.png" alt="Logo 3ºSTUDA SP">
+        <img id="titulo-cabecalho" alt="Título 3ºSTUDA SP">
+        <div id="menu">
+            <nav>
+                <a href="index.html" class="page">Início</a>
+                <a href="estudos.html" class="page">Estudos</a>
+                <a href="sobre.html" class="page">Sobre</a>
+            </nav>
+            <img id="icone-tema">
+        </div>
+    </header>
+
+    <main id="layout">
+        <div id="topo"></div>
+
+        <div class="container">
+            <div class="principal" id="lista"></div>
+            <div class="lateral" id="extra"></div>
+        </div>
+        
+        <div class="colapsaveis"></div>
+
+        <div class="inferior" id="extra2"></div>
+
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>

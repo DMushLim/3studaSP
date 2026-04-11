@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "bimestre": "1º Bimestre",
+    "disciplinas": [
+      {
+        "nome": "Língua Portuguesa",
+        "canais": [
+          {
+            "nome": "Professor Noslen",
+            "imagem": "https://yt3.googleusercontent.com/12a76Za8ElTlzhyGF2TIYQT99F9XXMe0FVdOaq6-D9-iBiVAgb73XhQVWiiOP1_fcnb-7zmf0A=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@ProfessorNoslen"
+          },
+          {
+            "nome": "LÍTERABRASIL",
+            "imagem": "https://yt3.googleusercontent.com/Fyne8BOLGdN0eCOZk1AgvsiYaQzAtIZitaElfnS1klxZtCaEnFpBN20esgj4LkvbIjCfLR5eFyM=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@L%C3%ADteraBrasil"
+          },
+          {
+            "nome": "Descomplica",
+            "imagem": "https://yt3.googleusercontent.com/ZiSCzk3KAyRy158X7YJ_woIdyPP8LVPf2OT-C67dQeP57T1t6usdNuj8lOKCuscjrS_yPVtiKw=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@descomplica"
+          }
+        ],
+        "conteudos": [
+          {
+            "titulo": "Pré-Modernismo"
+          },
+          {
+            "titulo": "Modernismo e Antropofagia"
+          },
+          {
+            "titulo": "Romantismo"
+          },
+          {
+            "titulo": "Formação da Literatura e Contexto"
+          },
+          {
+            "titulo": "Poesia e Literatura Comparada"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>O Romantismo no Brasil: Estrutura e Evolução</h2>",
+                  "<p>O termo \"Romantismo\" no contexto literário brasileiro possui nuances significativas, podendo referir-se tanto ao sentimento amoroso quanto ao período histórico-literário. O gênero \"romance\", por sua vez, evoluiu de narrativas de cavalaria e amor cortês para formas que retratam a vida familiar e social.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Fases do Romantismo Brasileiro</h2>",
+                  "<p>A literatura romântica no Brasil é dividida em três fases distintas, cada uma com objetivos e características próprias:</p>",
+                  "<p><strong>Primeira Fase:</strong> Nacionalista ou Indianista — Nacionalismo exacerbado; idealização do indígena; sentimentalismo; valorização da natureza brasileira como identidade.</p>",
+                  "<p><strong>Segunda Fase:</strong> Ultrarromântica (\"Mal do Século\") — Extremo subjetivismo; pessimismo; escapismo; idealização do amor e do lúgubre.</p>",
+                  "<p><strong>Terceira Fase:</strong> Abolicionista ou Condoreira — Engajamento social; discussão temática voltada para a busca pela abolição da escravidão.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Estudo de Caso: Iracema, de José de Alencar</h2>",
+                  "<p>Publicada em 1865, Iracema: lenda do Ceará é uma obra fundamental da primeira geração romântica. O texto exemplifica a tentativa de criar uma mitologia nacional.</p>",
+                  "<br>",
+                  "<p><strong>Simbolismo e Personagens</strong></p>",
+                  "<ul>",
+                  "<li><strong>Iracema:</strong> Descrita de forma idealizada como a \"virgem dos lábios de mel\", com cabelos \"mais negros que a asa da graúna\". Seu nome é um anagrama de \"América\", simbolizando a terra virgem brasileira.</li>",
+                  "<li><strong>Martim:</strong> Representa o colonizador português.</li>",
+                  "<li><strong>Moacir:</strong> Filho do casal, cujo nome significa \"filho da dor\". Ele simboliza a fusão das culturas indígena e europeia.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Temas Centrais</strong></p>",
+                  "<ul>",
+                  "<li><strong>Idealização da Natureza:</strong> A personagem é comparada a elementos da flora e fauna (palmeira, jati, baunilha, ema selvagem).</li>",
+                  "<li><strong>Sacrifício Nacional:</strong> A morte de Iracema após o nascimento de Moacir representa os sacrifícios necessários para a construção da nova nação.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Gênero Textual Editorial</h2>",
+                  "<p>O editorial é um texto opinativo que expressa a posição oficial de um veículo de comunicação sobre temas de relevância social, política ou econômica.</p>",
+                  "<br>",
+                  "<p><strong>Características e Estrutura</strong></p>",
+                  "<p>Diferente das notícias, que buscam a objetividade dos fatos, o editorial busca demonstrar a visão e os valores da instituição. Sua estrutura básica inclui:</p>",
+                  "<ul>",
+                  "<li><strong>Título Engajador:</strong> Resume o tema e capta a atenção.</li>",
+                  "<li><strong>Introdução e Contextualização:</strong> Explica a relevância do assunto no debate público.</li>",
+                  "<li><strong>Tese e Apresentação do Problema:</strong> Define o posicionamento central do veículo.</li>",
+                  "<li><strong>Argumentação Baseada em Dados:</strong> Uso de evidências concretas para sustentar a opinião.</li>",
+                  "<li><strong>Análise Crítica:</strong> Avaliação da situação e sugestão de mudanças ou soluções.</li>",
+                  "<li><strong>Tom Persuasivo:</strong> Intencionalidade de influenciar o leitor e mobilizar a ação social.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Comparativo: Notícia vs. Editorial</strong></p>",
+                  "<ul>",
+                  "<li><strong>Notícia:</strong> Gênero jornalístico focado na apresentação imparcial de fatos.</li>",
+                  "<li><strong>Editorial:</strong> Gênero opinativo focado no posicionamento e na liderança de opinião.</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/jz_As_nzSUA?si=90omIWIW1MIu7aBQ",
+                  "https://www.youtube.com/embed/D8xQel1nhxg?si=dy1pj-zg0ku6fAlX",
+                  "media/1º Bimestre/LP/Resumo/Videos/Lendo_nas_Entrelinhas.mp4"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "Do vaso grego ao poder do editorial",
+                    "src": "media/1º Bimestre/LP/Resumo/Podcasts/Do_vaso_grego_ao_poder_do_editorial.m4a"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "História",
+        "canais": [
+          {
+            "nome": "Toda Matéria",
+            "imagem": "https://yt3.googleusercontent.com/HzNmGq7dz8hluGyGAmMijcUKc_sp-9cynIvm9U41wDVqDmfREuHWjyuphcyajKWkrTfMTvZBgg=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@TodaMateriaOficial"
+          },
+          {
+            "nome": "Descomplica",
+            "imagem": "https://yt3.googleusercontent.com/ZiSCzk3KAyRy158X7YJ_woIdyPP8LVPf2OT-C67dQeP57T1t6usdNuj8lOKCuscjrS_yPVtiKw=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@descomplica"
+          }
+        ],
+        "conteudos": [
+          {
+            "titulo": "Segunda Revolução Industrial "
+          },
+          {
+            "titulo": "Imperialismo"
+          },
+          {
+            "titulo": "Belle Époque"
+          },
+          {
+            "titulo": "Primeira Guerra Mundial"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>O Imperialismo no Século XIX: Fundamentos e Divergências</h2>",
+                  "<p>O imperialismo é definido como o processo histórico no qual nações capitalistas desenvolvidas expandiram seu domínio, subjugando outros povos e criando dependência política e econômica. Entre 1870 e 1914, essa expansão foi vista como uma solução para as crises econômicas causadas pelo acirramento da concorrência internacional.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Comparativo: Colonialismo vs. Imperialismo</h2>",
+                  "<dl><dt><strong>Colonialismo (Sécs. XVI - XVIII):</strong></dt><dd><strong>Área de Foco:</strong> Américas<br><strong>Objetivo Principal:</strong> Extração de metais preciosos e produtos agrícolas<br><strong>Mão de Obra:</strong> Trabalho escravizado<br><strong>Agentes:</strong> Metrópoles europeias (Portugal, Espanha, etc.)</dd><dt><strong>Imperialismo (Séc. XIX - Início XX):</strong></dt><dd><strong>Área de Foco:</strong> África e Ásia<br><strong>Objetivo Principal:</strong> Recursos estratégicos, mercados e investimento de capital<br><strong>Mão de Obra:</strong> Subjugação de povos para fins industriais e financeiros<br><strong>Agentes:</strong> Potências industriais (Europa, EUA e Japão)</dd></dl>",
+                  "<br>",
+                  "<h2 class='subtitulo'>A Conferência de Berlim (1884-1885) e a Partilha da África</h2>",
+                  "<p>A Conferência de Berlim foi motivada pela invasão belga ao Congo e por disputas sobre a navegação em rios africanos. O objetivo central era estabelecer uma exploração \"ordenada\" da África para evitar conflitos entre as potências.</p>",
+                  "<ul>",
+                  "<li><strong>Objetivos Declarados:</strong><ul><li>Estabelecer regras de ocupação para promover a civilização e o comércio.</li><li>Garantir rotas comerciais livres no interior do continente.</li><li>Reforçar a proibição do tráfico de escravizados.</li></ul></li>",
+                  "<li><strong>Realidade da Partilha:</strong><ul><li><strong>Ocupação Efetiva:</strong> A soberania europeia só era reconhecida se o território fosse efetivamente administrado.</li><li><strong>Exclusão Africana:</strong> O encontro foi realizado sem a presença de representantes africanos.</li><li><strong>Colcha de Retalhos:</strong> As fronteiras foram desenhadas desconsiderando as etnias locais, gerando consequências duradouras.</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Justificativas Ideológicas e a \"Missão Civilizadora\"</h2>",
+                  "<ul>",
+                  "<li><strong>A Missão Civilizadora:</strong> O discurso oficial alegava o desejo de promover o \"bem-estar moral e material das populações aborígenes\".</li>",
+                  "<li><strong>O Fardo do Homem Branco:</strong> Representado em obras como a de Victor Gillam (1899), sugeria que era dever das nações \"desenvolvidas\" educar e civilizar os demais povos, independentemente de sua vontade.</li>",
+                  "<li><strong>Antropologia e Dominação:</strong> A Antropologia moderna surgiu contemporaneamente ao imperialismo, com trabalhos de campo frequentemente realizados em áreas coloniais para \"conhecer\" — e, consequentemente, dominar — as populações locais.</li>",
+                  "<li><strong>Símbolos de Poder:</strong> Ilustrações da época, como na Revista Puck (1889), retratavam o Tio Sam (EUA) lecionando para \"crianças\" (nações subjugadas), implicando uma relação de autoridade compulsória: \"Agora, crianças, vocês devem aprender essas lições, gostem ou não!\".</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Resistência e Conflitos na África e na Ásia</h2>",
+                  "<p>A dominação não ocorreu de forma passiva, enfrentando barreiras culturais e militares.</p>",
+                  "<br>",
+                  "<p><strong>Resistência Africana</strong></p>",
+                  "<ul>",
+                  "<li><strong>Exércitos Consolidados:</strong> Sociedades como as dos Axantes e dos Zulus ofereceram resistência prolongada.</li>",
+                  "<li><strong>Batalha de Isandhlwana (1879):</strong> 25 mil guerreiros zulus derrotaram as tropas britânicas, demonstrando disciplina e táticas de guerra eficazes, apesar da inferioridade em armamentos de fogo.</li>",
+                  "<li><strong>Diplomacia e Recusa:</strong> O Rei Wogobo, dos Mossi, declarou categoricamente ao capitão francês Destenave em 1895: \"Sinto que meu país está muito bem como está. Não preciso deles [europeus]. Sei o que me falta e o que desejo\".</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Resistência Asiática</strong></p>",
+                  "<ul>",
+                  "<li><strong>China:</strong> O enfrentamento se deu através de episódios como a Guerra do Ópio (1839-1842) e o Tratado de Pequim (1860), que forçou a abertura dos portos chineses ao comércio estrangeiro.</li>",
+                  "<li><strong>Dualidade da Resistência:</strong> Na Ásia, a resistência envolveu o conflito entre \"ocidentalização\" e \"tradição\". Lutar contra o estrangeiro nem sempre significava recusar a modernização tecnológica ou ocidental.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Contexto Americano: Consumo e a Crise de 1929</h2>",
+                  "<p>A política liberal dos EUA nos anos 1920 consolidou o American Way of Life, um modelo de sociedade baseado no consumo em massa e na produção acelerada.</p>",
+                  "<ul>",
+                  "<li><strong>Dinâmica Econômica:</strong> A relação entre alta produção e consumo desenfreado foi sustentada por uma política de liberdade econômica.</li>",
+                  "<li><strong>Especulação Financeira:</strong> O excesso de capital e o otimismo econômico levaram a uma especulação desenfreada no mercado financeiro.</li>",
+                  "<li><strong>Conclusão da Crise:</strong> O desequilíbrio entre a capacidade de produção e o poder de consumo, aliado à volatilidade financeira, motivou o colapso do capitalismo em 1929, marcando o fim do período de euforia liberal do pós-guerra.</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "media/1º Bimestre/História/Resumo/Videos/A_Espada_de_Dois_Gumes_do_Progresso.mp4",
+                  "https://www.youtube.com/embed/tGsIuYPGl5s?si=H2Qw5D1tbL1Kv5qa",
+                  "https://www.youtube.com/embed/_fyQjzR6Sm0?si=CnYait0eriOdAV37",
+                  "https://www.youtube.com/embed/4se98HyqhtU?si=0xeO4kUnm_A4QojE",
+                  "https://www.youtube.com/embed/6P89N-WrnLk?si=qE7h784z1Gt2S9Iq"
+                ],
+                "podcasts": [
+                  {
+                  "titulo": "O custo humano das revoluções industriais",
+                  "src": "media/1º Bimestre/História/Resumo/Podcasts/O_custo_humano_das_revoluções_industriais.m4a"
+                }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,513 @@
+/* Layout das páginas */
+* {
+   box-sizing: border-box;
+}
+
+:root {
+   --fundo: #ffffff;
+   --roxo_header: #5e17eb;
+   --roxo_nav: #8c52ff;
+   --importante: #e2a9f1;
+
+   /* Fonte */
+   --cor_fonte: #000000;
+   --fonte_gradiente1: #8c52ff;
+   --fonte_gradiente2: #490ebd;
+
+   --card_roxo-claro_tom1: #8c52ff;
+   --card_roxo-claro_tom2: #c8adff;
+   --card_roxo-escuro_tom1: #340989;
+   --card_roxo-escuro_tom2: #8c55fa;
+}
+
+/* Tema escuro */
+
+html.dark {
+   --fundo: #0F0F0F;
+   --cor_fonte: #ffffff;
+   
+   --fonte_gradiente1: #c8adff;
+   --fonte_gradiente2: #e2a9f1;
+}
+
+/* Padronização */
+
+body {
+   font-family: Arial;
+   background-color: var(--fundo);
+   margin: 0;
+   margin-bottom: 100px;
+   color: var(--cor_fonte);
+}
+
+.importante {
+   display: inline-flex;
+   padding: 10px 10px;
+   font-size: clamp(20px, 4vw, 25px);
+   background-color: var(--importante);
+   border-radius: 15px;
+   color: black;
+}
+
+h1, h2 {
+   margin: 0;
+
+}
+
+h3 {
+   margin: 10px;
+}
+
+p {
+   font-size: clamp(20px, 3vw, 25px);
+}
+
+li, dl{
+   font-size: clamp(18px, 3vw, 20px);
+}
+
+ul  {
+   margin-top: 0;
+}
+
+#layout {
+   margin: 10px;
+}
+
+#topo {
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   gap: 20px;
+   margin-bottom: 20px;
+}
+
+#titulo, .subtitulo {
+   background-image: linear-gradient(to bottom, var(--fonte_gradiente1), var(--fonte_gradiente2));
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   color: black;
+}
+
+#titulo {
+   font-size: clamp(40px, 4vw, 60px);
+}
+
+.subtitulo {
+   font-size: clamp(30px, 3vw, 40px);
+}
+
+/* Layout das páginas: Lista */  
+.container {
+   display: flex;
+   gap: 10%;
+
+}
+
+.principal {
+   display: flex;
+   flex-direction: column;
+   width: 60%;
+}
+
+#lista {
+   padding: 0 10px;
+   margin-bottom: 20px;
+}
+
+/* Base */
+
+.card{
+   text-align: center;
+   font-size: clamp(20px, 3vw, 40px);
+   color: white;
+   padding: 15px 20px;
+   font-weight: bold;
+}
+
+/* Botões */
+
+.bimestres {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+
+.card--botao {
+   cursor: pointer;
+}
+
+.card--redondo {
+   border-radius: 50px;
+}
+
+.card--roxo-escuro {
+   background-image: linear-gradient(135deg, var(--card_roxo-escuro_tom1), var(--card_roxo-escuro_tom2));
+}
+
+.card--roxo-claro{
+   background-image: linear-gradient(135deg, var(--card_roxo-claro_tom1) 50%, var(--card_roxo-claro_tom2) 100%);
+}
+
+.card--botao:hover, .card--header-colapsavel:hover {
+   filter:brightness(80%);
+}
+
+/* Colapsável */
+
+.card--full-width {
+   width: 100%;
+}
+
+.header-colapsavel:hover {
+   filter:brightness(80%);
+}
+
+
+/* Conteúdo */
+
+.conteudo-colapsavel {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+   
+   opacity: 0;
+   transform: scaleY(0.95);
+   transform-origin: top;
+
+   pointer-events: none;
+
+   padding: 0 20px;
+   max-height: 0;
+   overflow: hidden;
+
+   transition: 
+      opacity 0.25s ease,
+      transform 0.25s ease,
+      padding 0.25s ease,
+      max-height 0.25s ease;
+}
+
+/* Estado */
+
+.conteudo-colapsavel.ativo {
+   opacity: 1;
+   transform: scaleY(1);
+
+   pointer-events: auto;
+
+   padding: 20px;
+   max-height: 9999px;
+   overflow: visible;
+}
+
+
+/* Botões da parte direita */
+.lateral {  
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   margin-bottom: 20px;
+}
+
+
+/* Parte inferior */
+.lista-canais {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+}
+
+.lista-canais a {
+   text-decoration: none;
+}
+
+.canal {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-decoration: none;
+
+}
+
+.icone-canal {
+   border-radius: 50%;
+   width: 300px;
+}
+
+.nome-canal {
+   font-weight: 500;
+   color: var(--cor_fonte);
+   font-size: clamp(15px, 2vw, 20px);
+}
+
+/* Conteúdo colapsável: Texto, Áudio e vídeo */
+
+.textos {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+
+.videos, .podcasts {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+}
+
+audio {
+   width: 100%;
+}
+
+video {
+   width: 560px;
+   height: auto;
+}
+
+iframe {
+   width: 560px;
+   height: 315px;
+}
+
+/* Seção cabeçalho */
+
+header {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: flex-end;
+   padding: 10px 20px;
+   border-bottom: 10px solid var(--roxo_header);
+   height: 100%;
+}
+
+/* Logo do cabeçalho */
+#logo {
+   max-width: 210px;
+   width: 100%;
+   height: auto;
+}
+
+/* Título do cabeçalho */
+#titulo-cabecalho {
+   content: url(img/3STUDASP.png);
+   max-width: 600px;
+   width: 100%;
+   height: auto;
+}
+
+html.dark #titulo-cabecalho {
+   content: url(img/3STUDASP_dark.png);
+}
+
+/* Navegação + troca de tema */
+#menu {
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   gap: 20px;
+   margin-left: auto;
+}
+
+
+/* Navegação */
+nav {
+   display: flex;
+   align-items: center;
+}
+
+/* Links */
+nav a {
+   background-color: var(--roxo_nav);
+   padding: 10px 20px;
+   font-size: clamp(25px, 5vw, 35px);
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+   display: inline-block;
+}
+
+nav a:hover,
+nav a:active,
+#icone-tema:hover,
+#icone-tema:active {
+   filter: brightness(80%);
+}
+
+/* icone do modo claro e escuro */
+#icone-tema {
+   content: url(img/icon/light_mode.png);
+   max-width: 60px;
+   width: 100%;
+   height: auto;
+   cursor: pointer;
+}
+
+html.dark #icone-tema {
+   content: url(img/icon/dark_mode.png);
+}
+
+/* Fim da seção cabeçalho */
+
+
+
+/* Começo da página ínicio*/
+#bemvindo {
+   margin: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   flex-wrap: wrap;
+   flex-direction: column;
+   font-weight: bold;
+   background-image: linear-gradient(135deg, #8c52ff, #490ebd);
+   border-radius: 80px;
+   padding: 1%;
+}
+
+#bemvindotexto {
+   font-size: clamp(25px, 5vw, 30px);
+   color: white;
+}
+
+.destaque {
+   color: #e2a9f1;
+}
+
+#part2bemvindo {
+   padding: 10px 10px;
+   background-color: var(--fundo);
+   color: var(--cor_fonte);
+   font-size: clamp(15px, 5vw, 25px);
+}
+
+#secaocomece {
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: clamp(15px, 4vw, 20px);
+   font-weight: bold;
+}
+
+#botaocomece {
+   background-image: linear-gradient(135deg, #8c52ff 50%, #c8adff 100%);
+   color: white;
+   font-size: clamp(20px, 5vw, 40px);
+   text-decoration: none;
+   padding: clamp(20px, 3vw, 30px);
+   border-radius: 100px;
+}
+
+#gratuito {
+   margin: 10px;
+   font-weight: 600;
+}
+
+/* Segunda parte da página ínicio */
+
+#parte2inicio {
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+#parte2inicio ul {
+   margin: 0;
+}
+
+
+/* Lista */
+#parte2inicio li {
+   font-size: clamp(20px, 3vw, 25px);
+   font-weight: 500;
+   margin-bottom: 10px;
+}
+
+/* Ultima linha da página */
+#fiminicio {
+   text-align: center;
+   background-color: #8c52ff;
+   color: white;
+   font-size: clamp(15px, 4vw, 25px);
+}
+
+/* Fim de "Início" */
+
+p {
+   margin: 0px 10px;
+   font-size: clamp(18px, 3vw, 20px);
+   font-weight: 500;
+}
+
+
+
+/* Suporte para celular */
+@media (max-width: 600px) {
+
+   /* cabeçalho*/
+   header {
+      padding-left: 5px;
+      margin-top: 10px;
+      justify-content: center;
+      gap: 10px;
+      align-items: center;
+      height: 100%;
+   }
+
+   .logo {
+      max-width: 110px;
+      width: 100%
+   }
+
+   #menu {
+      margin-left: 0;
+   }
+
+   nav {
+      justify-content: center;
+      flex-wrap: wrap;
+
+   }
+
+   #icone-tema {
+      width: 40px;
+
+   }
+
+   /* fim do cabeçalho */
+
+   /* Inicio */
+   #bemvindo {
+      padding: 20px;
+   }
+
+   #parte2inicio li {
+      margin: 10px;
+   }
+
+   /* Listas */
+   .container {
+      flex-direction: column;
+   }
+
+   .principal, .lateral {
+      width: 100%;
+   }
+
+   .lista-canais {
+      justify-content: center;
+   }
+
+   .icone-canal {
+      width: 200px;
+   }
+   
+   /* Conteudo Colapsavel */
+
+   video, iframe {
+      width: 100%;
+   }
+   
+}

@@ -26,8 +26,8 @@ html.dark {
    --fundo: #0F0F0F;
    --cor_fonte: #ffffff;
    
-   --fonte_gradiente1: #c8adff;
-   --fonte_gradiente2: #e2a9f1;
+   --fonte_gradiente1: #fbf1fc;
+   --fonte_gradiente2: #dd89f1;
 }
 
 /* Padronização */
@@ -199,7 +199,6 @@ ul  {
 
    padding: 20px;
    max-height: 9999px;
-   overflow: visible;
 }
 
 
@@ -257,16 +256,11 @@ ul  {
    gap: 20px;
 }
 
-audio {
-   width: 100%;
+.podcasts  {
+   flex-direction: column;
 }
 
-video {
-   width: 560px;
-   height: auto;
-}
-
-iframe {
+.videos iframe {
    width: 560px;
    height: 315px;
 }
@@ -506,7 +500,7 @@ p {
    
    /* Conteudo Colapsavel */
 
-   video, iframe {
+   .videos iframe {
       width: 100%;
    }
    

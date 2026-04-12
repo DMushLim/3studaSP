@@ -311,18 +311,16 @@ async function carregarConteudoFinal() {
 
             item.videos.forEach(v => {
 
-                if (v.includes('youtube') || v.includes('youtu.be')) {
-                    const iframe = document.createElement('iframe');
-                    iframe.src = v;
-                    iframe.allowFullscreen = true;
-                    containerVideos.appendChild(iframe);
-                } else {
-                    const video = document.createElement('video');
-                    video.src = v;
-                    video.controls = true;
-                    containerVideos.appendChild(video);
-                }
+                const iframe = document.createElement('iframe');
 
+                iframe.src = v;
+                iframe.allowFullscreen = true;
+                iframe.loading = "lazy";
+                iframe.frameBorder = "0";
+                iframe.allow =
+                    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+
+                containerVideos.appendChild(iframe);
             });
 
             corpo.appendChild(containerVideos);
@@ -331,7 +329,7 @@ async function carregarConteudoFinal() {
             colapsaveis.appendChild(corpo);
         }
 
-        // ===== PODCASTS =====
+        // ===== PODCASTS (COM IFRAME) =====
         if (item.podcasts?.length) {
 
             const header = criarCard('Podcasts (IA)', 'card card--roxo-claro card--botao');
@@ -350,12 +348,17 @@ async function carregarConteudoFinal() {
                 titulo.className = 'subtitulo';
                 titulo.textContent = p.titulo;
 
-                const audio = document.createElement('audio');
-                audio.src = p.src;
-                audio.controls = true;
+                const iframe = document.createElement('iframe');
+
+                iframe.src = p.embed;
+                iframe.width = "100%";
+                iframe.height = "30px";
+                iframe.frameBorder = "0";
+                iframe.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
+                iframe.loading = "lazy";
 
                 containerPodcasts.appendChild(titulo);
-                containerPodcasts.appendChild(audio);
+                containerPodcasts.appendChild(iframe);
             });
 
             corpo.appendChild(containerPodcasts);

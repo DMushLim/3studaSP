@@ -92,12 +92,12 @@
                 "videos": [
                   "https://www.youtube.com/embed/jz_As_nzSUA?si=90omIWIW1MIu7aBQ",
                   "https://www.youtube.com/embed/D8xQel1nhxg?si=dy1pj-zg0ku6fAlX",
-                  "media/1º Bimestre/LP/Resumo/Videos/Lendo_nas_Entrelinhas.mp4"
+                  "https://www.youtube.com/embed/Cq3a52B9_1E?si=AWnMw8c5y1IrZeYa"
                 ],
                 "podcasts": [
                   {
                     "titulo": "Do vaso grego ao poder do editorial",
-                    "src": "media/1º Bimestre/LP/Resumo/Podcasts/Do_vaso_grego_ao_poder_do_editorial.m4a"
+                    "embed": "https://archive.org/embed/do-vaso-grego-ao-poder-do-editorial"
                   }
                 ]
               }
@@ -184,7 +184,7 @@
                   "</ul>"
                 ],
                 "videos": [
-                  "media/1º Bimestre/História/Resumo/Videos/A_Espada_de_Dois_Gumes_do_Progresso.mp4",
+                  "https://www.youtube.com/embed/FvWJsXhGIdc?si=93TdRwe7PAOhsgH6",
                   "https://www.youtube.com/embed/tGsIuYPGl5s?si=H2Qw5D1tbL1Kv5qa",
                   "https://www.youtube.com/embed/_fyQjzR6Sm0?si=CnYait0eriOdAV37",
                   "https://www.youtube.com/embed/4se98HyqhtU?si=0xeO4kUnm_A4QojE",
@@ -193,7 +193,7 @@
                 "podcasts": [
                   {
                   "titulo": "O custo humano das revoluções industriais",
-                  "src": "media/1º Bimestre/História/Resumo/Podcasts/O_custo_humano_das_revoluções_industriais.m4a"
+                  "embed": "https://archive.org/embed/o-custo-humano-das-revolucoes-industriais"
                 }
                 ]
               }

@@ -354,7 +354,7 @@ async function carregarConteudoFinal() {
                 iframe.width = "100%";
                 iframe.height = "30px";
                 iframe.frameBorder = "0";
-                iframe.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
+                iframe.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture; webkitallowfullscreen; mozallowfullscreen";
                 iframe.loading = "lazy";
 
                 containerPodcasts.appendChild(titulo);

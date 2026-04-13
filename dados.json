@@ -192,9 +192,176 @@
                 ],
                 "podcasts": [
                   {
-                  "titulo": "O custo humano das revoluções industriais",
-                  "embed": "https://archive.org/embed/o-custo-humano-das-revolucoes-industriais"
-                }
+                    "titulo": "O custo humano das revoluções industriais",
+                    "embed": "https://archive.org/embed/o-custo-humano-das-revolucoes-industriais"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Matemática",
+        "canais": [
+          {
+            "nome": "Dicasdemat Sandro Curió",
+            "imagem": "https://yt3.googleusercontent.com/ytc/AIdro_mRbvYBdE058O7f7q0sdVQpy6yrm9Od-7oM_2zeLLjEs7U=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@sandrocuriodicasdemat"
+          },
+          {
+            "nome": "Gis com Giz Matemática",
+            "imagem": "https://yt3.googleusercontent.com/vXxFWAIMCsWqvtbVhKil1Qpu0SMoayFc_O_85o7eCgGQ91sJ9CGG356VIZVmZk2L5kJ6J-2MMA=s160-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/@Giscomgiz"
+          }
+        ],
+        "conteudos": [
+          {
+            "titulo": "Equações do 1º Grau"
+          },
+          {
+            "titulo": "Equações do 2º Grau"
+          },
+          {
+            "titulo": "Sistemas Lineares de 1º Grau"
+          },
+          {
+            "titulo": "Sistemas Lineares 3x3 e Escalonamento"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>Introdução à Modelagem Matemática no Cotidiano</h2>",
+                  "<p>As equações de 1º e 2º grau vão muito além de exercícios abstratos: elas funcionam como ferramentas de tradução entre situações reais e linguagem matemática. Em termos simples, modelar é transformar um problema do mundo real em uma equação que possa ser resolvida logicamente.</p>",
+                  "<br>",
+                  "<p>Por exemplo, em decisões de negócios, saúde ou logística, essa habilidade permite prever resultados e encontrar equilíbrio entre variáveis. Em termos teóricos, isso representa a transição da matemática operacional (resolver contas) para a matemática estratégica (interpretar e decidir).</p>",
+                  "<br>",
+                  "<p>O objetivo central é desenvolver uma alfabetização matemática avançada: não apenas resolver equações, mas compreender quando e por que utilizá-las. Para isso, começamos pela base: as equações de 1º grau.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Princípio do Equilíbrio: Equações de 1º Grau</h2>",
+                  "<p>Equações de 1º grau aparecem quando há uma relação linear entre variáveis (sem expoentes maiores que 1). O método central é o isolamento da incógnita, baseado na propriedade da igualdade: tudo o que se faz de um lado da equação deve ser feito do outro.</p>",
+                  "<br>",
+                  "<p><em>Analogia simples:</em> uma balança. Se você adiciona peso de um lado, precisa fazer o mesmo do outro para manter o equilíbrio.</p>",
+                  "<br>",
+                  "<p><strong>Exemplo prático:</strong></p>",
+                  "<p>Uma empresa cobra taxa fixa + valor por produto.</p>",
+                  "<br>",
+                  "<p><strong>Antes:</strong> R$10 + R$25 por unidade<br><strong>Depois:</strong> R$15 + novo preço (x)<br>Mantendo o total para 5 unidades:<br>15 + 5x = 135</p>",
+                  "<br>",
+                  "<p><strong>Resolvendo:</strong></p>",
+                  "<p>Subtrai 15 → 5x = 120<br>Divide por 5 → x = 24</p>",
+                  "<br>",
+                  "<p><strong>Interpretação:</strong> ao aumentar a taxa fixa, o preço unitário precisa diminuir para manter o total. Na prática, isso evita tentativa e erro e permite decisões rápidas e precisas.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Equações de 2º Grau e Eficiência Cognitiva</h2>",
+                  "<p>Quando a variável aparece ao quadrado (x²), temos uma relação não linear, comum em problemas de área, crescimento ou geometria.</p>",
+                  "<br>",
+                  "<p><strong>Existem dois tipos principais:</strong></p>",
+                  "<br>",
+                  "<p><strong>a) Equações incompletas (ax² = b)</strong><br>Mais simples — resolvidas isolando x² e tirando a raiz.</p>",
+                  "<br>",
+                  "<p><strong>Exemplo:</strong></p>",
+                  "<p>Um designer usa 2.000 pastilhas para cobrir 45 m².</p>",
+                  "<br>",
+                  "<p><strong>Converte:</strong> 45 m² = 450.000 cm²<br><strong>Área por peça:</strong> 450.000 ÷ 2.000 = 225 cm²<br><strong>Equação:</strong> x² = 225 → x = 15 cm</p>",
+                  "<br>",
+                  "<p>Aqui, usar métodos simples reduz esforço mental (carga cognitiva).</p>",
+                  "<br>",
+                  "<p><strong>b) Equações completas (ax² + bx + c = 0)</strong><br>Exigem métodos mais robustos:</p>",
+                  "<ul>",
+                  "<li>Fatoração (quando possível)</li>",
+                  "<li>Completar quadrados</li>",
+                  "<li>Fórmula resolutiva (Bhaskara)</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>A Matemática do Bem-Estar: IMC como Modelo</h2>",
+                  "<p>O Índice de Massa Corporal (IMC) conecta matemática e saúde:</p>",
+                  "<p>IMC = peso / altura²</p>",
+                  "<br>",
+                  "<p><strong>Dependendo do objetivo, surgem diferentes equações:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Buscar peso:</strong> equação de 1º grau</li>",
+                  "<li><strong>Buscar altura:</strong> equação de 2º grau</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Exemplo prático:</strong></p>",
+                  "<p>Se o IMC e a altura são conhecidos, basta reorganizar a fórmula (linear).<br>Se a altura é desconhecida, ela aparece ao quadrado → exige raiz.</p>",
+                  "<br>",
+                  "<p><strong>Importância:</strong> esse cálculo define diagnósticos médicos (peso normal, sobrepeso, obesidade), impactando decisões clínicas.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Arsenal de Resolução em Equações Quadráticas</h2>",
+                  "<p>A fatoração é uma estratégia que consiste em reescrever a equação do 2º grau como um produto de dois fatores. Em vez de resolver diretamente a expressão completa, transformamos o problema em algo mais simples: encontrar dois números que, ao serem multiplicados, resultam na expressão original.</p>",
+                  "<br>",
+                  "<p>Resumo: fatorar é “quebrar” a equação em partes menores que revelam diretamente as soluções.</p>",
+                  "<br>",
+                  "<p><strong>Exemplo simples:</strong></p>",
+                  "<p>x² − 12x + 35 = 0<br>Buscamos dois números que:<br>somem −12<br>multipliquem 35</p>",
+                  "<br>",
+                  "<p>Esses números são −5 e −7. Então:<br>(x − 5)(x − 7) = 0</p>",
+                  "<br>",
+                  "<p>Pela propriedade do produto nulo:<br>x − 5 = 0 → x = 5<br>x − 7 = 0 → x = 7</p>",
+                  "<br>",
+                  "<p>Analogia: é como descobrir quais dois “blocos” formam uma estrutura maior — ao separar, fica mais fácil entender o todo.</p>",
+                  "<br>",
+                  "<p>Na prática, a fatoração é o método mais eficiente quando a equação permite decomposição simples, pois evita cálculos mais longos como a fórmula resolutiva. No entanto, nem toda equação pode ser fatorada facilmente, o que exige outras abordagens.</p>",
+                  "<br>",
+                  "<p><strong>Elemento-chave:</strong> o discriminante (Δ = b² − 4ac)</p>",
+                  "<ul>",
+                  "<li>Δ > 0 → duas soluções reais</li>",
+                  "<li>Δ = 0 → uma solução</li>",
+                  "<li>Δ < 0 → nenhuma solução real</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Exemplo (jogo da serpente):</strong></p>",
+                  "<p>Área cresce conforme x(5x+12)<br>Após crescimento:<br>5x² + 12x − 32 = 0</p>",
+                  "<br>",
+                  "<p>Δ positivo indica que o problema tem solução real — ou seja, o cenário é possível.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Aplicações Práticas Multidisciplinares</h2>",
+                  "<p>A matemática conecta áreas diferentes com a mesma lógica:</p>",
+                  "<ul>",
+                  "<li><strong>a) Vendas e precificação:</strong> Ajustar preço mantendo faturamento exige equações lineares.</li>",
+                  "<li><strong>b) Construção e design:</strong> Cálculo de áreas (pastilhas, mosaicos) → equações quadráticas.</li>",
+                  "<li><strong>c) Medicina (posologia):</strong> Equação: x² − 12x + 35 = 0<br>Raízes: 5 e 7<br>Remédio A → 7 dias<br>Remédio B → 5 dias<br>Erro aqui não é só matemático — afeta diretamente a saúde.</li>",
+                  "<li><strong>d) Logística e iluminação:</strong> Uso de refletores parabólicos exige cálculos de área e dimensão.</li>",
+                  "<li><strong>e) Jogos e tecnologia:</strong> Crescimento de objetos (como a “serpente”) modelado por funções quadráticas.</li>",
+                  "<li><strong>f) Gestão de estoque (ENEM):</strong> Alterar quantidade e preço mantendo receita exige modelagem algébrica precisa.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese e Verificação Estratégica</h2>",
+                  "<p>A matemática não é o fim — é um meio para tomar decisões melhores. Ela organiza informações e reduz incerteza.</p>",
+                  "<br>",
+                  "<p><strong>Checklist mental:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Classificação:</strong> é equação de 1º ou 2º grau?</li>",
+                  "<li><strong>Método:</strong> usei o procedimento adequado (isolamento, raiz, Bhaskara)?</li>",
+                  "<li><strong>Validação:</strong> o resultado faz sentido no mundo real? (Ex: não existem medidas negativas ou dias negativos)</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Conclusão (visão geral)</h2>",
+                  "<p>Equações são ferramentas de modelagem da realidade.</p>",
+                  "<ul>",
+                  "<li>1º grau → relações lineares e diretas</li>",
+                  "<li>2º grau → relações mais complexas (área, crescimento)</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p>Dominar esses conceitos significa sair da execução mecânica e alcançar pensamento estratégico — capaz de analisar, prever e decidir com base lógica e consistente.</p>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/JXskRIR_hFk?si=TORcBEWys38PAuNA",
+                  "https://www.youtube.com/embed/x4k8950MVeg?si=-2RuhI9fEfEnN80X",
+                  "https://www.youtube.com/embed/r-Vuvb18kUk?si=WkBrKxBF60Sq00LN",
+                  "https://www.youtube.com/embed/r-Vuvb18kUk?si=TCJMuwPhLLTjXIUu",
+                  "https://www.youtube.com/embed/cs0BdQyP7ZY?si=IZfDTcGvBy5TGJbX",
+                  "https://www.youtube.com/embed/yFlM17_eEso?si=YhJZP3sBnjFNeZDL"
+                ],
+                "podcasts": [
+                  {"titulo": "Do Lanche À Medicina com Equações",
+                  "embed": "https://archive.org/embed/do-lanche-a-medicina-com-equacoes"
+                  }
                 ]
               }
             ]

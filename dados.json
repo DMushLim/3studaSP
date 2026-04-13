@@ -106,6 +106,102 @@
         ]
       },
       {
+        "nome": "Língua Inglesa",
+        "conteudos": [
+          {
+            "titulo": "Estratégias de Leitura Rápida (Skimming e Scanning)"
+          },
+          {
+            "titulo": "Análise de Questões e Identificação de Distratores"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>Introdução à Dinâmica dos Exames de Inglês</h2>",
+                  "<p>O sucesso em vestibulares e concursos de alta performance não é um subproduto do acúmulo passivo de vocabulário, mas sim da compreensão da engenharia por trás das provas. Muitos candidatos falham ao acreditar que a fluência é o único requisito, ignorando que estas avaliações são projetadas para medir a capacidade de processamento de informação sob critérios lógicos rigorosos. O objetivo fundamental das bancas é avaliar sua familiaridade com uma rotina de estudos estratégica e sua habilidade em navegar por textos complexos para extrair dados objetivos. Antes de decifrar nuances gramaticais, o estudante de elite deve dominar a lógica sistêmica do exame, tratando o texto não como uma peça literária, mas como um campo de extração de evidências.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>A Base da Eficiência: Rotina e Técnicas de Leitura</h2>",
+                  "<p>No cenário de alta performance, a organização e a técnica superam a tentativa inútil de tradução literal. O cérebro humano tende a gastar energia cognitiva excessiva tentando interpretar cada palavra, o que gera fadiga e perda de tempo. Para mitigar isso, aplicamos ferramentas de abordagem tática que blindam o candidato contra a subjetividade:</p>",
+                  "<br>",
+                  "<p><strong>Skimming:</strong> Funciona como olhar um mapa para encontrar uma cidade. É uma leitura macroscópica e veloz para captar a ideia central, o tom do autor e a estrutura do texto. O objetivo é identificar o \"terreno\" sem se perder nos detalhes.</p>",
+                  "<p><strong>Scanning:</strong> Equivale a procurar o número de uma casa específica em uma rua. Aqui, o olhar busca \"marcadores técnicos\" específicos mencionados no enunciado, como datas, nomes próprios, materiais e especificações técnicas.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Anatomia da Questão: Fact and Detail Questions</h2>",
+                  "<p>As Fact and Detail Questions são a espinha dorsal dos vestibulares. Elas exigem a localização de informações explicitamente declaradas no material de apoio. O objetivo aqui é puramente documental: localizar fatos e detalhes que não permitem margem para discussão.</p>",
+                  "<br>",
+                  "<p>Dominar este conceito transforma a prova em uma caça às evidências. Em casos como o texto sobre as \"Blood Falls\" na Antártida, a banca pode questionar a causa da cor vermelha. Se o texto afirma explicitamente que é devido à \"oxidação do ferro em contato com o oxigênio\", qualquer outra alternativa — mesmo que pareça cientificamente plausível — deve ser descartada se não houver prova física nas linhas do parágrafo. O impacto estratégico é claro: você para de \"achar\" e passa a \"comprovar\". O exame recompensa a validação, não o pensamento criativo.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Manual de Defesa: Identificando Distratores</h2>",
+                  "<p>As bancas utilizam uma sofisticada engenharia de distração para filtrar candidatos reativos que realizam leituras superficiais. O distrator é uma alternativa desenhada para parecer logicamente correta, mas que possui um vício de origem que a invalida completamente.</p>",
+                  "<br>",
+                  "<p><strong>Alteração de Elemento Único</strong></p>",
+                  "<p>As bancas constroem frases quase idênticas ao texto, mas alteram um único termo crucial. Funciona como uma senha de banco: um dígito incorreto anula todo o acesso.</p>",
+                  "<br>",
+                  "<p><strong>Exemplo Prático:</strong> Se o texto descreve que o pai de um personagem \"dirige um caminhão\" (drives a truck), a alternativa que afirma que ele é \"motorista de ônibus\" está sumariamente incorreta. A estrutura da frase é mantida para seduzir o leitor desatento, mas o dado técnico foi corrompido.</p>",
+                  "<br>",
+                  "<p><strong>O Erro por Exagero (Intensidade e Quantidade)</strong></p>",
+                  "<p>Este distrator é um dos mais insidiosos, pois utiliza elementos presentes no texto, mas distorce sua proporção, agindo tanto para mais quanto para menos (maximização ou minimização).</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Maximização:</strong> O texto diz que \"algumas\" (some) pessoas gostam de algo; a alternativa diz \"muitas\" ou \"todas\".</li>",
+                  "<li><strong>Minimização:</strong> O texto aponta que o sol brilha na \"maior parte do tempo\" (most of the time); a alternativa reduz para \"raramente\".</li>",
+                  "<li><strong>Exercício Mental:</strong> Em um texto sobre o lazer de Jack, se o autor diz que ele \"geralmente\" aproveita os fins de semana, a alternativa que afirma que ele \"sempre\" aproveita é um erro por exagero de frequência.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Fatos Externos (A \"Verdade\" Fora do Texto)</strong></p>",
+                  "<p>Este distrator testa sua disciplina intelectual. Ele traz afirmações que são fatos reais no mundo, mas que não constam no texto.</p>",
+                  "<br>",
+                  "<p><strong>Estudo de Caso:</strong> Em um texto sobre Carros Elétricos focado em emissões zero, uma alternativa pode dizer: \"Carros elétricos são o futuro da energia verde e economizam dinheiro a longo prazo\". Embora isso possa ser verdade na economia real, se o parágrafo de apoio não mencionou o aspecto financeiro, a alternativa está estratégicamente errada.</p>",
+                  "<br>",
+                  "<p><strong>Pro-Tip:</strong> O texto é o seu universo absoluto. Nada existe fora de suas bordas durante a resolução. Se a informação não foi fornecida pelo autor, ela é um \"ruído\" externo que deve ser ignorado.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese Estratégica e Dicas para a Prova</h2>",
+                  "<p>A confiança para a aprovação nasce da aplicação consistente desses filtros de defesa. Ao reduzir a prova a uma série de verificações técnicas, você elimina a ansiedade e foca na precisão.</p>",
+                  "<br>",
+                  "<p><strong>Dicas de Ouro para a Performance Máxima:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Validação Documental:</strong> Nunca marque uma alternativa baseando-se na memória. Localize fisicamente o trecho no texto antes de decidir.</li>",
+                  "<li><strong>Rastreio de Absolutos:</strong> Desconfie imediatamente de termos como always, never, all, only ou none. Se o texto não for categoricamente absoluto, a alternativa é um distrator por exagero.</li>",
+                  "<li><strong>Neutralidade Cognitiva:</strong> Isole seus conhecimentos prévios. Se você é um especialista no tema do texto, redobre o cuidado: seu cérebro tentará preencher lacunas com informações que não estão no papel.</li>",
+                  "<li><strong>Scanning de Precisão:</strong> Use o rastreamento rápido para validar especificações técnicas, como o uso de \"drones\" em pesquisas arqueológicas ou nomes de materiais específicos (ex: brine saltwater, oxidized iron). Se o material mencionado for diferente, a alternativa é falsa.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Glossário Importante</h2>",
+                  "<p>Algumas traduções que podem ser fundamentais para a interpretação de questões</p>",
+                  "<ul>",
+                  "<li><strong>Always:</strong> Sempre → I <strong>always</strong> play soccer (Eu <strong>sempre</strong> jogo futebol)</li>",
+                  "<li><strong>Never:</strong> Nunca → You <strong>never</strong> have breakfast (Você <strong>nunca</strong> toma café da manhã)</li>",
+                  "<li><strong>Usually:</strong> Geralmente → She <strong>usually</strong> studies at home (Ela <strong>geralmente</strong> estuda em casa)</li>",
+                  "<li><strong>Sometimes:</strong> Às vezes → Dogs <strong>sometimes</strong> bite people (Cachorros <strong>às vezes</strong> mordem pessoas)</li>",
+                  "<li><strong>Rarely:</strong> Raramente → My father <strong>rarely</strong> eats cake (Meu pai <strong>raramente</strong> come bolo)</li>",
+                  "</ul>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Only:</strong> Apenas → <strong>Only</strong> two students came to class (<strong>Apenas</strong> dois alunos vieram para a aula)" ,
+                  "<li><strong>Some:</strong> Algumas → <strong>Some</strong> people like Math (<strong>Algumas</strong> pessoas gostam de Matemática)</li>",
+                  "<li><strong>Many/much:</strong> Muitas → <strong>Many</strong> cities are noisy (<strong>Muitas</strong> cidades são barulhentas)</li>",
+                  "<li><strong>Few/little:</strong> Poucas → <strong>Few</strong> things can hurt blue whales (<strong>Poucas</strong> coisas podem machucar baleias-azuis)</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/Ba7qsdw-xR8?si=eO-Q57HHfVoGxosU",
+                  "https://www.youtube.com/embed/C-Mc6SlvrfM?si=dq3jhFPrtWp0BjLZ"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "Gabarite Inglês Sem Traduzir Tudo",
+                    "embed": "https://archive.org/embed/gabarite-ingles-sem-traduzir-tudo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "nome": "História",
         "canais": [
           {
@@ -141,7 +237,7 @@
                   "<h2 class='subtitulo'>O Imperialismo no Século XIX: Fundamentos e Divergências</h2>",
                   "<p>O imperialismo é definido como o processo histórico no qual nações capitalistas desenvolvidas expandiram seu domínio, subjugando outros povos e criando dependência política e econômica. Entre 1870 e 1914, essa expansão foi vista como uma solução para as crises econômicas causadas pelo acirramento da concorrência internacional.</p>",
                   "<br>",
-                  "<h2 class='subtitulo'>Comparativo: Colonialismo vs. Imperialismo</h2>",
+                  "<p><strong>Comparativo: Colonialismo vs. Imperialismo</strong></p>",
                   "<dl><dt><strong>Colonialismo (Sécs. XVI - XVIII):</strong></dt><dd><strong>Área de Foco:</strong> Américas<br><strong>Objetivo Principal:</strong> Extração de metais preciosos e produtos agrícolas<br><strong>Mão de Obra:</strong> Trabalho escravizado<br><strong>Agentes:</strong> Metrópoles europeias (Portugal, Espanha, etc.)</dd><dt><strong>Imperialismo (Séc. XIX - Início XX):</strong></dt><dd><strong>Área de Foco:</strong> África e Ásia<br><strong>Objetivo Principal:</strong> Recursos estratégicos, mercados e investimento de capital<br><strong>Mão de Obra:</strong> Subjugação de povos para fins industriais e financeiros<br><strong>Agentes:</strong> Potências industriais (Europa, EUA e Japão)</dd></dl>",
                   "<br>",
                   "<h2 class='subtitulo'>A Conferência de Berlim (1884-1885) e a Partilha da África</h2>",
@@ -359,8 +455,9 @@
                   "https://www.youtube.com/embed/yFlM17_eEso?si=YhJZP3sBnjFNeZDL"
                 ],
                 "podcasts": [
-                  {"titulo": "Do Lanche À Medicina com Equações",
-                  "embed": "https://archive.org/embed/do-lanche-a-medicina-com-equacoes"
+                  {
+                    "titulo": "Do Lanche À Medicina com Equações",
+                    "embed": "https://archive.org/embed/do-lanche-a-medicina-com-equacoes"
                   }
                 ]
               }

@@ -180,7 +180,7 @@
                   "</ul>",
                   "<br>",
                   "<ul>",
-                  "<li><strong>Only:</strong> Apenas → <strong>Only</strong> two students came to class (<strong>Apenas</strong> dois alunos vieram para a aula)" ,
+                  "<li><strong>Only:</strong> Apenas → <strong>Only</strong> two students came to class (<strong>Apenas</strong> dois alunos vieram para a aula)",
                   "<li><strong>Some:</strong> Algumas → <strong>Some</strong> people like Math (<strong>Algumas</strong> pessoas gostam de Matemática)</li>",
                   "<li><strong>Many/much:</strong> Muitas → <strong>Many</strong> cities are noisy (<strong>Muitas</strong> cidades são barulhentas)</li>",
                   "<li><strong>Few/little:</strong> Poucas → <strong>Few</strong> things can hurt blue whales (<strong>Poucas</strong> coisas podem machucar baleias-azuis)</li>",
@@ -458,6 +458,157 @@
                   {
                     "titulo": "Do Lanche À Medicina com Equações",
                     "embed": "https://archive.org/embed/do-lanche-a-medicina-com-equacoes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Física",
+        "canais": [],
+        "conteudos": [
+          {
+            "titulo": "Fundamentos da Eletrostática e Processos de Eletrização"
+          },
+          {
+            "titulo": "Lei de Coulomb e Interação entre Cargas"
+          },
+          {
+            "titulo": "Campo Elétrico e o Princípio da Superposição"
+          },
+          {
+            "titulo": "Potencial Elétrico e Trabalho"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>Estrutura Atômica e Carga Elétrica</h2>",
+                  "<p><strong>Resumo:</strong><br>A eletricidade começa no átomo. Tudo depende do comportamento dos elétrons.</p>",
+                  "<br>",
+                  "<p><strong>Ideia central:</strong></p>",
+                  "<ul>",
+                  "<li><strong>O átomo possui:</strong></li>",
+                  "<li><strong>Prótons (+):</strong> no núcleo</li>",
+                  "<li><strong>Elétrons (−):</strong> ao redor (eletrosfera)</li>",
+                  "<li><strong>Nêutrons (0):</strong> no núcleo</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>O que realmente se move são os elétrons.</strong></p>",
+                  "<br>",
+                  "<p><strong>Estados elétricos:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Neutro:</strong> prótons = elétrons</li>",
+                  "<li><strong>Positivo:</strong> perdeu elétrons</li>",
+                  "<li><strong>Negativo:</strong> ganhou elétrons</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Exemplo:</strong></p>",
+                  "<p><strong>Um objeto neutro tem:</strong><br>10 prótons e 10 elétrons</p>",
+                  "<br>",
+                  "<p>Se ele perde 3 elétrons:<br>10 prótons e 7 elétrons</p>",
+                  "<br>",
+                  "<p><strong>Resultado:</strong> carga positiva (+3)</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Materiais: Condutores e Isolantes</h2>",
+                  "<p><strong>Resumo:</strong><br>Define se as cargas conseguem ou não se mover.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Condutores:</strong> Possuem elétrons livres<br>Permitem movimento fácil de cargas<br>Ex: metais<br>A carga se distribui na superfície externa</li>",
+                  "<li><strong>Isolantes:</strong> Elétrons presos ao átomo<br>Dificultam o movimento de cargas<br>Ex: plástico, borracha</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Analogia:</strong><br>Condutor → rodovia livre<br>Isolante → estrada bloqueada</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Processos de Eletrização</h2>",
+                  "<p><strong>Resumo:</strong><br>Explica como um corpo ganha ou perde elétrons.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Atrito:</strong> Esfregar dois materiais diferentes<br>Um ganha elétrons e outro perde<br><strong>Resultado:</strong> cargas opostas<br>Exemplo: balão no cabelo</li>",
+                  "<li><strong>Contato:</strong> Um corpo carregado toca um neutro<br>As cargas se redistribuem<br><strong>Resultado:</strong> ambos ficam com mesmo sinal<br><strong>Exemplo prático:</strong> Soma das cargas se divide igualmente (se forem iguais)</li>",
+                  "<li><strong>Indução:</strong> Não há contato<br>Ocorre reorganização de cargas<br><strong>Passos corretos:</strong><br>Aproxima o corpo carregado<br>Liga à terra<br>Desliga da terra<br>Afasta o indutor<br><strong>Resultado:</strong> carga oposta ao indutor</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Importante:</strong> só elétrons se movem, nunca prótons.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Princípios Fundamentais</h2>",
+                  "<p><strong>Resumo:</strong><br>São as “leis básicas” da eletricidade.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Conservação da carga:</strong> A carga total não muda<br>Apenas se transfere<br><strong>Exemplo:</strong> Se um sistema tem 18 C, continuará com 18 C após qualquer interação.</li>",
+                  "<li><strong>Quantização da carga:</strong> A carga vem em “pacotes”<br><strong>Fórmula:</strong> Q = n · e<br>e = 1,6 × 10<sup>−19</sup> C<br>n é inteiro<br><strong>Ideia prática:</strong> Não existe “meio elétron”.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Lei de Coulomb (Força Elétrica)</h2>",
+                  "<p><strong>Resumo:</strong><br>Define como cargas se atraem ou se repelem.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Sinais iguais:</strong> repelem</li>",
+                  "<li><strong>Sinais opostos:</strong> atraem</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Fórmula:</strong><br>F = k · (q₁ · q₂) / r<sup>2</sup></p>",
+                  "<br>",
+                  "<p><strong>Depende de:</strong><br>valor das cargas<br>distância (quanto maior, menor a força)<br>meio</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Campo Elétrico</h2>",
+                  "<p><strong>Resumo:</strong><br>Mostra como uma carga influencia o espaço ao redor.</p>",
+                  "<br>",
+                  "<p>É uma região de ação<br>Representado por vetores</p>",
+                  "<br>",
+                  "<p><strong>Fórmula:</strong><br>E = k · q / r<sup>2</sup></p>",
+                  "<br>",
+                  "<p><strong>Linhas de campo:</strong></p>",
+                  "<ul>",
+                  "<li>Saem do positivo</li>",
+                  "<li>Entram no negativo</li>",
+                  "</ul>",
+                  "<p><strong>Princípio da Superposição:</strong> Campos se somam vetorialmente</p>",
+                  "<br>",
+                  "<p><strong>Analogia:</strong><br><strong>Duas pessoas empurrando:</strong><br>mesmo sentido → soma<br>sentidos opostos → subtração</p>",
+                  "<br>",
+                  "<p><strong>Aplicação importante:</strong> Interior de condutores pode ter campo nulo (ex: proteção contra raios → efeito tipo “gaiola”).</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Potencial Elétrico e Trabalho</h2>",
+                  "<p><strong>Resumo:</strong><br>Relaciona eletricidade com energia.</p>",
+                  "<br>",
+                  "<p><strong>Potencial:</strong> energia por carga<br>Define capacidade de realizar trabalho</p>",
+                  "<br>",
+                  "<p><strong>Fórmula:</strong><br>V = k · q / r</p>",
+                  "<br>",
+                  "<p><strong>Ideia simples:</strong><br>Assim como altura → energia gravitacional<br>Potencial → energia elétrica<br>Diferença de potencial (ddp) faz cargas se moverem.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Resumo Final Integrado (visão geral)</h2>",
+                  "<ul>",
+                  "<li><strong>Átomo:</strong> origem das cargas (elétrons se movem)</li>",
+                  "<li><strong>Materiais:</strong> controlam o movimento das cargas</li>",
+                  "<li><strong>Eletrização:</strong> explica como corpos ficam carregados</li>",
+                  "<li><strong>Leis (conservação + quantização):</strong> garantem consistência física</li>",
+                  "<li><strong>Lei de Coulomb:</strong> descreve a força</li>",
+                  "<li><strong>Campo elétrico:</strong> mostra a influência no espaço</li>",
+                  "<li><strong>Potencial elétrico:</strong> conecta com energia</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Dicas práticas para entender melhor</h2>",
+                  "<ul>",
+                  "<li><strong>Sempre pense:</strong> quem está se movendo? → elétrons</li>",
+                  "<li><strong>Sempre verifique:</strong> o sinal da carga</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Em problemas:</strong><br>conserve carga<br>use soma vetorial para campos<br>Em indução: ordem dos passos é essencial</p>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/gFCbccO607w?si=ZfJzt3J3zJrNUyZS",
+                  "https://www.youtube.com/embed/_QaGh1Y5cNM?si=mQCyqJIJjqFxB4jC"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "Como A Eletrostática Blinda Os Aviões",
+                    "embed": "https://archive.org/embed/como-a-eletrostatica-blinda-os-avioes"
                   }
                 ]
               }

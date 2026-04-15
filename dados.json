@@ -914,6 +914,110 @@
             ]
           }
         ]
+      },
+      {
+        "nome": "Atualidades",
+        "canais": [],
+        "conteudos": [
+          {
+            "titulo": "Verdade, Desinformação e o Impacto das Deepfakes"
+          },
+          {
+            "titulo": "Arte, Autoria e Ética na Era Algorítmica"
+          },
+          {
+            "titulo": "Argumentação e Escrita: O Gênero Editorial"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>O Que São Deepfakes? A Tecnologia da Simulação</h2>",
+                  "<p>A manipulação de imagens não é uma invenção da era digital. Historicamente, fotografias já eram alteradas para influenciar a opinião pública e construir narrativas de poder muito antes do Photoshop, como mostram registros clássicos da National Geographic sobre manipulações em filmes físicos. A diferença é que a IA trouxe uma precisão e velocidade sem precedentes.</p>",
+                  "<br>",
+                  "<p><strong>Analogia Simplificada:</strong> A Máscara Digital Imagine uma \"máscara digital\" altamente realista. Ao contrário de uma máscara de plástico, esta é feita de código e algoritmos. Ela consegue copiar perfeitamente os movimentos do rosto, as expressões e até o tom de voz de uma pessoa real, sobrepondo-os a outra pessoa de forma quase imperceptível.</p>",
+                  "<br>",
+                  "<p><strong>Componentes Básicos:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Inteligência Artificial Generativa:</strong> Programas treinados em vastos bancos de dados para \"gerar\" novos conteúdos (imagens, sons e vídeos).</li>",
+                  "<li><strong>Simulação de Gestos e Vozes:</strong> A IA analisa padrões de comportamento para recriar trejeitos e sons idênticos aos do alvo.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p>E por que isso é tão perigoso? Diferente de uma montagem comum, a verossimilhança (aparência de verdade) da deepfake é tão alta que ela engana nossos sentidos. Um ponto central para sua prova é a questão da rastreabilidade: como é difícil identificar a origem real desses vídeos, eles se tornam ferramentas perfeitas para a guerra psicológica, onde o objetivo é destruir a reputação de alguém ou desestabilizar a confiança pública.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Deepfakes na Esfera Pública: Casos e Consequências</h2>",
+                  "<p>Analisar casos reais nos ajuda a perceber como a desinformação molda a percepção pública em momentos críticos.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Conflitos Internacionais:</strong> Em 2022, um vídeo falso do presidente ucraniano Zelensky anunciando uma rendição foi transmitido por hackers. O objetivo era usar a tecnologia para desmoralizar tropas e civis.</li>",
+                  "<li><strong>Disputas Políticas:</strong> Na Argentina, deepfakes foram usadas para simular que o ex-presidente Macri retirava seu apoio a um aliado para apoiar a figura de Adorni, visando confundir o eleitorado e orientar as simpatias do público de forma artificial.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Atenção para a Prova (Regulamentação no Brasil):</strong> Um fato essencial para qualquer avaliação é que, no Brasil, o TSE (Tribunal Superior Eleitoral) já proibiu o uso de deepfakes para fins eleitorais. Essa é uma resposta direta à necessidade de proteger a integridade do voto.</p>",
+                  "<br>",
+                  "<p><strong>Sátira vs. Desinformação</strong></p>",
+                  "<ul>",
+                  "<li><strong>Sátira/Humor:</strong> Obra com tom jocoso ou sarcástico que critica figuras públicas para divertir ou provocar reflexão, sem a intenção primária de enganar sobre o fato.</li>",
+                  "<li><strong>Desinformação:</strong> Conteúdo fabricado deliberadamente para enganar, alterar percepções e prejudicar a confiança em pessoas ou instituições.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Algoritmos, Crenças e a Fabricação da Verdade</h2>",
+                  "<p>As redes sociais utilizam algoritmos que decidem o que você vê. Essa escolha automática está diretamente ligada ao que passamos a aceitar como verdade.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Pós-verdade:</strong> Fenômeno onde fatos objetivos pesam menos do que emoções e crenças pessoais. Se um vídeo confirma o que você já sente, você tende a acreditar nele, mesmo que seja falso.</li>",
+                  "<li><strong>Curadoria Informacional:</strong> É a sua responsabilidade ética ao selecionar e compartilhar conteúdos. O usuário deve ser um filtro ativo, e não apenas um repassador de informações.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>O Conflito Central:</strong> A Tríade da Sociedade Digital Para exames dissertativos, lembre-se de que a sociedade vive hoje uma tensão entre três pilares:</p>",
+                  "<ul>",
+                  "<li><strong>Liberdade:</strong> (de expressão e criação);</li>",
+                  "<li><strong>Inovação:</strong> (desenvolvimento de novas tecnologias);</li>",
+                  "<li><strong>Segurança Informacional:</strong> (o direito do cidadão de não ser enganado por mentiras fabricadas).</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p>Os algoritmos muitas vezes privilegiam o engajamento emocional, criando \"bolhas\" que reforçam preconceitos e dificultam o debate público saudável.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Inteligência Artificial na Arte e Autoria Moderna</h2>",
+                  "<p>A IA generativa também é uma ferramenta de criação cultural, mas levanta dilemas éticos profundos.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Recriação de Pessoas:</strong> É possível usar IA para \"trazer de volta\" artistas falecidos ou rejuvenescer atores. Nesses casos, a tecnologia usa gatilhos sensoriais, como trilhas sonoras emocionantes, para construir uma conexão sentimental e persuadir o espectador, muitas vezes contornando nosso pensamento crítico através da emoção.</li>",
+                  "<li><strong>Os Desafios da Autoria:</strong><ul><li><strong>Propriedade dos dados:</strong> Se uma IA é treinada usando milhares de obras feitas por artistas humanos, quem é o dono do resultado final?</li><li><strong>Direito à Imagem:</strong> Até que ponto é ético usar a imagem de alguém que não pode mais autorizar esse uso?</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese Final e Dicas para a Prova</h2>",
+                  "<p>Agora, vamos transformar essa reflexão crítica em pontos práticos para sua avaliação. Ser um cidadão alfabetizado digitalmente é a melhor defesa para a democracia.</p>",
+                  "<br>",
+                  "<p><strong>Dicas de Ouro</strong></p>",
+                  "<ul>",
+                  "<li><strong>Verificação de Fatos (Fact-checking):</strong> A dúvida é sua melhor amiga. Antes de compartilhar, verifique se veículos de imprensa profissionais confirmam a informação.</li>",
+                  "<li><strong>Transparência Ética:</strong> O uso de IA deve ser claro. O público tem o direito fundamental de saber se o que está consumindo é uma gravação real ou uma simulação computacional.</li>",
+                  "<li><strong>Alfabetização Midiática:</strong> Entenda que toda mídia tem uma intenção. Aprender a \"ler\" as intenções por trás de um vídeo manipulado é essencial para não ser alvo de manipulação.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Perguntas Reflexivas para Estudo</strong></p>",
+                  "<ul>",
+                  "<li>É possível proibir totalmente as deepfakes sem ferir a liberdade de expressão artística e o humor?</li>",
+                  "<li>Como a falta de rastreabilidade das deepfakes facilita a prática da guerra psicológica em períodos de crise?</li>",
+                  "<li>De que forma o uso de trilhas sonoras e elementos emocionais em vídeos de IA pode \"enganar\" nosso cérebro, fazendo-nos aceitar uma simulação como verdade?</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/qIQpyPUBG-M?si=IEyPaUTawycDXUYx"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "IA Generativa E O Colapso Da Verdade",
+                    "embed": "https://archive.org/embed/ia-generativa-e-o-colapso-da-verdade"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

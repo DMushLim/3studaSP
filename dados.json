@@ -615,6 +615,305 @@
             ]
           }
         ]
+      },
+      {
+        "nome": "Aprofundamento em Filosofia",
+        "canais": [],
+        "conteudos": [
+          {
+            "titulo": "A Transição do Mito ao Logos e a Natureza do Ser"
+          },
+          {
+            "titulo": "Ética, Política e o Papel do Cidadão"
+          },
+          {
+            "titulo": "O Mundo das Ideias e a Finalidade da Política"
+          },
+          {
+            "titulo": "Conhecimento, Bem-Viver e Escolas Helenísticas"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>A Transição do Mito ao Logos: O Nascimento da Razão</h2>",
+                  "<p>A Grécia Antiga protagonizou uma revolução mental: a substituição das explicações mitológicas pelo logos. Essa transição não foi a simples troca de uma história por outra, mas uma mudança radical no critério de validade do conhecimento. Enquanto o mito se baseia na autoridade da tradição e no sobrenatural, o logos exige investigação, coerência e prova racional.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>O Conceito de Logos e Arkhé:</strong><ul><li><strong>Logos:</strong> É a razão, o discurso e a lei que organiza o universo. Imagine o logos como a \"regra do jogo\" invisível que todos os fenômenos da natureza seguem. Ele torna o mundo inteligível.</li><li><strong>Arkhé:</strong> É o elemento fundamental, a \"matéria-prima\" ou o princípio que sustenta tudo o que existe. Os pré-socráticos buscavam na natureza (physis) a origem de todas as coisas.</li></ul></li>",
+                  "<li><strong>A Ciência do Ser (Ontologia):</strong><ul><li>Embora os primeiros filósofos tenham iniciado o estudo do ser, é um erro histórico comum atribuir a eles o termo \"Ontologia\". Fique atento: o termo foi cunhado apenas no século XVII pelo filósofo alemão Jacobus Thomasius. Etimologicamente, Onto (ser) e Logia (estudo/ciência) designam o campo que investiga a natureza da realidade, iniciado pelos \"filósofos da natureza\" (physis).</li></ul></li>",
+                  "<li><strong>Logos vs. Mito: O Enriquecimento do Olhar:</strong><ul><li>A razão não \"mata\" a imaginação; ela a eleva. Considere a analogia das nuvens: para a opinião comum (Dóxa), as nuvens podem ser \"fantasias de algodão doce\". Para a verdade racional (Alétheia), elas são o ciclo da água. Entender a ciência por trás do fenômeno não retira sua beleza, mas enriquece nossa admiração pelo mundo ao revelar sua lógica interna.</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Grande Debate Ontológico: Heráclito vs. Parmênides</h2>",
+                  "<p>Compreender o embate entre a mudança e a permanência é a chave para entender como a filosofia percebe a realidade até hoje. Este é o pilar central da metafísica ocidental.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Heráclito de Éfeso e o Eterno Devir:</strong><ul><li>Para Heráclito, o \"ser é devir\" (fluxo constante). Sua analogia clássica é a do rio: \"não se entra duas vezes no mesmo rio\", pois na segunda vez, as águas são outras e você já não é o mesmo.</li><li>Sua arkhé é o fogo primordial, uma natureza viva que se acende e apaga segundo o logos. O equilíbrio do mundo advém da \"luta entre opostos\" (dia/noite, guerra/paz).</li></ul></li>",
+                  "<li><strong>Parmênides de Eleia e a Imutabilidade:</strong><ul><li>Parmênides, em seu poema \"Sobre a Natureza\", descreve uma jornada guiada por uma deusa que lhe revela dois caminhos: a Via da Verdade (Alétheia), acessada pelo logos, que mostra o ser como eterno, único e imutável; e a Via da Opinião (Dóxa), baseada nos sentidos, que é fonte de ilusão e erro.</li><li>Para ele, a mudança é uma ilusão sensorial. O que é, não pode deixar de ser.</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Sócrates e a Revolução do Conhecimento Humano</h2>",
+                  "<p>Sócrates transformou a filosofia de uma observação da natureza em uma investigação da alma e da virtude (Areté). Em Atenas, ele não era apenas um crítico, mas um patriota e cidadão ativo na vida religiosa, o que torna sua condenação ainda mais complexa.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>As Lentes sobre Sócrates:</strong><ul><li>Sócrates não deixou escritos. Conhecemo-lo por quatro fontes principais: Platão (o mestre idealizado), Xenofonte (o cidadão prático), Aristófanes (a caricatura satírica na comédia) e Aristóteles (que analisa seu método lógico-indutivo).</li></ul></li>",
+                  "<li><strong>O Método Socrático: Dialética em Duas Fases:</strong><ul><li><strong>Exortação:</strong> O convite inicial para o debate, onde Sócrates atrai o interlocutor para o campo da investigação.</li><li><strong>Indagação (Maiêutica):</strong> A \"arte de dar à luz\". Assim como sua mãe era parteira, Sócrates ajudava as mentes a \"parirem\" suas próprias ideias. O ponto de partida é sempre a admissão da ignorância: \"Só sei que nada sei\".</li></ul></li>",
+                  "<li><strong>Sócrates vs. Sofistas:</strong><ul><li>Enquanto os sofistas eram professores itinerantes que cobravam para ensinar a retórica (persuasão para vencer debates na democracia), Sócrates usava a dialética para buscar a verdade, recusando pagamentos. Para ele, o conhecimento é uma busca ética, não uma mercadoria política.</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Impacto Estratégico:</strong> A admissão da ignorância socrática é o marco zero de qualquer ciência real. Alerta de Prova: Questões que opõem \"persuasão\" (sofistas) a \"verdade\" (Sócrates) são recorrentes. Lembre-se: para Sócrates, a verdade é parida de dentro para fora pela razão, nunca imposta por quem fala melhor.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese Estratégica e Dicas para a Prova</h2>",
+                  "<p>Para ter sucesso em filosofia, substitua a memorização mecânica pela compreensão das oposições fundamentais. O examinador quer saber se você identifica as tensões entre razão e sentido, ou entre mudança e permanência.</p>",
+                  "<br>",
+                  "<p><strong>Checklist de Conceitos-Chave:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Arkhé:</strong> Princípio primordial e fundamento da realidade.</li>",
+                  "<li><strong>Physis:</strong> A natureza viva estudada pelos pré-socráticos.</li>",
+                  "<li><strong>Logos:</strong> Razão universal que substitui a narrativa mítica.</li>",
+                  "<li><strong>Devir:</strong> O fluxo constante da realidade (Heráclito).</li>",
+                  "<li><strong>Alétheia vs. Dóxa:</strong> O caminho da verdade racional versus o caminho da opinião sensorial.</li>",
+                  "<li><strong>Exortação e Maiêutica:</strong> As duas etapas do diálogo socrático.</li>",
+                  "<li><strong>Dialética:</strong> O processo de investigação mútua em busca da verdade.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Dicas Práticas para Questões:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Gatilhos de Heráclito:</strong> Procure por \"fluxo\", \"opostos\", \"luta\", \"medida\" e \"fogo\". Lembre-se: aqui os sentidos revelam o conflito necessário da natureza.</li>",
+                  "<li><strong>Gatilhos de Parmênides:</strong> Procure por \"imutável\", \"via da verdade\", \"ilusão dos sentidos\" e \"ser uno\". Lembre-se: para ele, os sentidos são sempre fonte de erro.</li>",
+                  "<li><strong>O Fator Sócrates:</strong> O professor socrático nunca entrega a resposta. Se a alternativa sugerir que Sócrates \"doutrinava\" ou \"persuadia\", descarte-a. Ele apenas auxilia no \"parto\" das ideias.</li>",
+                  "<li><strong>Terminologia Crítica:</strong> Nunca diga que os gregos criaram o nome \"Ontologia\". Diga que eles iniciaram a investigação ontológica (investigação sobre o ser).</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/mwVIFrMwx2c?si=t75qpp8NAQczqjnS",
+                  "https://www.youtube.com/embed/TzevK3BpA3A?si=aQkZkEOevp5h3pYa"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "A Transição Do Mito Ao Logos",
+                    "embed": "https://archive.org/embed/a-transicao-do-mito-ao-logos_202604"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Aprofundamento em Geografia",
+        "canais": [],
+        "conteudos": [
+          {
+            "titulo": "Fundamentos e Geopolítica dos Recursos Naturais"
+          },
+          {
+            "titulo": "Dinâmicas da Energia e do Petróleo"
+          },
+          {
+            "titulo": "Sistemas de Produção Agropecuária e Segurança Alimentar"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>Introdução: O Palco Global e os Recursos da Terra</h2>",
+                  "<p>Imagine o mundo como um grande tabuleiro onde as peças se movem conforme a disponibilidade de matérias-primas. Vivemos em uma sociedade contemporânea que depende intrinsecamente do que extraímos da natureza: desde o silício nos processadores até o combustível que transporta sua comida. Entender essa dinâmica é o primeiro passo para dominar a Geopolítica, um tema recorrente e decisivo em vestibulares e no ENEM. Não se trata apenas de \"localizar\" recursos, mas de compreender como a posse deles define quem manda no mundo.</p>",
+                  "<br>",
+                  "<p><strong>Impacto Geopolítico:</strong> A importância estratégica desses recursos reside no fato de que o controle sobre eles gera disputas internacionais e molda as fronteiras e alianças modernas. Quando um recurso é essencial para a sobrevivência ou para a economia de uma nação, ele se torna um recurso estratégico. Se um país possui o que os outros precisam, ele ganha poder de barganha; se não possui, torna-se dependente. Para entender como isso funciona na prática, precisamos olhar para o motor que faz o mundo girar: o petróleo.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Ouro Negro e a Matriz Energética Mundial</h2>",
+                  "<p>O petróleo é, há décadas, o recurso estratégico por excelência. Ele não é apenas um combustível, mas a base de uma infinidade de produtos, desde plásticos até fertilizantes.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Geopolítica do Petróleo:</strong> Podemos comparar o petróleo ao \"sangue\" do corpo humano que é a economia global. Assim como o sangue transporta energia para cada órgão, o petróleo movimenta as mercadorias, as indústrias e o transporte mundial. Quem controla as \"veias\" (oleodutos e rotas marítimas) ou as fontes desse \"sangue\", controla o ritmo do crescimento global.</li>",
+                  "<li><strong>Impactos e Conflitos:</strong> A busca por esse recurso gera tensões socioambientais profundas. Historicamente, a necessidade de garantir o fornecimento de petróleo foi o estopim para invasões e guerras, além de causar desastres ambientais catastróficos em vazamentos e na poluição atmosférica.</li>",
+                  "<li><strong>Transição Energética:</strong> No contexto da \"emergência climática\", a matriz energética mundial está sob pressão para mudar.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Fontes Não Renováveis (Fósseis):</strong><ul><li><strong>Exemplos:</strong> Petróleo, Carvão e Gás Natural.</li><li><strong>Impacto:</strong> Altas emissões de gases estufa (CO<sub>2</sub>).</li><li><strong>Limitação:</strong> São finitas e geram dependência política.</li></ul></li>",
+                  "<li><strong>Fontes Renováveis:</strong><ul><li><strong>Exemplos:</strong> Solar, Eólica, Biomassa e Hidrelétrica.</li><li><strong>Impacto:</strong> Baixa emissão e maior sustentabilidade.</li><li><strong>Vantagem:</strong> Inesgotáveis e promovem autonomia energética.</li></ul></li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>A Conexão Vital:</strong> É importante notar que a energia e a agricultura estão de mãos dadas. A agricultura moderna é um setor intensivo em energia: os tratores queimam diesel e os fertilizantes que aumentam a produtividade são derivados do gás natural e do petróleo. Sem a energia fóssil, o modelo agrícola atual colapsaria.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>A Modernização da Agricultura e seus Reflexos</h2>",
+                  "<p>A industrialização do campo transformou a fazenda em uma \"fábrica a céu aberto\". Esse processo, iniciado no século XX, trouxe saltos de produtividade, mas também custos elevados.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>O Brasil no Campo:</strong> O Brasil é uma potência agropecuária, mas seu modelo é focado em latifúndios monocultores voltados para a exportação de commodities.</li>",
+                  "<li><strong>O Custo da Modernização em Números:</strong> Em 2024, o Brasil tratou 2 bilhões de hectares com defensivos agrícolas (agrotóxicos), um aumento de 9,2% em relação ao ano anterior. Esse uso é liderado pelas culturas de soja (56%), milho (16%) e algodão (8%).</li>",
+                  "<li><strong>A Analogia do Remédio:</strong> Usar agrotóxicos de forma inadequada é como \"tomar um remédio forte demais que mata a infecção, mas destrói os órgãos saudáveis do corpo\". No campo, esses produtos eliminam pragas, mas contaminam solos e águas, além de desequilibrar a saúde do consumidor.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Impactos Ambientais da Modernização:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Degradação do Solo:</strong> Perda de microrganismos e nutrientes essenciais.</li>",
+                  "<li><strong>Contaminação Hídrica:</strong> Substâncias como os organoclorados são persistentes e se acumulam na água e na cadeia alimentar.</li>",
+                  "<li><strong>Resistência Biológica:</strong> O uso excessivo cria \"superpragas\" resistentes, exigindo doses cada vez maiores de químicos.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Segurança Alimentar vs. Soberania Alimentar</h2>",
+                  "<p>Se produzimos tanto, por que ainda há fome? Esta é a pergunta de \"um milhão de dólares\" para qualquer prova de Geografia.</p>",
+                  "<br>",
+                  "<ul>",
+                  "<li><strong>Segurança Alimentar:</strong> Refere-se ao acesso físico e financeiro a alimentos. Baseia-se em quatro pilares: Disponibilidade (oferta suficiente), Acesso (renda para comprar), Utilização (qualidade nutricional) e Estabilidade (garantia de que a comida não faltará amanhã).</li>",
+                  "<li><strong>Soberania Alimentar:</strong> É o \"direito de escolha\". É a autonomia de um povo para decidir o que produzir e consumir, valorizando o pequeno produtor e a cultura local.</li>",
+                  "<li><strong>O Problema da Oligopolização:</strong> Hoje, poucas empresas controlam o mercado global de sementes e tecnologia. É como se existisse um \"monopólio sobre o alfabeto\": você só pode escrever (plantar) se comprar as letras (sementes) de três ou quatro donos, perdendo sua autonomia de escrita. Isso gera dependência tecnológica e erosão cultural, onde saberes tradicionais de alimentação são esquecidos.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>A Fome como Questão Política:</strong> Graças a políticas sociais, o Brasil conseguiu retirar 14,7 milhões de pessoas da fome em 2023, e a insegurança alimentar severa no país caiu 85%. No entanto, o desafio é global: entre 713 e 757 milhões de pessoas ainda enfrentam a fome no mundo. Memorize isto: A fome não é um problema técnico (falta de comida ou tecnologia), mas um problema político e de distribuição de renda. O alimento existe, mas as pessoas não têm dinheiro para comprá-lo ou a terra está concentrada em poucas mãos para exportação.</p>",
+                  "<br>",
+                  "<p><strong>Exemplo de Autonomia:</strong> O programa Arroz da Gente (2024) é uma iniciativa brasileira que incentiva a produção nacional para reduzir a dependência de importações e a abertura comercial assimétrica, fortalecendo o produtor local e a estabilidade do abastecimento.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese e Dicas de Estudo para a Prova</h2>",
+                  "<p>Tudo está conectado: o recurso gera energia, que move a agricultura, que produz o alimento. A falha em qualquer um desses pontos, seja por guerra, crise climática ou má distribuição de renda, atinge diretamente o prato do cidadão.</p>",
+                  "<br>",
+                  "<p><strong>Dicas Práticas:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Siga o Dinheiro e o Recurso:</strong> Em questões de conflito, analise se há petróleo, água ou terras férteis envolvidos. Recursos estratégicos movem exércitos.</li>",
+                  "<li><strong>Fome = Renda:</strong> Nunca diga que a fome é falta de produção. A fome é falta de acesso econômico.</li>",
+                  "<li><strong>Soberania vs. Segurança:</strong> Lembre-se que segurança é sobre \"ter o que comer\"; soberania é sobre \"ter o poder de decidir o que plantar\".</li>",
+                  "<li><strong>Dados de 2024:</strong> Cite o aumento do uso de defensivos e o protagonismo da soja para demonstrar que você está atualizado com a realidade do campo brasileiro.</li>",
+                  "<li><strong>A Visão Sistêmica:</strong> Relacione a dependência da agricultura em relação ao petróleo (fertilizantes e maquinário) para explicar por que crises nos combustíveis encarecem a comida.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Glossário Simplificado</h2>",
+                  "<ul>",
+                  "<li><strong>Commodities:</strong> Produtos básicos (soja, minério, petróleo) que têm preço padrão no mundo todo.</li>",
+                  "<li><strong>Monocultura:</strong> Plantação de um único produto em áreas gigantescas (ex: mar de soja).</li>",
+                  "<li><strong>Matriz Energética:</strong> A \"receita\" de todas as fontes de energia que um país usa.</li>",
+                  "<li><strong>Oligopolização:</strong> Quando apenas um grupinho de empresas manda em todo um mercado (ex: sementes).</li>",
+                  "<li><strong>Concentração de Terras:</strong> Muita terra nas mãos de pouca gente; pouca terra nas mãos de muita gente.</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/s-23AEMYImo?si=aqRYmJReY9HGV7ch"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "Do Gasoduto Na Ucrânia Ao Seu Prato",
+                    "embed": "https://archive.org/embed/do-gasoduto-na-ucrania-ao-seu-prato"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Aprofundamento em Sociologia",
+        "canais": [],
+        "conteudos": [
+          {
+            "titulo": "Sociologia Funcionalista"
+          },
+          {
+            "titulo": "Sociologia Compreensiva"
+          },
+          {
+            "titulo": "Materialismo Histórico-Dialético"
+          },
+          {
+            "titulo": "Teoria Crítica da Sociedade"
+          },
+          {
+            "titulo": "Sociologia do Poder, da Desigualdade e da Reprodução Social"
+          },
+          {
+            "titulo": "Resumo de Prova",
+            "tipo": "resumo",
+            "itens": [
+              {
+                "textos": [
+                  "<h2 class='subtitulo'>Introdução: Por que Estudamos o Poder?</h2>",
+                  "<p>O poder não é algo que reside apenas em gabinetes presidenciais ou em grandes operações policiais; ele é uma força constante que molda o que consideramos \"normal\", \"justo\" ou \"merecido\" em nossa rotina. Muitas vezes, aceitamos desigualdades profundas simplesmente porque elas parecem fazer parte da ordem natural das coisas. Estudar essas dinâmicas é um exercício de desnaturalização: trata-se de questionar as estruturas que nos fazem aceitar o mundo como ele é, para entender como as desigualdades são produzidas e mantidas.</p>",
+                  "<br>",
+                  "<p>Para guiar nossa análise, considere estas três perguntas fundamentais:</p>",
+                  "<ul>",
+                  "<li>Por que aceitamos certas formas de autoridade, como a de um professor, um médico ou um juiz, mesmo que eles não usem força física para se impor?</li>",
+                  "<li>Por que consideramos legítimas regras e normas — como leis e currículos escolares — mesmo quando elas favorecem apenas grupos específicos?</li>",
+                  "<li>Por que achamos natural que processos como o vestibular definam \"quem merece\" ocupar os melhores lugares na sociedade?</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p>Para responder a essas questões, precisamos primeiro olhar para as raízes econômicas da sociedade através da obra de Karl Marx.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>A Visão de Karl Marx: O Poder como Dominação de Classe</h2>",
+                  "<p>Para Marx, o poder não é uma ideia abstrata, mas algo enraizado em \"quem manda na economia\". A base de qualquer sociedade é a forma como ela produz seus bens de sobrevivência, e essa base cria uma divisão fundamental entre classes sociais.</p>",
+                  "<br>",
+                  "<p><strong>Conceitos Fundamentais</strong></p>",
+                  "<ul>",
+                  "<li><strong>Classe Dominante e Meios de Produção:</strong> A sociedade é dividida entre quem possui os meios de produção (fábricas, máquinas, terras) e quem possui apenas sua força de trabalho. Imagine a relação entre o dono de uma fábrica e o operário: o poder do dono vem da propriedade; o operário, sem meios próprios, é obrigado a vender suas horas de vida para sobreviver.</li>",
+                  "<li><strong>Superestrutura e a \"Ilusão de Neutralidade\":</strong> Marx explica que o poder econômico se protege através da Superestrutura (Estado, leis, religião e cultura). O sistema jurídico não é neutro: ele cria um ambiente estável para a exploração do trabalho ao proteger, acima de tudo, a propriedade privada. Através da Ideologia, o Estado se apresenta como um árbitro imparcial que busca o \"bem comum\", mas essa é uma ilusão que encobre a defesa dos interesses da classe dominante.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<p><strong>Impacto Analítico</strong></p>",
+                  "<p>O Estado atua como um \"instrumento\" de dominação. Isso fica claro na repressão a movimentos sociais, como greves. Um exemplo histórico citado por Marx é o confronto de 1886 em Chicago (Revolta de Haymarket), onde o Estado usou a força policial e o sistema judiciário para reprimir operários que lutavam por direitos, transformando a violência física em manutenção da ordem capitalista.</p>",
+                  "<br>",
+                  "<p>Embora a economia seja o pilar central para Marx, o poder também se exerce de formas invisíveis e sutis através da cultura, como mapeado por Pierre Bourdieu.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Pierre Bourdieu e as Regras Invisíveis: Campo, Capital e Habitus</h2>",
+                  "<p>Bourdieu demonstra que a dominação não precisa de armas ou dinheiro vivo a todo momento para funcionar. Ela ocorre de forma consentida e sutil, através da cultura e do reconhecimento.</p>",
+                  "<br>",
+                  "<p><strong>Estrutura Conceitual</strong></p>",
+                  "<p>Bourdieu utiliza três pilares fundamentais para explicar como o jogo social funciona:</p>",
+                  "<ul>",
+                  "<li><strong>Campo:</strong> Entenda a sociedade como um conjunto de diversos \"campos de jogo\" (campo das artes, da medicina, da política). Cada campo possui suas próprias regras, lógicas e disputas por legitimidade.</li>",
+                  "<li><strong>Capital:</strong> Não é apenas dinheiro. O capital é um recurso mobilizado para impor uma visão de mundo. Ele se divide em:<ul><li><strong>Econômico:</strong> Dinheiro e bens.</li><li><strong>Social:</strong> Rede de contatos e influências.</li><li><strong>Cultural:</strong> Conhecimentos e títulos. Inclui a \"bagagem\" que vem de casa, como a familiaridade com museus, viagens internacionais e o hábito da leitura.</li><li><strong>Simbólico:</strong> Prestígio, honra e reconhecimento.</li></ul></li>",
+                  "<li><strong>Habitus:</strong> É a nossa \"bússola interna\". São modos de pensar e agir que internalizamos conforme nossa criação. O habitus nos faz sentir \"em casa\" em ambientes sofisticados ou \"fora de lugar\" em espaços que não pertencem à nossa classe de origem.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Poder Simbólico e a Violência Invisível</h2>",
+                  "<p>O poder mais eficaz é aquele que não parece ser poder, mas sim \"bom gosto\" ou \"inteligência\".</p>",
+                  "<br>",
+                  "<p><strong>A Construção Social da Realidade</strong></p>",
+                  "<p>Os grupos dominantes impõem sistemas de classificação que dividem o mundo de forma binária. Essa linguagem define o que tem valor e o que deve ser desprezado:</p>",
+                  "<br>",
+                  "<p><strong>DOMINANTES (Mais Capital)</strong><br>Culto / Refinado<br>Útil / Belo<br>Moderno / Bom</p>",
+                  "<br>",
+                  "<p><strong>DOMINADOS (Menos Capital)</strong><br>Inculto / Vulgar<br>Inútil / Feio<br>Atrasado / Ruim</p>",
+                  "<br>",
+                  "<p><strong>Violência Simbólica e a Escola</strong></p>",
+                  "<ul>",
+                  "<li><strong>Exemplo Prático:</strong> Um estudante de origem popular que fala um dialeto regional pode se sentir \"inferior\" ou \"menos inteligente\" porque a escola valoriza apenas a norma culta da elite.</li>",
+                  "<li><strong>O Papel da Escola:</strong> A escola não é neutra; ela assume que todos os alunos possuem o mesmo capital cultural (viagens, livros). Ao valorizar essa bagagem que só a elite tem, a escola transforma o privilégio em \"mérito\", fazendo com que o sucesso do rico pareça esforço e o fracasso do pobre pareça falta de capacidade.</li>",
+                  "</ul>",
+                  "<br>",
+                  "<h2 class='subtitulo'>O Estado como Campo de Forças e Grande Oficializador</h2>",
+                  "<p>Para Bourdieu, o Estado centraliza o monopólio da violência física (polícia) e da violência simbólica (leis, diplomas, estatísticas).</p>",
+                  "<br>",
+                  "<p>O Estado não é apenas um árbitro; ele é um Campo de Forças. Isso significa que o Estado é o resultado de lutas históricas entre grupos que disputam o poder de ditar as \"regras do jogo\". Aqueles que possuem mais capital (econômico e cultural) têm muito mais chance de influenciar as leis e normas. Ao apresentar essas leis como \"neutras\" e voltadas ao \"interesse geral\", o Estado atua como o Grande Oficializador, garantindo a Reprodução Social: as posições de poder passam de geração em geração sob uma máscara de justiça e igualdade.</p>",
+                  "<br>",
+                  "<h2 class='subtitulo'>Síntese Geral e Dicas para a Prova</h2>",
+                  "<p>A sociologia é uma ferramenta para enxergar além das aparências. Entender que nada é \"natural\" na sociedade é o primeiro passo para o sucesso em qualquer avaliação.</p>",
+                  "<br>",
+                  "<p><strong>Dicas Práticas:</strong></p>",
+                  "<ul>",
+                  "<li><strong>Dica 1 (Palavras-Chave):</strong><br><strong>MARX:</strong> Luta de classes, meios de produção, superestrutura, exploração, ideologia.<br><strong>BOURDIEU:</strong> Capital cultural, habitus, campo de forças, violência simbólica, reprodução social.</li>",
+                  "<li><strong>Dica 2 (O Pulo do Gato):</strong> Se a questão fala de força invisível, \"bom gosto\", aceitação ou diplomas, a resposta é Bourdieu. Se fala de exploração, propriedade de fábricas e conflito direto, o autor é Marx.</li>",
+                  "<li><strong>Dica 3 (A Diferença no Estado):</strong> Atenção aqui! Para Marx, o Estado é um instrumento (ferramenta) da burguesia. Para Bourdieu, o Estado é o \"Grande Oficializador\" e o \"Guardião do Monopólio Simbólico\"; ele é o campo onde se disputa quem definirá o que é legítimo.</li>",
+                  "<li><strong>Dica 4 (Cuidado com a 'Neutralidade'):</strong> Nunca esqueça: para ambos os autores, o Estado e as leis NUNCA são neutros, embora tentem parecer.</li>",
+                  "</ul>"
+                ],
+                "videos": [
+                  "https://www.youtube.com/embed/Wgj4gJK21ac?si=ngghmzPPp6vR7VTp"
+                ],
+                "podcasts": [
+                  {
+                    "titulo": "As Regras Invisíveis Do Jogo Social",
+                    "embed": "https://archive.org/embed/as-regras-invisiveis-do-jogo-social"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

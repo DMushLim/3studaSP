@@ -1,0 +1,106 @@
+[
+  {
+    "bimestre": "1º Bimestre",
+    "bimestre_id": "1",
+    "canais": [
+      {
+        "nome": "Toda Matéria",
+        "imagem": "https://yt3.googleusercontent.com/HzNmGq7dz8hluGyGAmMijcUKc_sp-9cynIvm9U41wDVqDmfREuHWjyuphcyajKWkrTfMTvZBgg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@TodaMateriaOficial"
+      },
+      {
+        "nome": "Descomplica",
+        "imagem": "https://yt3.googleusercontent.com/ZiSCzk3KAyRy158X7YJ_woIdyPP8LVPf2OT-C67dQeP57T1t6usdNuj8lOKCuscjrS_yPVtiKw=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@descomplica"
+      }
+    ],
+    "conteudos": [
+      {
+        "titulo": "Segunda Revolução Industrial "
+      },
+      {
+        "titulo": "Imperialismo"
+      },
+      {
+        "titulo": "Belle Époque"
+      },
+      {
+        "titulo": "Primeira Guerra Mundial"
+      },
+      {
+        "titulo": "Resumo de Prova",
+        "tipo": "resumo",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class='subtitulo'>O Imperialismo no Século XIX: Fundamentos e Divergências</h2>",
+              "<p>O imperialismo é definido como o processo histórico no qual nações capitalistas desenvolvidas expandiram seu domínio, subjugando outros povos e criando dependência política e econômica. Entre 1870 e 1914, essa expansão foi vista como uma solução para as crises econômicas causadas pelo acirramento da concorrência internacional.</p>",
+              "<br>",
+              "<p><strong>Comparativo: Colonialismo vs. Imperialismo</strong></p>",
+              "<dl><dt><strong>Colonialismo (Sécs. XVI - XVIII):</strong></dt><dd><strong>Área de Foco:</strong> Américas<br><strong>Objetivo Principal:</strong> Extração de metais preciosos e produtos agrícolas<br><strong>Mão de Obra:</strong> Trabalho escravizado<br><strong>Agentes:</strong> Metrópoles europeias (Portugal, Espanha, etc.)</dd><dt><strong>Imperialismo (Séc. XIX - Início XX):</strong></dt><dd><strong>Área de Foco:</strong> África e Ásia<br><strong>Objetivo Principal:</strong> Recursos estratégicos, mercados e investimento de capital<br><strong>Mão de Obra:</strong> Subjugação de povos para fins industriais e financeiros<br><strong>Agentes:</strong> Potências industriais (Europa, EUA e Japão)</dd></dl>",
+              "<br>",
+              "<h2 class='subtitulo'>A Conferência de Berlim (1884-1885) e a Partilha da África</h2>",
+              "<p>A Conferência de Berlim foi motivada pela invasão belga ao Congo e por disputas sobre a navegação em rios africanos. O objetivo central era estabelecer uma exploração \"ordenada\" da África para evitar conflitos entre as potências.</p>",
+              "<ul>",
+              "<li><strong>Objetivos Declarados:</strong><ul><li>Estabelecer regras de ocupação para promover a civilização e o comércio.</li><li>Garantir rotas comerciais livres no interior do continente.</li><li>Reforçar a proibição do tráfico de escravizados.</li></ul></li>",
+              "<li><strong>Realidade da Partilha:</strong><ul><li><strong>Ocupação Efetiva:</strong> A soberania europeia só era reconhecida se o território fosse efetivamente administrado.</li><li><strong>Exclusão Africana:</strong> O encontro foi realizado sem a presença de representantes africanos.</li><li><strong>Colcha de Retalhos:</strong> As fronteiras foram desenhadas desconsiderando as etnias locais, gerando consequências duradouras.</li></ul></li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>Justificativas Ideológicas e a \"Missão Civilizadora\"</h2>",
+              "<ul>",
+              "<li><strong>A Missão Civilizadora:</strong> O discurso oficial alegava o desejo de promover o \"bem-estar moral e material das populações aborígenes\".</li>",
+              "<li><strong>O Fardo do Homem Branco:</strong> Representado em obras como a de Victor Gillam (1899), sugeria que era dever das nações \"desenvolvidas\" educar e civilizar os demais povos, independentemente de sua vontade.</li>",
+              "<li><strong>Antropologia e Dominação:</strong> A Antropologia moderna surgiu contemporaneamente ao imperialismo, com trabalhos de campo frequentemente realizados em áreas coloniais para \"conhecer\" — e, consequentemente, dominar — as populações locais.</li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>Resistência e Conflitos na África e na Ásia</h2>",
+              "<p>A dominação não ocorreu de forma passiva, enfrentando barreiras culturais e militares.</p>",
+              "<br>",
+              "<p><strong>Resistência Africana</strong></p>",
+              "<ul>",
+              "<li><strong>Exércitos Consolidados:</strong> Sociedades como as dos Axantes e dos Zulus ofereceram resistência prolongada.</li>",
+              "<li><strong>Batalha de Isandhlwana (1879):</strong> 25 mil guerreiros zulus derrotaram as tropas britânicas, demonstrando disciplina e táticas de guerra eficazes, apesar da inferioridade em armamentos de fogo.</li>",
+              "<li><strong>Diplomacia e Recusa:</strong> O Rei Wogobo, dos Mossi, declarou categoricamente ao capitão francês Destenave em 1895: \"Sinto que meu país está muito bem como está. Não preciso deles [europeus]. Sei o que me falta e o que desejo\".</li>",
+              "</ul>",
+              "<br>",
+              "<p><strong>Resistência Asiática</strong></p>",
+              "<ul>",
+              "<li><strong>China:</strong> O enfrentamento se deu através de episódios como a Guerra do Ópio (1839-1842) e o Tratado de Pequim (1860), que forçou a abertura dos portos chineses ao comércio estrangeiro.</li>",
+              "<li><strong>Dualidade da Resistência:</strong> Na Ásia, a resistência envolveu o conflito entre \"ocidentalização\" e \"tradição\". Lutar contra o estrangeiro nem sempre significava recusar a modernização tecnológica ou ocidental.</li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>O Contexto Americano: Consumo e a Crise de 1929</h2>",
+              "<p>A política liberal dos EUA nos anos 1920 consolidou o American Way of Life, um modelo de sociedade baseado no consumo em massa e na produção acelerada.</p>",
+              "<ul>",
+              "<li><strong>Dinâmica Econômica:</strong> A relação entre alta produção e consumo desenfreado foi sustentada por uma política de liberdade econômica.</li>",
+              "<li><strong>Especulação Financeira:</strong> O excesso de capital e o otimismo econômico levaram a uma especulação desenfreada no mercado financeiro.</li>",
+              "<li><strong>Conclusão da Crise:</strong> O desequilíbrio entre a capacidade de produção e o poder de consumo, aliado à volatilidade financeira, motivou o colapso do capitalismo em 1929, marcando o fim do período de euforia liberal do pós-guerra.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/FvWJsXhGIdc?si=93TdRwe7PAOhsgH6",
+              "https://www.youtube.com/embed/tGsIuYPGl5s?si=H2Qw5D1tbL1Kv5qa",
+              "https://www.youtube.com/embed/_fyQjzR6Sm0?si=CnYait0eriOdAV37",
+              "https://www.youtube.com/embed/4se98HyqhtU?si=0xeO4kUnm_A4QojE",
+              "https://www.youtube.com/embed/6P89N-WrnLk?si=qE7h784z1Gt2S9Iq"
+            ],
+            "podcasts": [
+              {
+                "titulo": "O custo humano das revoluções industriais",
+                "embed": "https://archive.org/embed/o-custo-humano-das-revolucoes-industriais"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bimestre": "2º Bimestre",
+    "bimestre_id": "2",
+    "canais": [
+    ],
+    "conteudos": [
+    ]
+  }
+]

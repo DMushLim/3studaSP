@@ -1,0 +1,106 @@
+[
+  {
+    "bimestre": "1º Bimestre",
+    "bimestre_id": "1",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Fundamentos e Geopolítica dos Recursos Naturais"
+      },
+      {
+        "titulo": "Dinâmicas da Energia e do Petróleo"
+      },
+      {
+        "titulo": "Sistemas de Produção Agropecuária e Segurança Alimentar"
+      },
+      {
+        "titulo": "Resumo de Prova",
+        "tipo": "resumo",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class='subtitulo'>Introdução: O Palco Global e os Recursos da Terra</h2>",
+              "<p>Imagine o mundo como um grande tabuleiro onde as peças se movem conforme a disponibilidade de matérias-primas. Vivemos em uma sociedade contemporânea que depende intrinsecamente do que extraímos da natureza: desde o silício nos processadores até o combustível que transporta sua comida. Entender essa dinâmica é o primeiro passo para dominar a Geopolítica, um tema recorrente e decisivo em vestibulares e no ENEM. Não se trata apenas de \"localizar\" recursos, mas de compreender como a posse deles define quem manda no mundo.</p>",
+              "<br>",
+              "<p><strong>Impacto Geopolítico:</strong> A importância estratégica desses recursos reside no fato de que o controle sobre eles gera disputas internacionais e molda as fronteiras e alianças modernas. Quando um recurso é essencial para a sobrevivência ou para a economia de uma nação, ele se torna um recurso estratégico. Se um país possui o que os outros precisam, ele ganha poder de barganha; se não possui, torna-se dependente. Para entender como isso funciona na prática, precisamos olhar para o motor que faz o mundo girar: o petróleo.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>O Ouro Negro e a Matriz Energética Mundial</h2>",
+              "<p>O petróleo é, há décadas, o recurso estratégico por excelência. Ele não é apenas um combustível, mas a base de uma infinidade de produtos, desde plásticos até fertilizantes.</p>",
+              "<br>",
+              "<ul>",
+              "<li><strong>Geopolítica do Petróleo:</strong> Podemos comparar o petróleo ao \"sangue\" do corpo humano que é a economia global. Assim como o sangue transporta energia para cada órgão, o petróleo movimenta as mercadorias, as indústrias e o transporte mundial. Quem controla as \"veias\" (oleodutos e rotas marítimas) ou as fontes desse \"sangue\", controla o ritmo do crescimento global.</li>",
+              "<li><strong>Impactos e Conflitos:</strong> A busca por esse recurso gera tensões socioambientais profundas. Historicamente, a necessidade de garantir o fornecimento de petróleo foi o estopim para invasões e guerras, além de causar desastres ambientais catastróficos em vazamentos e na poluição atmosférica.</li>",
+              "<li><strong>Transição Energética:</strong> No contexto da \"emergência climática\", a matriz energética mundial está sob pressão para mudar.</li>",
+              "</ul>",
+              "<br>",
+              "<ul>",
+              "<li><strong>Fontes Não Renováveis (Fósseis):</strong><ul><li><strong>Exemplos:</strong> Petróleo, Carvão e Gás Natural.</li><li><strong>Impacto:</strong> Altas emissões de gases estufa (CO<sub>2</sub>).</li><li><strong>Limitação:</strong> São finitas e geram dependência política.</li></ul></li>",
+              "<li><strong>Fontes Renováveis:</strong><ul><li><strong>Exemplos:</strong> Solar, Eólica, Biomassa e Hidrelétrica.</li><li><strong>Impacto:</strong> Baixa emissão e maior sustentabilidade.</li><li><strong>Vantagem:</strong> Inesgotáveis e promovem autonomia energética.</li></ul></li>",
+              "</ul>",
+              "<br>",
+              "<p><strong>A Conexão Vital:</strong> É importante notar que a energia e a agricultura estão de mãos dadas. A agricultura moderna é um setor intensivo em energia: os tratores queimam diesel e os fertilizantes que aumentam a produtividade são derivados do gás natural e do petróleo. Sem a energia fóssil, o modelo agrícola atual colapsaria.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>A Modernização da Agricultura e seus Reflexos</h2>",
+              "<p>A industrialização do campo transformou a fazenda em uma \"fábrica a céu aberto\". Esse processo, iniciado no século XX, trouxe saltos de produtividade, mas também custos elevados.</p>",
+              "<br>",
+              "<ul>",
+              "<li><strong>O Brasil no Campo:</strong> O Brasil é uma potência agropecuária, mas seu modelo é focado em latifúndios monocultores voltados para a exportação de commodities.</li>",
+              "<li><strong>O Custo da Modernização em Números:</strong> Em 2024, o Brasil tratou 2 bilhões de hectares com defensivos agrícolas (agrotóxicos), um aumento de 9,2% em relação ao ano anterior. Esse uso é liderado pelas culturas de soja (56%), milho (16%) e algodão (8%).</li>",
+              "<li><strong>A Analogia do Remédio:</strong> Usar agrotóxicos de forma inadequada é como \"tomar um remédio forte demais que mata a infecção, mas destrói os órgãos saudáveis do corpo\". No campo, esses produtos eliminam pragas, mas contaminam solos e águas, além de desequilibrar a saúde do consumidor.</li>",
+              "</ul>",
+              "<br>",
+              "<p><strong>Impactos Ambientais da Modernização:</strong></p>",
+              "<ul>",
+              "<li><strong>Degradação do Solo:</strong> Perda de microrganismos e nutrientes essenciais.</li>",
+              "<li><strong>Contaminação Hídrica:</strong> Substâncias como os organoclorados são persistentes e se acumulam na água e na cadeia alimentar.</li>",
+              "<li><strong>Resistência Biológica:</strong> O uso excessivo cria \"superpragas\" resistentes, exigindo doses cada vez maiores de químicos.</li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>Segurança Alimentar vs. Soberania Alimentar</h2>",
+              "<p>Se produzimos tanto, por que ainda há fome? Esta é a pergunta de \"um milhão de dólares\" para qualquer prova de Geografia.</p>",
+              "<br>",
+              "<ul>",
+              "<li><strong>Segurança Alimentar:</strong> Refere-se ao acesso físico e financeiro a alimentos. Baseia-se em quatro pilares: Disponibilidade (oferta suficiente), Acesso (renda para comprar), Utilização (qualidade nutricional) e Estabilidade (garantia de que a comida não faltará amanhã).</li>",
+              "<li><strong>Soberania Alimentar:</strong> É o \"direito de escolha\". É a autonomia de um povo para decidir o que produzir e consumir, valorizando o pequeno produtor e a cultura local.</li>",
+              "<li><strong>O Problema da Oligopolização:</strong> Hoje, poucas empresas controlam o mercado global de sementes e tecnologia. É como se existisse um \"monopólio sobre o alfabeto\": você só pode escrever (plantar) se comprar as letras (sementes) de três ou quatro donos, perdendo sua autonomia de escrita. Isso gera dependência tecnológica e erosão cultural, onde saberes tradicionais de alimentação são esquecidos.</li>",
+              "</ul>",
+              "<br>",
+              "<p><strong>A Fome como Questão Política:</strong> Graças a políticas sociais, o Brasil conseguiu retirar 14,7 milhões de pessoas da fome em 2023, e a insegurança alimentar severa no país caiu 85%. No entanto, o desafio é global: entre 713 e 757 milhões de pessoas ainda enfrentam a fome no mundo. Memorize isto: A fome não é um problema técnico (falta de comida ou tecnologia), mas um problema político e de distribuição de renda. O alimento existe, mas as pessoas não têm dinheiro para comprá-lo ou a terra está concentrada em poucas mãos para exportação.</p>",
+              "<br>",
+              "<p><strong>Exemplo de Autonomia:</strong> O programa Arroz da Gente (2024) é uma iniciativa brasileira que incentiva a produção nacional para reduzir a dependência de importações e a abertura comercial assimétrica, fortalecendo o produtor local e a estabilidade do abastecimento.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>Síntese e Dicas de Estudo para a Prova</h2>",
+              "<p>Tudo está conectado: o recurso gera energia, que move a agricultura, que produz o alimento. A falha em qualquer um desses pontos, seja por guerra, crise climática ou má distribuição de renda, atinge diretamente o prato do cidadão.</p>",
+              "<br>",
+              "<p><strong>Dicas Práticas:</strong></p>",
+              "<ul>",
+              "<li><strong>Siga o Dinheiro e o Recurso:</strong> Em questões de conflito, analise se há petróleo, água ou terras férteis envolvidos. Recursos estratégicos movem exércitos.</li>",
+              "<li><strong>Fome = Renda:</strong> Nunca diga que a fome é falta de produção. A fome é falta de acesso econômico.</li>",
+              "<li><strong>Soberania vs. Segurança:</strong> Lembre-se que segurança é sobre \"ter o que comer\"; soberania é sobre \"ter o poder de decidir o que plantar\".</li>",
+              "<li><strong>Dados de 2024:</strong> Cite o aumento do uso de defensivos e o protagonismo da soja para demonstrar que você está atualizado com a realidade do campo brasileiro.</li>",
+              "<li><strong>A Visão Sistêmica:</strong> Relacione a dependência da agricultura em relação ao petróleo (fertilizantes e maquinário) para explicar por que crises nos combustíveis encarecem a comida.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/s-23AEMYImo?si=aqRYmJReY9HGV7ch"
+            ],
+            "podcasts": [
+              {
+                "titulo": "Do Gasoduto Na Ucrânia Ao Seu Prato",
+                "embed": "https://archive.org/embed/do-gasoduto-na-ucrania-ao-seu-prato"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bimestre": "2º Bimestre",
+    "bimestre_id": "2",
+    "canais": [
+    ],
+    "conteudos": [
+    ]
+  }
+]

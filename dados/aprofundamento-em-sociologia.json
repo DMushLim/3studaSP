@@ -1,0 +1,119 @@
+[
+  {
+    "bimestre": "1º Bimestre",
+    "bimestre_id": "1",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Sociologia Funcionalista"
+      },
+      {
+        "titulo": "Sociologia Compreensiva"
+      },
+      {
+        "titulo": "Materialismo Histórico-Dialético"
+      },
+      {
+        "titulo": "Teoria Crítica da Sociedade"
+      },
+      {
+        "titulo": "Sociologia do Poder, da Desigualdade e da Reprodução Social"
+      },
+      {
+        "titulo": "Resumo de Prova",
+        "tipo": "resumo",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class='subtitulo'>Introdução: Por que Estudamos o Poder?</h2>",
+              "<p>O poder não é algo que reside apenas em gabinetes presidenciais ou em grandes operações policiais; ele é uma força constante que molda o que consideramos \"normal\", \"justo\" ou \"merecido\" em nossa rotina. Muitas vezes, aceitamos desigualdades profundas simplesmente porque elas parecem fazer parte da ordem natural das coisas. Estudar essas dinâmicas é um exercício de desnaturalização: trata-se de questionar as estruturas que nos fazem aceitar o mundo como ele é, para entender como as desigualdades são produzidas e mantidas.</p>",
+              "<br>",
+              "<p>Para guiar nossa análise, considere estas três perguntas fundamentais:</p>",
+              "<ul>",
+              "<li>Por que aceitamos certas formas de autoridade, como a de um professor, um médico ou um juiz, mesmo que eles não usem força física para se impor?</li>",
+              "<li>Por que consideramos legítimas regras e normas — como leis e currículos escolares — mesmo quando elas favorecem apenas grupos específicos?</li>",
+              "<li>Por que achamos natural que processos como o vestibular definam \"quem merece\" ocupar os melhores lugares na sociedade?</li>",
+              "</ul>",
+              "<br>",
+              "<p>Para responder a essas questões, precisamos primeiro olhar para as raízes econômicas da sociedade através da obra de Karl Marx.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>A Visão de Karl Marx: O Poder como Dominação de Classe</h2>",
+              "<p>Para Marx, o poder não é uma ideia abstrata, mas algo enraizado em \"quem manda na economia\". A base de qualquer sociedade é a forma como ela produz seus bens de sobrevivência, e essa base cria uma divisão fundamental entre classes sociais.</p>",
+              "<br>",
+              "<p><strong>Conceitos Fundamentais</strong></p>",
+              "<ul>",
+              "<li><strong>Classe Dominante e Meios de Produção:</strong> A sociedade é dividida entre quem possui os meios de produção (fábricas, máquinas, terras) e quem possui apenas sua força de trabalho. Imagine a relação entre o dono de uma fábrica e o operário: o poder do dono vem da propriedade; o operário, sem meios próprios, é obrigado a vender suas horas de vida para sobreviver.</li>",
+              "<li><strong>Superestrutura e a \"Ilusão de Neutralidade\":</strong> Marx explica que o poder econômico se protege através da Superestrutura (Estado, leis, religião e cultura). O sistema jurídico não é neutro: ele cria um ambiente estável para a exploração do trabalho ao proteger, acima de tudo, a propriedade privada. Através da Ideologia, o Estado se apresenta como um árbitro imparcial que busca o \"bem comum\", mas essa é uma ilusão que encobre a defesa dos interesses da classe dominante.</li>",
+              "</ul>",
+              "<br>",
+              "<p><strong>Impacto Analítico</strong></p>",
+              "<p>O Estado atua como um \"instrumento\" de dominação. Isso fica claro na repressão a movimentos sociais, como greves. Um exemplo histórico citado por Marx é o confronto de 1886 em Chicago (Revolta de Haymarket), onde o Estado usou a força policial e o sistema judiciário para reprimir operários que lutavam por direitos, transformando a violência física em manutenção da ordem capitalista.</p>",
+              "<br>",
+              "<p>Embora a economia seja o pilar central para Marx, o poder também se exerce de formas invisíveis e sutis através da cultura, como mapeado por Pierre Bourdieu.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>Pierre Bourdieu e as Regras Invisíveis: Campo, Capital e Habitus</h2>",
+              "<p>Bourdieu demonstra que a dominação não precisa de armas ou dinheiro vivo a todo momento para funcionar. Ela ocorre de forma consentida e sutil, através da cultura e do reconhecimento.</p>",
+              "<br>",
+              "<p><strong>Estrutura Conceitual</strong></p>",
+              "<p>Bourdieu utiliza três pilares fundamentais para explicar como o jogo social funciona:</p>",
+              "<ul>",
+              "<li><strong>Campo:</strong> Entenda a sociedade como um conjunto de diversos \"campos de jogo\" (campo das artes, da medicina, da política). Cada campo possui suas próprias regras, lógicas e disputas por legitimidade.</li>",
+              "<li><strong>Capital:</strong> Não é apenas dinheiro. O capital é um recurso mobilizado para impor uma visão de mundo. Ele se divide em:<ul><li><strong>Econômico:</strong> Dinheiro e bens.</li><li><strong>Social:</strong> Rede de contatos e influências.</li><li><strong>Cultural:</strong> Conhecimentos e títulos. Inclui a \"bagagem\" que vem de casa, como a familiaridade com museus, viagens internacionais e o hábito da leitura.</li><li><strong>Simbólico:</strong> Prestígio, honra e reconhecimento.</li></ul></li>",
+              "<li><strong>Habitus:</strong> É a nossa \"bússola interna\". São modos de pensar e agir que internalizamos conforme nossa criação. O habitus nos faz sentir \"em casa\" em ambientes sofisticados ou \"fora de lugar\" em espaços que não pertencem à nossa classe de origem.</li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>O Poder Simbólico e a Violência Invisível</h2>",
+              "<p>O poder mais eficaz é aquele que não parece ser poder, mas sim \"bom gosto\" ou \"inteligência\".</p>",
+              "<br>",
+              "<p><strong>A Construção Social da Realidade</strong></p>",
+              "<p>Os grupos dominantes impõem sistemas de classificação que dividem o mundo de forma binária. Essa linguagem define o que tem valor e o que deve ser desprezado:</p>",
+              "<br>",
+              "<p><strong>DOMINANTES (Mais Capital)</strong><br>Culto / Refinado<br>Útil / Belo<br>Moderno / Bom</p>",
+              "<br>",
+              "<p><strong>DOMINADOS (Menos Capital)</strong><br>Inculto / Vulgar<br>Inútil / Feio<br>Atrasado / Ruim</p>",
+              "<br>",
+              "<p><strong>Violência Simbólica e a Escola</strong></p>",
+              "<ul>",
+              "<li><strong>Exemplo Prático:</strong> Um estudante de origem popular que fala um dialeto regional pode se sentir \"inferior\" ou \"menos inteligente\" porque a escola valoriza apenas a norma culta da elite.</li>",
+              "<li><strong>O Papel da Escola:</strong> A escola não é neutra; ela assume que todos os alunos possuem o mesmo capital cultural (viagens, livros). Ao valorizar essa bagagem que só a elite tem, a escola transforma o privilégio em \"mérito\", fazendo com que o sucesso do rico pareça esforço e o fracasso do pobre pareça falta de capacidade.</li>",
+              "</ul>",
+              "<br>",
+              "<h2 class='subtitulo'>O Estado como Campo de Forças e Grande Oficializador</h2>",
+              "<p>Para Bourdieu, o Estado centraliza o monopólio da violência física (polícia) e da violência simbólica (leis, diplomas, estatísticas).</p>",
+              "<br>",
+              "<p>O Estado não é apenas um árbitro; ele é um Campo de Forças. Isso significa que o Estado é o resultado de lutas históricas entre grupos que disputam o poder de ditar as \"regras do jogo\". Aqueles que possuem mais capital (econômico e cultural) têm muito mais chance de influenciar as leis e normas. Ao apresentar essas leis como \"neutras\" e voltadas ao \"interesse geral\", o Estado atua como o Grande Oficializador, garantindo a Reprodução Social: as posições de poder passam de geração em geração sob uma máscara de justiça e igualdade.</p>",
+              "<br>",
+              "<h2 class='subtitulo'>Síntese Geral e Dicas para a Prova</h2>",
+              "<p>A sociologia é uma ferramenta para enxergar além das aparências. Entender que nada é \"natural\" na sociedade é o primeiro passo para o sucesso em qualquer avaliação.</p>",
+              "<br>",
+              "<p><strong>Dicas Práticas:</strong></p>",
+              "<ul>",
+              "<li><strong>Dica 1 (Palavras-Chave):</strong><br><strong>MARX:</strong> Luta de classes, meios de produção, superestrutura, exploração, ideologia.<br><strong>BOURDIEU:</strong> Capital cultural, habitus, campo de forças, violência simbólica, reprodução social.</li>",
+              "<li><strong>Dica 2 (O Pulo do Gato):</strong><br>Se a questão fala de força invisível, \"bom gosto\", aceitação ou diplomas, a resposta é Bourdieu. Se fala de exploração, propriedade de fábricas e conflito direto, o autor é Marx.</li>",
+              "<li><strong>Dica 3 (A Diferença no Estado):</strong><br>Atenção aqui! Para Marx, o Estado é um instrumento (ferramenta) da burguesia. Para Bourdieu, o Estado é o \"Grande Oficializador\" e o \"Guardião do Monopólio Simbólico\"; ele é o campo onde se disputa quem definirá o que é legítimo.</li>",
+              "<li><strong>Dica 4 (Cuidado com a 'Neutralidade'):</strong> Nunca esqueça: para ambos os autores, o Estado e as leis NUNCA são neutros, embora tentem parecer.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/Wgj4gJK21ac?si=ngghmzPPp6vR7VTp"
+            ],
+            "podcasts": [
+              {
+                "titulo": "As Regras Invisíveis Do Jogo Social",
+                "embed": "https://archive.org/embed/as-regras-invisiveis-do-jogo-social"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bimestre": "2º Bimestre",
+    "bimestre_id": "2",
+    "canais": [
+    ],
+    "conteudos": [
+    ]
+  }
+]

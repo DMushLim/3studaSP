@@ -61,6 +61,20 @@ async function carregarDados() {
     }
 }
 
+const disciplinasCache = {};
+
+async function carregarDisciplina(arquivo) {
+    if (disciplinasCache[arquivo]) return disciplinasCache[arquivo];
+    try {
+        const res = await fetch(arquivo);
+        disciplinasCache[arquivo] = await res.json();
+        return disciplinasCache[arquivo];
+    } catch (e) {
+        console.error('Erro ao carregar disciplina:', e);
+        return [];
+    }
+}
+
 // BUSCAS
 // ==========================
 
@@ -68,7 +82,7 @@ function encontrarBimestre(dados, id) {
     return dados.find(b => b.id === id);
 }
 
-function encontrarDisciplina(bimestre, nome) {
+function encontrarEntradaDisciplina(bimestre, nome) {
     return (bimestre.disciplinas || []).find(d => d.nome === nome);
 }
 
@@ -140,7 +154,11 @@ async function carregarConteudos() {
     const b = encontrarBimestre(dados, bimestre);
     if (!b) return;
 
-    const d = encontrarDisciplina(b, decodeURIComponent(disciplina));
+    const entrada = encontrarEntradaDisciplina(b, decodeURIComponent(disciplina));
+    if (!entrada) return;
+
+    const dados_disciplina = await carregarDisciplina(entrada.arquivo);
+    const d = dados_disciplina.find(item => item.bimestre_id === bimestre);
     if (!d) return;
 
     const lista = $('lista');
@@ -156,7 +174,7 @@ async function carregarConteudos() {
     topo.innerHTML = `<h2 class="subtitulo">Escolha um conteúdo</h2>`;
 
     // TÍTULO DA DISCIPLINA
-    lista.appendChild(criarCard(d.nome, 'card card--roxo-claro'));
+    lista.appendChild(criarCard(decodeURIComponent(disciplina), 'card card--roxo-claro'));
 
     // CONTEÚDOS
     d.conteudos?.forEach(c => {
@@ -174,7 +192,7 @@ async function carregarConteudos() {
             temDados
                 ? () => {
                     redirecionar(
-                        `conteudo.html?bimestre=${b.id}&disciplina=${encodeURIComponent(d.nome)}&conteudo=${encodeURIComponent(c.titulo)}`
+                        `conteudo.html?bimestre=${b.id}&disciplina=${encodeURIComponent(disciplina)}&conteudo=${encodeURIComponent(c.titulo)}`
                     );
                 }
                 : null
@@ -243,7 +261,11 @@ async function carregarConteudoFinal() {
     const b = encontrarBimestre(dados, bimestre);
     if (!b) return;
 
-    const d = encontrarDisciplina(b, decodeURIComponent(disciplina));
+    const entrada = encontrarEntradaDisciplina(b, decodeURIComponent(disciplina));
+    if (!entrada) return;
+
+    const dados_disciplina = await carregarDisciplina(entrada.arquivo);
+    const d = dados_disciplina.find(item => item.bimestre_id === bimestre);
     if (!d) return;
 
     const c = encontrarConteudo(d, decodeURIComponent(conteudo));
@@ -253,10 +275,9 @@ async function carregarConteudoFinal() {
     const colapsaveis = $('colapsaveis');
     const inferior = $('extra2');
 
-    topo.innerHTML = `
-        <h1 id="titulo">${d.nome}</h1>
-        <h2 class="subtitulo">${c.titulo}</h2>
-    `;
+    topo.innerHTML = 
+    `<h1 id="titulo">${decodeURIComponent(disciplina)}</h1>
+    <h2 class="subtitulo">${c.titulo}</h2>`;
 
     colapsaveis.innerHTML = '';
     if (inferior) inferior.innerHTML = '';

@@ -3,22 +3,56 @@
     "id": "1",
     "bimestre": "1º Bimestre",
     "disciplinas": [
-      { "nome": "Língua Portuguesa", "arquivo": "dados/lingua-portuguesa.json" },
-      { "nome": "Língua Inglesa",    "arquivo": "dados/lingua-inglesa.json"    },
-      { "nome": "História",          "arquivo": "dados/historia.json"          },
-      { "nome": "Matemática",        "arquivo": "dados/matematica.json"        },
-      { "nome": "Física",            "arquivo": "dados/fisica.json"            },
-      { "nome": "Atualidades",       "arquivo": "dados/atualidades.json"       },
-      { "nome": "Aprofundamento em Filosofia",       "arquivo": "dados/aprofundamento-em-filosofia.json"       },
-      { "nome": "Aprofundamento em Geografia",       "arquivo": "dados/aprofundamento-em-geografia.json"       },
-      { "nome": "Aprofundamento em Sociologia",       "arquivo": "dados/aprofundamento-em-sociologia.json"       }
+      {
+        "nome": "Língua Portuguesa",
+        "arquivo": "dados/lingua-portuguesa.json"
+      },
+      {
+        "nome": "Língua Inglesa",
+        "arquivo": "dados/lingua-inglesa.json"
+      },
+      {
+        "nome": "História",
+        "arquivo": "dados/historia.json"
+      },
+      {
+        "nome": "Matemática",
+        "arquivo": "dados/matematica.json"
+      },
+      {
+        "nome": "Física",
+        "arquivo": "dados/fisica.json"
+      },
+      {
+        "nome": "Atualidades",
+        "arquivo": "dados/atualidades.json"
+      },
+      {
+        "nome": "Aprofundamento em Filosofia",
+        "arquivo": "dados/aprofundamento-em-filosofia.json"
+      },
+      {
+        "nome": "Aprofundamento em Geografia",
+        "arquivo": "dados/aprofundamento-em-geografia.json"
+      },
+      {
+        "nome": "Aprofundamento em Sociologia",
+        "arquivo": "dados/aprofundamento-em-sociologia.json"
+      }
     ]
   },
   {
     "id": "2",
     "bimestre": "2º Bimestre",
     "disciplinas": [
-      { "nome": "Língua Portuguesa", "arquivo": "dados/lingua-portuguesa.json" }
+      {
+        "nome": "Língua Portuguesa",
+        "arquivo": "dados/lingua-portuguesa.json"
+      },
+      {
+        "nome": "História",
+        "arquivo": "dados/historia.json"
+      }
     ]
   }
 ]

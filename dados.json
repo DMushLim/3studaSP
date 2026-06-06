@@ -52,6 +52,10 @@
       {
         "nome": "História",
         "arquivo": "dados/historia.json"
+      },
+      {
+        "nome": "Língua Inglesa",
+        "arquivo": "dados/lingua-inglesa.json"
       }
     ]
   }

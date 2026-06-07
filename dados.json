@@ -56,6 +56,10 @@
       {
         "nome": "Língua Inglesa",
         "arquivo": "dados/lingua-inglesa.json"
+      },
+      {
+        "nome": "Matemática",
+        "arquivo": "dados/matematica.json"
       }
     ]
   }

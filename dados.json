@@ -60,6 +60,10 @@
       {
         "nome": "Matemática",
         "arquivo": "dados/matematica.json"
+      },
+      {
+        "nome": "Física",
+        "arquivo": "dados/fisica.json"
       }
     ]
   }

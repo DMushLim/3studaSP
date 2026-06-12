@@ -66,6 +66,10 @@
         "arquivo": "dados/fisica.json"
       },
       {
+        "nome": "Atualidades",
+        "arquivo":"dados/atualidades.json"
+      },
+      {
       "nome": "Aprofundamento em Filosofia",
       "arquivo": "dados/aprofundamento-em-filosofia.json"
       }

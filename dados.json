@@ -72,6 +72,10 @@
       {
       "nome": "Aprofundamento em Filosofia",
       "arquivo": "dados/aprofundamento-em-filosofia.json"
+      },
+      {
+        "nome": "Aprofundamento em Geografia",
+        "arquivo": "dados/aprofundamento-em-geografia.json"
       }
     ]
   }

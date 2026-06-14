@@ -76,6 +76,10 @@
       {
         "nome": "Aprofundamento em Geografia",
         "arquivo": "dados/aprofundamento-em-geografia.json"
+      },
+      {
+        "nome": "Aprofundamento em Sociologia",
+        "arquivo": "dados/aprofundamento-em-sociologia.json"
       }
     ]
   }

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>3studaSP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/site.webmanifest">
+    <link rel="stylesheet" href="style.css">
+    <script>(function () {
+            const tema = localStorage.getItem('tema');
+            if (tema === 'dark') {
+                document.documentElement.classList.add('dark');
+            }
+        })();
+    </script>
+</head>
+
+<body>
+    <header>
+        <img id="logo" src="img/STUDA.png" alt="Logo 3ºSTUDA SP">
+        <img id="titulo-cabecalho" alt="Título 3ºSTUDA SP">
+        <div id="menu">
+            <nav>
+                <a href="index.html" class="page">Início</a>
+                <a href="estudos.html" class="page">Estudos</a>
+                <a href="sobre.html" class="page">Sobre</a>
+            </nav>
+            <img id="icone-tema">
+        </div>
+    </header>
+
+    <section id="parte1inicio">
+        <div id="bemvindo">
+            <h2 id="bemvindotexto">Preparando-se para as <span class="destaque">provas paulistas do 3º ano?</span></h2>
+            <h3 id="part2bemvindo">Você está no lugar certo!</h3>
+        </div>
+        <div id="secaocomece">
+            <a href="estudos.html" id="botaocomece">Comece agora!</a>
+            <p id="gratuito">Totalmente gratuito</p>
+        </div>
+    </section>
+    <section id="parte2inicio">
+        <h3 class="importante">Tenha acesso rápido a múltiplos tipos de conteúdo:</h3>
+        <ul>
+            <li>Resumos curtos e com linguagem clara e objetiva</li>
+            <li>Vídeos do Youtube e também de IA, escolhidos cuidadosamente</li>
+            <li>Podcasts de IA, resumindo tudo que você precisa</li>
+            <li>Lista de canais recomendados do Youtube</li>
+            <li>Testes para avaliar seu aprendizado</li>
+            <li>E mais...</li>
+        </ul>
+    </section>
+    <div id="fiminicio">
+        <h4>Tudo feito pra facilitar seu estudo</h4>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

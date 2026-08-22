@@ -82,5 +82,19 @@
         "arquivo": "dados/aprofundamento-em-sociologia.json"
       }
     ]
+  },
+  {
+    "id": "3",
+    "bimestre": "3º Bimestre",
+    "disciplinas":[
+      {
+      "nome": "Língua Portuguesa",
+      "arquivo": "dados/lingua-portuguesa.json"
+      },
+      {
+        "nome": "História",
+        "arquivo": "dados/historia.json"
+      }
+    ]
   }
 ]

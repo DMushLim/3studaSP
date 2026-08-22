@@ -1401,5 +1401,36 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "3º Bimestre",
+    "bimestre_id": "3",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Guerra Fria",
+        "itens": []
+      },
+      {
+        "titulo": "Descolonização e Lutas por Independência na África",
+        "itens": []
+      },
+      {
+        "titulo": "Revoluções Socialistas e Geopolítica",
+        "itens": []
+      },
+      {
+        "titulo": "O Colapso do Bloco Soviético",
+        "itens": []
+      },
+      {
+        "titulo": "Ruptura Democrática e Início da Ditadura no Brasil",
+        "itens": []
+      },
+      {
+        "titulo": "Repressão e Resistência na Ditadura Civil-Militar Brasileira",
+        "itens": []
+      }
+    ]
   }
 ]

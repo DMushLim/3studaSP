@@ -2702,5 +2702,44 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "3º Bimestre",
+    "bimestre_id": "3",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Variação e Norma Línguistica",
+        "itens": []
+      },
+      {
+        "titulo": "Texto Dissertativo-Argumentativo",
+        "itens": []
+      },
+      {
+        "titulo": "Terceira Geração Modernista (Prosa)",
+        "itens": []
+      },
+      {
+        "titulo": "Resenha Crítica",
+        "itens": []
+      },
+      {
+        "titulo": "Terceira Geração Modernista (Poesia)",
+        "itens": []
+      },
+      {
+        "titulo": "Modernismo em Portugal",
+        "itens": []
+      },
+      {
+        "titulo": "Gênero Manifesto",
+        "itens": []
+      },
+      {
+        "titulo": "Gênero Miniconto",
+        "itens": []
+      }
+    ]
   }
 ]

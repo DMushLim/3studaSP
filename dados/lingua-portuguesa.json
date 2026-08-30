@@ -2706,7 +2706,23 @@
   {
     "bimestre": "3º Bimestre",
     "bimestre_id": "3",
-    "canais": [],
+    "canais": [
+      {
+        "nome": "Professor Noslen",
+        "imagem": "https://yt3.googleusercontent.com/12a76Za8ElTlzhyGF2TIYQT99F9XXMe0FVdOaq6-D9-iBiVAgb73XhQVWiiOP1_fcnb-7zmf0A=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@ProfessorNoslen"
+      },
+      {
+        "nome": "Brasil Escola Oficial",
+        "imagem": "https://yt3.googleusercontent.com/gek4nz_DVPsvun1OL2uKwznyP_8Z0muSyBfC73plxk72-NRTrLUqReJzj1JiOgVFqG-_i7lUcPQ=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/channel/UCsgHWN8lYveMUEWTDheTjZA"
+      },
+      {
+        "nome": "LÍTERABRASIL",
+        "imagem": "https://yt3.googleusercontent.com/Fyne8BOLGdN0eCOZk1AgvsiYaQzAtIZitaElfnS1klxZtCaEnFpBN20esgj4LkvbIjCfLR5eFyM=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@L%C3%ADteraBrasil"
+      }
+    ],
     "conteudos": [
       {
         "titulo": "Variação e Norma Línguistica",

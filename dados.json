@@ -92,6 +92,10 @@
       "arquivo": "dados/lingua-portuguesa.json"
       },
       {
+        "nome": "Língua Inglesa",
+        "arquivo": "dados/lingua-inglesa.json"
+      },
+      {
         "nome": "História",
         "arquivo": "dados/historia.json"
       }

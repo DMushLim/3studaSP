@@ -98,6 +98,10 @@
       {
         "nome": "História",
         "arquivo": "dados/historia.json"
+      },
+      {
+        "nome": "Matemática",
+        "arquivo": "dados/matematica.json"
       }
     ]
   }

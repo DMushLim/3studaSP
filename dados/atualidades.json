@@ -2,7 +2,6 @@
   {
     "bimestre": "1º Bimestre",
     "bimestre_id": "1",
-    "canais": [],
     "conteudos": [
       {
         "titulo": "Verdade, Desinformação e o Impacto das Deepfakes"
@@ -107,7 +106,6 @@
   {
     "bimestre": "2º Bimestre",
     "bimestre_id": "2",
-    "canais": [],
     "conteudos": [
       {
         "titulo": "Fundamentos das Migrações e Vigilância Global",
@@ -811,12 +809,256 @@
               "https://www.youtube.com/embed/NLK3JRyXcbw?si=oizxgqumKsTj_3ka",
               "https://www.youtube.com/embed/k0_DHtg_Ffc?si=q9KfXRKbYKZdqgrt",
               "https://www.youtube.com/embed/xbZPsaNdT7A?si=IzmjflY2G1EPu2U3"
-
             ],
             "podcasts": [
               {
                 "titulo": "A Lógica Invisível Das Migrações E Refúgio",
                 "embed": "https://archive.org/embed/a-logica-invisivel-das-migracoes-e-refugio"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bimestre": "3º Bimestre",
+    "bimestre_id": "3",
+    "conteudos": [
+      {
+        "titulo": "Identidade, Algoritmos e Filtros de Beleza (Beauty Mode)",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. O rosto na era digital</h2>",
+              "<p>O rosto é uma importante forma de <strong>identidade e apresentação social</strong>. Com as redes sociais e tecnologias de imagem, porém, a aparência passou a ser mediada por <strong>algoritmos</strong>, que modificam a forma como as pessoas enxergam a si mesmas.</p>",
+              "<p>A questão central é que essas ferramentas <strong>não são neutras</strong>: seus filtros podem reproduzir padrões específicos de beleza e influenciar a autoestima.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Do Photoshop ao Beauty Mode</h2>",
+              "<p>O <strong>Photoshop</strong> dependia de edição manual e consciente. Já o <strong>Beauty Mode</strong> realiza alterações automaticamente e, muitas vezes, em tempo real.</p>",
+              "<p>A inteligência artificial pode reconhecer características do rosto (<em>landmarks</em>) e modificar:</p>",
+              "<ul>",
+              "<li>olhos;</li>",
+              "<li>pele;</li>",
+              "<li>formato do rosto;</li>",
+              "<li>proporções faciais.</li>",
+              "</ul>",
+              "<p>Filtros como o <strong>Bold Glamour</strong> tornam essas alterações tão realistas que podem parecer parte natural do rosto.</p>",
+              "<h3>Consequência</h3>",
+              "<p>A edição deixa de ser percebida como edição. O usuário pode começar a considerar o <strong>rosto filtrado como o padrão ideal</strong>, enxergando o rosto real como inadequado.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. O \"eu performático\"</h2>",
+              "<p>Nas redes sociais, a identidade passa a ser construída também para obter <strong>aprovação externa</strong>, como curtidas, comentários e seguidores.</p>",
+              "<p>Esse processo é associado ao conceito de <strong>\"eu performático\"</strong>, no qual o indivíduo apresenta uma versão de si orientada pela visibilidade e pela validação social.</p>",
+              "<p>Isso provoca:</p>",
+              "<ul>",
+              "<li>comparação constante com padrões de beleza;</li>",
+              "<li>distanciamento entre aparência real e aparência digital;</li>",
+              "<li>sensação de inadequação;</li>",
+              "<li>dependência da aprovação nas redes.</li>",
+              "</ul>",
+              "<p>Por isso, a <strong>cidadania digital</strong> não envolve apenas saber utilizar tecnologias, mas também compreender seus efeitos sobre autoestima, emoções e percepção corporal.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Filtros e saúde mental</h2>",
+              "<p>Uma pesquisa da <strong>Allergan Aesthetics (2022)</strong> mostrou a dimensão da pressão estética:</p>",
+              "<ul>",
+              "<li><strong>94%</strong> concordam que o uso exagerado de filtros prejudica a autoestima;</li>",
+              "<li><strong>58%</strong> consideram a cobrança estética irreal;</li>",
+              "<li><strong>40%</strong> utilizam filtros com alta frequência;</li>",
+              "<li><strong>37%</strong> utilizam ocasionalmente.</li>",
+              "</ul>",
+              "<p>Esse cenário está relacionado ao conceito de <strong>\"Dismorfia do Snapchat\"</strong>, associado à preocupação excessiva com características que muitas vezes são produzidas ou exageradas pelos filtros.</p>",
+              "<p>O problema ocorre quando a pessoa passa a desejar que seu <strong>corpo físico reproduza uma aparência artificial criada digitalmente</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Dos filtros às cirurgias plásticas</h2>",
+              "<p>A insatisfação com a própria imagem pode ultrapassar o ambiente digital e influenciar decisões sobre o corpo físico.</p>",
+              "<p>A selfie filtrada passa a funcionar como um <strong>modelo para procedimentos estéticos</strong>, criando a ideia de que o rosto pode ser constantemente \"atualizado\".</p>",
+              "<p>Assim, a tecnologia contribui para transformar a aparência em um objeto de <strong>otimização permanente</strong>, baseado em padrões digitais de beleza.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">6. Educação e cidadania digital</h2>",
+              "<p>O principal desafio é desenvolver uma postura <strong>crítica diante das tecnologias de imagem</strong>.</p>",
+              "<p>A educação pode:</p>",
+              "<ul>",
+              "<li>explicar como funcionam os filtros e algoritmos;</li>",
+              "<li>questionar os padrões de beleza apresentados pelas plataformas;</li>",
+              "<li>valorizar a diversidade e a aparência natural;</li>",
+              "<li>discutir os efeitos das redes sociais sobre autoestima e saúde mental;</li>",
+              "<li>estimular o jovem a ter <strong>autonomia sobre sua própria imagem</strong>.</li>",
+              "</ul>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>O <strong>Beauty Mode</strong> automatiza alterações na aparência e pode tornar a edição praticamente invisível.</li>",
+              "<li>Algoritmos podem reforçar <strong>padrões específicos de beleza</strong>.</li>",
+              "<li>O <strong>\"eu performático\"</strong> representa a construção da identidade voltada à exposição e à validação social.</li>",
+              "<li>A comparação entre o rosto real e o filtrado pode prejudicar a <strong>autoestima e a percepção corporal</strong>.</li>",
+              "<li>A <strong>Dismorfia do Snapchat</strong> relaciona-se à busca por características produzidas ou exageradas digitalmente.</li>",
+              "<li>Filtros podem influenciar a procura por <strong>procedimentos estéticos e cirurgias plásticas</strong>.</li>",
+              "<li>A <strong>cidadania digital</strong> exige compreender criticamente os efeitos das tecnologias sobre identidade, emoções e corpo.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/z4rwVfWjzKI?si=39EELjdOfwA9P-lj"
+            ],
+            "podcasts": [
+              {
+                "titulo": "Filtros De Beleza E A Ditadura Algorítmica",
+                "embed": "https://archive.org/embed/filtros-de-beleza-e-a-ditadura-algoritmica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Comentário Crítico",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. O que é o comentário crítico?</h2>",
+              "<p>Na cultura digital, imagens, redes sociais e algoritmos influenciam a forma como as pessoas constroem sua identidade e percebem a realidade.</p>",
+              "<p>O <strong>comentário crítico</strong> é um gênero textual que transforma uma reação ou opinião em uma <strong>análise fundamentada</strong>. Seu objetivo não é apenas dizer o que se pensa, mas interpretar um fenômeno e provocar reflexão.</p>",
+              "<p>Ele contribui para:</p>",
+              "<ul>",
+              "<li>desenvolver o <strong>pensamento crítico</strong>;</li>",
+              "<li>avaliar informações e fontes;</li>",
+              "<li>combater a desinformação;</li>",
+              "<li>promover a <strong>cidadania digital</strong>;</li>",
+              "<li>compreender os efeitos sociais das tecnologias.</li>",
+              "</ul>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Estrutura do comentário crítico</h2>",
+              "<p>O comentário crítico geralmente apresenta cinco elementos:</p>",
+              "<ul>",
+              "<li><strong>Observação:</strong> apresenta uma situação ou fenômeno específico.</li>",
+              "<li><strong>Recorte:</strong> delimita um aspecto do tema para evitar generalizações.</li>",
+              "<li><strong>Interpretação:</strong> analisa significados, consequências e contradições.</li>",
+              "<li><strong>Contextualização:</strong> relaciona o caso a questões sociais, culturais ou históricas.</li>",
+              "<li><strong>Encerramento reflexivo:</strong> provoca o leitor e pode deixar uma questão em aberto.</li>",
+              "</ul>",
+              "<p>A estrutura pode ser resumida como:</p>",
+              "<p><strong>observação → reflexão → análise → contextualização → reflexão final</strong></p>",
+              "<p>A principal diferença em relação a uma opinião comum é que o comentário crítico <strong>fundamenta e desenvolve seu ponto de vista</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. Exemplo: filtros de beleza e autoimagem</h2>",
+              "<p>Os filtros de beleza mostram como a tecnologia pode influenciar a percepção do próprio corpo.</p>",
+              "<p>Eles podem:</p>",
+              "<ul>",
+              "<li>suavizar a pele;</li>",
+              "<li>alterar proporções do rosto;</li>",
+              "<li>modificar características físicas;</li>",
+              "<li>reforçar determinados padrões de beleza.</li>",
+              "</ul>",
+              "<p>Com a repetição, a aparência filtrada pode começar a ser considerada mais \"normal\" ou desejável que a aparência real.</p>",
+              "<p>Esse processo está relacionado à <strong>Dismorfia do Snapchat</strong>, fenômeno em que a pessoa pode desejar modificar seu corpo para se aproximar da aparência produzida pelos filtros.</p>",
+              "<p>Assim, a tecnologia não apenas <strong>altera uma fotografia</strong>, mas pode influenciar a maneira como o indivíduo <strong>enxerga a si mesmo</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Como produzir um comentário crítico?</h2>",
+              "<p>Para produzir um bom comentário:</p>",
+              "<ol>",
+              "<li><strong>Escolha um recorte específico:</strong> por exemplo, filtros e autoestima.</li>",
+              "<li><strong>Observe o fenômeno:</strong> identifique como ele aparece no cotidiano.</li>",
+              "<li><strong>Relacione-o a questões sociais:</strong> padrões de beleza, visibilidade, raça, gênero etc.</li>",
+              "<li><strong>Construa argumentos:</strong> explique causas, consequências e contradições.</li>",
+              "<li><strong>Use conceitos e fontes:</strong> evite depender apenas de opiniões pessoais.</li>",
+              "<li><strong>Finalize com reflexão:</strong> apresente uma questão ou perspectiva que estimule o leitor a pensar.</li>",
+              "</ol>",
+              "<p>O texto deve ser <strong>compreensível, mas preciso</strong>, buscando interpretar o fenômeno em vez de simplesmente descrevê-lo.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>O <strong>comentário crítico</strong> transforma uma opinião ou observação em <strong>análise fundamentada</strong>.</li>",
+              "<li>Seus principais elementos são <strong>observação, recorte, interpretação, contextualização e encerramento reflexivo</strong>.</li>",
+              "<li>A cultura digital influencia a construção da <strong>identidade e da autoimagem</strong>.</li>",
+              "<li>Filtros de beleza podem reforçar padrões estéticos e contribuir para a <strong>insatisfação corporal</strong>.</li>",
+              "<li>A <strong>Dismorfia do Snapchat</strong> representa a busca por uma aparência física semelhante à produzida digitalmente.</li>",
+              "<li>Um bom comentário crítico deve <strong>delimitar o tema, argumentar, contextualizar e provocar reflexão</strong>.</li>",
+              "<li>A escrita crítica ajuda o indivíduo a deixar de ser um <strong>consumidor passivo</strong> da cultura digital e tornar-se um <strong>intérprete consciente</strong>.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/W7JduigOQsM?si=dYRRldcB7axnhOi_"
+            ],
+            "podcasts": [
+              {
+                "titulo": "O Algoritmo Que Dita Nossa Beleza",
+                "embed": "https://archive.org/embed/o-algoritmo-que-dita-nossa-beleza"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Ecossistemas Estéticos e Padronização Corporal",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. Corpo e estética nas redes sociais</h2>",
+              "<p>As redes sociais transformaram o corpo em uma forma de <strong>representação e reconhecimento social</strong>. A aparência deixou de ser apenas uma questão pessoal e passou a ser constantemente exposta, avaliada e comparada.</p>",
+              "<p>Nesse contexto, o estudante deve compreender que os padrões estéticos digitais <strong>não são neutros</strong>, pois algoritmos e plataformas podem favorecer determinados tipos de aparência.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Corpo possível e corpo esperado</h2>",
+              "<p>A imagem do \"homem-smartphone\" representa a substituição da identidade pela <strong>validação digital</strong>.</p>",
+              "<p>Ela evidencia a diferença entre:</p>",
+              "<ul>",
+              "<li><strong>Corpo possível:</strong> corpo real, sujeito ao tempo, cansaço, limites e diversidade biológica.</li>",
+              "<li><strong>Corpo esperado:</strong> corpo idealizado pelas redes sociais e pelos padrões estéticos.</li>",
+              "</ul>",
+              "<p>As curtidas e comentários representam o <strong>engajamento</strong>, fazendo com que o exercício físico possa deixar de ser apenas autocuidado e se transformar em uma <strong>performance para o público</strong>.</p>",
+              "<p>Assim, o indivíduo pode começar a treinar não apenas para se sentir saudável, mas para <strong>ser visto e aprovado</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. O fenômeno Fitspiration</h2>",
+              "<p><strong>Fitspiration</strong> é a circulação de conteúdos relacionados a exercícios, saúde, disciplina e estética corporal nas redes sociais.</p>",
+              "<p>Ele apresenta uma <strong>dupla possibilidade</strong>:</p>",
+              "<h3>Aspectos positivos</h3>",
+              "<ul>",
+              "<li>Incentiva a prática de atividades físicas.</li>",
+              "<li>Estimula hábitos de autocuidado.</li>",
+              "<li>Permite compartilhar rotinas e experiências.</li>",
+              "<li>Facilita o acesso a informações sobre exercícios e saúde.</li>",
+              "</ul>",
+              "<h3>Aspectos negativos</h3>",
+              "<ul>",
+              "<li>Pode divulgar padrões corporais <strong>inalcançáveis</strong>.</li>",
+              "<li>Estimula comparações constantes.</li>",
+              "<li>Pode associar saúde à aparência física.</li>",
+              "<li>Filtros e edições podem distorcer a percepção corporal.</li>",
+              "<li>Pode gerar insatisfação e pressão estética.</li>",
+              "</ul>",
+              "<p>Exemplos como <strong>\"abdominais em 2 semanas\"</strong> criam expectativas irreais ao apresentar resultados rápidos como se fossem comuns.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Algoritmos e padrões de beleza</h2>",
+              "<p>Os algoritmos ajudam a determinar quais conteúdos recebem maior visibilidade. Dessa forma, podem contribuir para a <strong>padronização estética</strong>, favorecendo determinados corpos e características.</p>",
+              "<p>O <strong>Beauty Mode</strong>, por exemplo, pode modificar características físicas e reforçar padrões de beleza específicos.</p>",
+              "<p>Essa situação também pode ser analisada pela perspectiva da <strong>interseccionalidade</strong>, considerando como gênero, raça e outros fatores podem produzir diferentes formas de pressão e exclusão.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Debate e responsabilidade</h2>",
+              "<p>O debate sobre o corpo digital deve considerar quatro questões principais:</p>",
+              "<ol>",
+              "<li><strong>Cuidado corporal:</strong> o cuidado saiu do espaço privado e tornou-se conteúdo público.</li>",
+              "<li><strong>Percepção da aparência:</strong> a exposição constante a corpos idealizados altera a percepção do que seria um corpo \"normal\".</li>",
+              "<li><strong>Identidade juvenil:</strong> a comparação pode afetar a construção da identidade e da autoestima.</li>",
+              "<li><strong>Responsabilidade digital:</strong> plataformas, influenciadores e indústria fitness possuem responsabilidade pelos conteúdos e padrões que promovem.</li>",
+              "</ol>",
+              "<p>Por isso, o problema não depende apenas das escolhas individuais. <strong>O design das plataformas e seus sistemas de recomendação também influencia os comportamentos.</strong></p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>O corpo nas redes sociais tornou-se instrumento de <strong>visibilidade, comparação e validação</strong>.</li>",
+              "<li><strong>Corpo possível</strong> é o corpo real e diverso; <strong>corpo esperado</strong> é o corpo idealizado pelas normas sociais e digitais.</li>",
+              "<li><strong>Fitspiration</strong> pode incentivar saúde e atividade física, mas também intensificar a <strong>pressão estética</strong>.</li>",
+              "<li>Algoritmos e filtros podem reforçar <strong>padrões corporais e de beleza</strong>.</li>",
+              "<li>A comparação constante entre corpos idealizados pode prejudicar a <strong>autoimagem e a autoestima</strong>.</li>",
+              "<li>Plataformas, influenciadores e usuários possuem diferentes níveis de <strong>responsabilidade</strong> na construção desse ambiente.</li>",
+              "<li>A educação crítica ajuda o jovem a separar <strong>saúde e autocuidado</strong> da busca constante por aprovação estética.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/3JeQOrVzVh0?si=gpslXrznDi0e4ss_"
+            ],
+            "podcasts": [
+              {
+                "titulo": "Como O Algoritmo Molda Seu Corpo",
+                "embed": "https://archive.org/embed/como-o-algoritmo-molda-seu-corpo"
               }
             ]
           }

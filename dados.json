@@ -106,6 +106,10 @@
       {
         "nome": "Física",
         "arquivo": "dados/fisica.json"
+      },
+      {
+      "nome": "Aprofundamento em Filosofia",
+      "arquivo": "dados/aprofundamento-em-filosofia.json"
       }
     ]
   }

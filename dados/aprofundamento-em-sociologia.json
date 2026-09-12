@@ -1145,5 +1145,274 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "3º Bimestre",
+    "bimestre_id": "3",
+    "canais": [
+      {
+        "nome": "Sociologia Animada",
+        "imagem": "https://yt3.googleusercontent.com/ytc/AIdro_mNd7rptZKH8pMgSqdH4K-jNQRVt_mukoh-tNBy2GpC8Q=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/channel/UCugb1YKl4IgY5nM2JO-KVqQ"
+      },
+      {
+        "nome": "Brasil Escola Oficial",
+        "imagem": "https://yt3.googleusercontent.com/gek4nz_DVPsvun1OL2uKwznyP_8Z0muSyBfC73plxk72-NRTrLUqReJzj1JiOgVFqG-_i7lUcPQ=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/channel/UCsgHWN8lYveMUEWTDheTjZA"
+      }
+    ],
+    "conteudos": [
+      {
+        "titulo": "A ideia de Brasil moderno",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. A formação social brasileira</h2>",
+              "<p>A formação do Brasil é marcada pela <strong>convivência entre estruturas arcaicas e elementos modernos</strong>. Mesmo com a industrialização, urbanização e criação de instituições modernas, antigas formas de poder, como o <strong>patrimonialismo</strong> e o personalismo, continuaram presentes.</p>",
+              "<p>Essa característica ajuda a explicar dificuldades atuais relacionadas à <strong>igualdade, cidadania e democracia</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Colonização de Trabalho e Colonização de Aventura</h2>",
+              "<p>Sérgio Buarque de Holanda utiliza <strong>tipos ideais</strong> para comparar diferentes formas de colonização.</p>",
+              "<h3>Colonização de Trabalho</h3>",
+              "<p>Associada ao modelo anglo-saxão:</p>",
+              "<ul>",
+              "<li>busca <strong>povoamento e estabilidade</strong>;</li>",
+              "<li>valoriza o trabalho sistemático;</li>",
+              "<li>prioriza planejamento e organização;</li>",
+              "<li>favorece instituições mais impessoais.</li>",
+              "</ul>",
+              "<h3>Colonização de Aventura</h3>",
+              "<p>Associada à experiência ibérica e portuguesa:</p>",
+              "<ul>",
+              "<li>busca principalmente <strong>riqueza e lucro rápido</strong>;</li>",
+              "<li>caracteriza-se pela exploração e improvisação;</li>",
+              "<li>valoriza menos o trabalho contínuo;</li>",
+              "<li>utilizou intensamente a <strong>mão de obra escravizada</strong>;</li>",
+              "<li>favoreceu relações pessoais em vez de instituições impessoais.</li>",
+              "</ul>",
+              "<p>A colonização de aventura contribuiu para uma sociedade na qual <strong>interesses privados e relações pessoais frequentemente se sobrepõem ao interesse público</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. O Homem Cordial e o Patrimonialismo</h2>",
+              "<p>O <strong>Homem Cordial</strong>, conceito de Sérgio Buarque de Holanda, não significa simplesmente uma pessoa educada ou gentil. \"Cordial\" vem de <em>cordis</em> (coração) e representa aquele que orienta suas relações principalmente pelos <strong>afetos e vínculos pessoais</strong>.</p>",
+              "<p>Suas principais características são:</p>",
+              "<ul>",
+              "<li><strong>Personalismo:</strong> favorecimento de amigos, familiares e pessoas próximas.</li>",
+              "<li><strong>Confusão entre público e privado:</strong> interesses particulares interferem na administração pública.</li>",
+              "<li><strong>Busca por privilégios:</strong> preferência pelo favor e pelo \"jeitinho\" em vez da aplicação impessoal das leis.</li>",
+              "</ul>",
+              "<p>Essa lógica está relacionada ao <strong>patrimonialismo</strong>, no qual os limites entre o patrimônio privado e aquilo que pertence ao Estado e à coletividade são enfraquecidos.</p>",
+              "<p><strong>Exemplo:</strong> contratar um parente para um cargo ou serviço público por causa da confiança pessoal, ignorando critérios técnicos.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Modernização Conservadora</h2>",
+              "<p>Para <strong>Octavio Ianni</strong>, o Brasil passou por uma <strong>modernização conservadora</strong>: houve desenvolvimento industrial, tecnológico e institucional, mas sem uma ruptura completa com as antigas estruturas de poder.</p>",
+              "<p>Assim, o país pode apresentar:</p>",
+              "<ul>",
+              "<li><strong>Modernidade formal:</strong> leis, burocracia, instituições e procedimentos modernos.</li>",
+              "<li><strong>Práticas arcaicas:</strong> clientelismo, favoritismo e relações pessoais.</li>",
+              "</ul>",
+              "<p>Por isso, uma sociedade pode possuir instituições modernas formalmente, mas continuar funcionando parcialmente segundo <strong>relações pessoais e privilégios</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Desigualdade urbana</h2>",
+              "<p>A modernização desigual também aparece nas cidades.</p>",
+              "<p><strong>Brasília</strong>, com seu planejamento monumental e infraestrutura, representa a imagem de um Estado moderno e racionalizado. Já áreas periféricas como <strong>Planaltina</strong> evidenciam problemas de infraestrutura e desigualdade socioespacial.</p>",
+              "<p>Esse contraste demonstra que o desenvolvimento pode ocorrer de maneira <strong>seletiva</strong>, beneficiando determinados grupos enquanto outros permanecem com acesso limitado a direitos e serviços públicos.</p>",
+              "<p>A desigualdade urbana, portanto, também revela a contradição entre a <strong>modernização formal</strong> e a permanência de estruturas sociais excludentes.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>A formação brasileira combina <strong>elementos modernos e estruturas arcaicas</strong>.</li>",
+              "<li>Sérgio Buarque de Holanda diferencia <strong>colonização de trabalho</strong> e <strong>colonização de aventura</strong>.</li>",
+              "<li>A colonização portuguesa foi marcada pela busca de <strong>exploração e ganho rápido</strong>.</li>",
+              "<li>O <strong>Homem Cordial</strong> representa a predominância das relações pessoais e afetivas sobre a impessoalidade institucional.</li>",
+              "<li>O <strong>patrimonialismo</strong> ocorre quando interesses privados interferem na esfera pública.</li>",
+              "<li>A <strong>Modernização Conservadora</strong>, segundo Octavio Ianni, moderniza o país sem eliminar completamente antigas estruturas de poder.</li>",
+              "<li>A desigualdade urbana demonstra que o desenvolvimento brasileiro ocorre de forma <strong>desigual e excludente</strong>.</li>",
+              "<li>A consolidação da democracia exige <strong>impessoalidade, igualdade perante a lei, autonomia institucional e cidadania baseada em direitos</strong>, e não em favores.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/cnVa_Y-WSE8?si=Qyv5ycW2MWsB60FV",
+              "https://www.youtube.com/embed/3_AKJSs9eBM?si=MjRza-2EKAE6haYm",
+              "https://www.youtube.com/embed/C0kRaC64WYw?si=wMhk9HmtnQYfMWyV",
+              "https://www.youtube.com/embed/C-L8yAKTF8g?si=4KCTNR8Y1dQQsKBh"
+            ],
+            "podcasts": [
+              {
+                "titulo": "O Patrimonialismo E A Modernização Do Brasil",
+                "embed": "https://archive.org/embed/o-patrimonialismo-e-a-modernizacao-do-brasil"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "A questão rural no Brasil",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. Formação da desigualdade fundiária</h2>",
+              "<p>A <strong>concentração de terras</strong> no Brasil possui raízes históricas e está diretamente relacionada à concentração de poder econômico e político.</p>",
+              "<p>Principais momentos:</p>",
+              "<ul>",
+              "<li><strong>Período Colonial:</strong> as <strong>sesmarias</strong> favoreceram a formação de grandes propriedades e excluíram grande parte da população do acesso à terra.</li>",
+              "<li><strong>Lei de Terras de 1850:</strong> estabeleceu a <strong>compra</strong> como principal forma legal de acesso à terra, dificultando sua obtenção por pessoas sem recursos.</li>",
+              "<li><strong>República:</strong> a concentração permaneceu, fortalecida pela influência dos grandes proprietários sobre o Estado e as políticas públicas.</li>",
+              "</ul>",
+              "<p>Essa estrutura contribuiu para o surgimento do <strong>coronelismo</strong>, baseado no poder dos grandes proprietários sobre a população local.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Coronelismo e poder político</h2>",
+              "<p>O <strong>coronelismo</strong>, analisado por <strong>Victor Nunes Leal</strong>, consiste na utilização do poder econômico e da influência dos grandes proprietários para controlar relações políticas locais.</p>",
+              "<p>Uma de suas principais manifestações era o <strong>voto de cabresto</strong>, no qual a dependência econômica e a pressão dos proprietários influenciavam o voto da população.</p>",
+              "<p>Com a urbanização e o desenvolvimento do capitalismo, o coronelismo tradicional perdeu força, mas suas práticas não desapareceram completamente.</p>",
+              "<p>Segundo <strong>Florestan Fernandes</strong>, o poder rural passou a assumir uma forma mais moderna: o <strong>empresário do agronegócio</strong>, conectado ao capital comercial e financeiro.</p>",
+              "<p>Assim, houve uma transformação do mecanismo de poder, mas não necessariamente uma democratização da estrutura fundiária.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. Modernização conservadora no campo</h2>",
+              "<p>A <strong>modernização conservadora</strong> ocorre quando novas tecnologias e formas de produção são introduzidas sem modificar profundamente as estruturas sociais existentes.</p>",
+              "<p>No campo brasileiro:</p>",
+              "<ul>",
+              "<li>a mecanização aumentou a capacidade produtiva;</li>",
+              "<li>o agronegócio se integrou ao mercado global;</li>",
+              "<li>grandes propriedades mantiveram sua predominância;</li>",
+              "<li>pequenos produtores continuaram enfrentando dificuldades de acesso à terra e recursos.</li>",
+              "</ul>",
+              "<p>Um exemplo é a persistência da concentração fundiária: o <strong>Índice de Gini de 0,86 em 2017</strong> demonstra um nível extremamente elevado de desigualdade na distribuição das terras.</p>",
+              "<p>Portanto, <strong>modernizar a produção não significa necessariamente democratizar a terra</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Consequências sociais</h2>",
+              "<p>A modernização desigual provocou importantes transformações:</p>",
+              "<ul>",
+              "<li><strong>Êxodo rural:</strong> a mecanização e a concentração de terras contribuíram para a migração da população do campo para as cidades.</li>",
+              "<li><strong>Precarização do trabalho:</strong> persistem situações como trabalho análogo à escravidão e servidão por dívida.</li>",
+              "<li><strong>Desigualdade urbana:</strong> parte da população expulsa do campo passou a ocupar periferias urbanas com menor acesso a serviços.</li>",
+              "<li><strong>Perda de saberes tradicionais:</strong> conhecimentos agrícolas e modos de vida de comunidades tradicionais podem ser enfraquecidos.</li>",
+              "<li><strong>Monocultura:</strong> a predominância de determinados produtos agrícolas pode reduzir a diversidade produtiva e ameaçar a biodiversidade.</li>",
+              "</ul>",
+              "<p>Assim, o êxodo rural não representa simplesmente uma mudança de localização: ele pode significar a <strong>transferência de desigualdades rurais para o espaço urbano</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Alternativas ao modelo dominante</h2>",
+              "<p>Algumas formas de produção procuram combinar geração de renda, sustentabilidade e maior autonomia:</p>",
+              "<ul>",
+              "<li><strong>Agricultura familiar:</strong> contribui para a produção diversificada de alimentos e para a economia local.</li>",
+              "<li><strong>Economia solidária:</strong> utiliza cooperativas e associações para ampliar a participação coletiva na produção e distribuição dos resultados.</li>",
+              "<li><strong>Agroecologia:</strong> combina produção agrícola, preservação ambiental e valorização dos conhecimentos tradicionais.</li>",
+              "</ul>",
+              "<p>Essas alternativas questionam um modelo baseado exclusivamente na <strong>concentração de terra, capital e produção</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>A <strong>concentração fundiária brasileira</strong> possui raízes no período colonial.</li>",
+              "<li>As <strong>sesmarias</strong> e posteriormente a <strong>Lei de Terras de 1850</strong> contribuíram para restringir o acesso à propriedade.</li>",
+              "<li>O <strong>coronelismo</strong> utilizou o poder econômico dos grandes proprietários para influenciar a política local.</li>",
+              "<li>Com o capitalismo, o coronel tradicional foi parcialmente substituído pelo <strong>empresário do agronegócio</strong>, conectado ao capital financeiro.</li>",
+              "<li>A <strong>modernização conservadora</strong> introduziu tecnologia no campo sem eliminar a concentração de terras.</li>",
+              "<li>O modelo contribuiu para <strong>êxodo rural, precarização do trabalho e desigualdade socioespacial</strong>.</li>",
+              "<li><strong>Agricultura familiar, economia solidária e agroecologia</strong> apresentam alternativas ao modelo concentrador.</li>",
+              "<li>O principal paradoxo é: <strong>o campo pode se modernizar tecnologicamente sem se tornar socialmente mais justo</strong>.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/JgFFZ0eTIL8?si=x53doBADQNFWiE7g",
+              "https://www.youtube.com/embed/nsW-guAeYrQ?si=Sz-AsJHeuzJDQpUy",
+              "https://www.youtube.com/embed/X7xgn781lY8?si=QUMv1GCC-Id7SjCE",
+              "https://www.youtube.com/embed/omeGkWLmkHk?si=eCFIo_QtIgNleWxW"
+            ],
+            "podcasts": [
+              {
+                "titulo": "A Raiz Da Desigualdade No Campo Brasileiro",
+                "embed": "https://archive.org/embed/a-raiz-da-desigualdade-no-campo-brasileiro"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "A questão urbana no Brasil",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. Urbanização e desigualdade</h2>",
+              "<p>A urbanização brasileira é resultado de processos sociais e históricos que produzem uma <strong>cidade desigual</strong>. O acesso à infraestrutura, moradia e serviços públicos varia conforme o território.</p>",
+              "<p>O conceito de <strong>espoliação urbana</strong> refere-se à privação sistemática de direitos e serviços, especialmente nas periferias. A população periférica enfrenta:</p>",
+              "<ul>",
+              "<li>Moradias precárias;</li>",
+              "<li>Maior distância dos serviços;</li>",
+              "<li>Longos deslocamentos;</li>",
+              "<li>Maior exposição a riscos sociais e físicos.</li>",
+              "</ul>",
+              "<p>Essa desigualdade territorial contribui para a produção da violência urbana.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. As múltiplas formas de violência</h2>",
+              "<p>Segundo <strong>Sérgio Adorno</strong>, não se deve compreender violência apenas como criminalidade. É necessário falar em <strong>“violências”</strong>, pois existem diferentes formas que se relacionam.</p>",
+              "<p>A análise envolve quatro elementos principais:</p>",
+              "<ul>",
+              "<li><strong>Estruturas sociais:</strong> desigualdade econômica e social.</li>",
+              "<li><strong>Segregação espacial:</strong> divisão da cidade entre territórios com diferentes níveis de direitos e serviços.</li>",
+              "<li><strong>Instituições:</strong> atuação desigual e seletiva do Estado.</li>",
+              "<li><strong>Estigmas:</strong> associação de determinados territórios e grupos à criminalidade.</li>",
+              "</ul>",
+              "<p>Assim, combater apenas crimes individuais não resolve as causas mais profundas da violência.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. Segregação socioespacial em São Paulo</h2>",
+              "<p>O <strong>Mapa da Desigualdade</strong> evidencia diferenças significativas entre os distritos de São Paulo.</p>",
+              "<p>Alguns exemplos:</p>",
+              "<ul>",
+              "<li><strong>Cidade Tiradentes:</strong> baixa oferta de empregos formais, aumentando a necessidade de longos deslocamentos.</li>",
+              "<li><strong>Vila Andrade:</strong> 35,35% dos domicílios estão em favelas, indicando forte desigualdade habitacional.</li>",
+              "<li><strong>Áreas de risco:</strong> aumento de 70% nas moradias localizadas nessas áreas entre 2010 e 2023.</li>",
+              "</ul>",
+              "<p>Esses dados mostram que o <strong>território influencia diretamente as condições de vida e a exposição à violência</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Seletividade institucional e estigma territorial</h2>",
+              "<p>Nas áreas segregadas, o Estado pode apresentar uma atuação contraditória: <strong>pouca oferta de direitos e serviços, mas forte presença repressiva</strong>.</p>",
+              "<p>Um exemplo é o <strong>Tremembé</strong>, onde o deslocamento médio para denúncias de violência contra a mulher chega a <strong>22,2 km</strong>, dificultando o acesso à proteção institucional.</p>",
+              "<p>Além disso, o <strong>estigma territorial</strong> associa periferias à criminalidade. Essa visão pode legitimar abordagens discriminatórias e reforçar a exclusão social.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Tipos de violência</h2>",
+              "<p>A violência urbana possui diferentes dimensões:</p>",
+              "<ul>",
+              "<li><strong>Violência criminal:</strong> crimes como homicídios e roubos.</li>",
+              "<li><strong>Violência institucional:</strong> abusos e tratamento desigual por parte das instituições.</li>",
+              "<li><strong>Violência estrutural:</strong> desigualdade e privação sistemática de direitos.</li>",
+              "<li><strong>Violência simbólica:</strong> discursos e estigmas que naturalizam a pobreza e a criminalização de determinados grupos.</li>",
+              "</ul>",
+              "<p>Essas formas estão relacionadas: <strong>a violência simbólica pode legitimar a institucional, enquanto a violência estrutural mantém as condições que favorecem a exclusão.</strong></p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">6. Segurança pública para além da repressão</h2>",
+              "<p>A violência urbana não pode ser explicada apenas por escolhas individuais ou criminalidade. Ela também está relacionada à <strong>desigualdade social, segregação territorial e atuação seletiva das instituições</strong>.</p>",
+              "<p>Por isso, uma política de segurança pública eficiente deve combinar:</p>",
+              "<ul>",
+              "<li>Combate à criminalidade;</li>",
+              "<li>Redução das desigualdades socioespaciais;</li>",
+              "<li>Ampliação do acesso a serviços públicos;</li>",
+              "<li>Fortalecimento das instituições;</li>",
+              "<li>Combate à discriminação e ao estigma territorial.</li>",
+              "</ul>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>A urbanização brasileira produz <strong>desigualdades territoriais</strong>.</li>",
+              "<li><strong>Espoliação urbana</strong> é a privação sistemática de direitos e serviços.</li>",
+              "<li>Para Sérgio Adorno, devemos falar em <strong>“violências”</strong>, no plural.</li>",
+              "<li>A violência possui dimensões <strong>criminal, institucional, estrutural e simbólica</strong>.</li>",
+              "<li>A segregação socioespacial aumenta a exposição de determinados grupos a riscos e vulnerabilidades.</li>",
+              "<li>A segurança pública não pode depender apenas da <strong>repressão</strong>; deve enfrentar também as causas estruturais da violência.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/G5DnXPONjck?si=1SeM3_feWHdfZIkD",
+              "https://www.youtube.com/embed/5Q22Bf3PGCA?si=oCQDZ600NhZESb4t",
+              "https://www.youtube.com/embed/PKsut6kgCdI?si=O9VlYpIzV_2tCPWc"
+            ],
+            "podcasts": [
+              {
+                "titulo": "A Maratona Pelo Direito À Cidade",
+                "embed": "https://archive.org/embed/a-maratona-pelo-direito-a-cidade"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

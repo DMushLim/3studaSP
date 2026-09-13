@@ -873,20 +873,244 @@
               "<li>ACNUR, UNICEF, Cruz Vermelha e Médicos Sem Fronteiras são organizações frequentemente cobradas em provas.</li>",
               "</ul>"
             ],
-            "videos":[
+            "videos": [
               "https://www.youtube.com/embed/dmQW5a1yzlM?si=3gP8IxGDvtRsiXro",
               "https://www.youtube.com/embed/4Bc3KVXJZzA?si=ewq1aowI1x7PjPlh",
               "https://www.youtube.com/embed/v-s-L5PVS-g?si=MtGlJEY5aRoCShry",
               "https://www.youtube.com/embed/k0_DHtg_Ffc?si=q9KfXRKbYKZdqgrt",
               "https://www.youtube.com/embed/xbZPsaNdT7A?si=IzmjflY2G1EPu2U3"
-
             ],
             "podcasts": [
               {
                 "titulo": "Consumismo Soft Power E Crises Migratórias",
                 "embed": "https://archive.org/embed/consumismo-soft-power-e-crises-migratorias"
               }
-              
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bimestre": "3º Bimestre",
+    "bimestre_id": "3",
+    "canais": [
+      {
+        "nome": "Canal Futura",
+        "imagem": "https://yt3.googleusercontent.com/kr0tKdAtXTmwLbLzNqviYsXpta4SdHgvAkkGkVXJEDhoiZm0RxGKi_tcWolnwqc5gYjbREWIDck=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@CanalfuturaOrgBr"
+      },
+      {
+        "nome": "Curso Enem Gratuito",
+        "imagem": "https://yt3.googleusercontent.com/6NsrkSmcK-tfZ9rxR-8SAgsfI8rlust9gmfaCMmevxrkMIQicFT68kkzaKhFl-0kegUBk9kE=s160-c-k-c0x00ffffff-no-rj",
+        "link": "https://www.youtube.com/@CursoEnemGratuito/videos"
+      }
+    ],
+    "conteudos": [
+      {
+        "titulo": "Urbanização e Dinâmicas do Espaço Urbano",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. Urbanização mundial</h2>",
+              "<p>A <strong>urbanização</strong> é o processo de crescimento da população urbana e de expansão das cidades, associado à transformação da organização econômica e social.</p>",
+              "<p>A urbanização mundial acelerou principalmente com a <strong>Revolução Industrial</strong>:</p>",
+              "<ul>",
+              "<li><strong>1800:</strong> menos de 8% da população mundial vivia em cidades.</li>",
+              "<li><strong>1900:</strong> aproximadamente 16%.</li>",
+              "<li><strong>2007:</strong> mais de 50% da população mundial tornou-se urbana.</li>",
+              "<li><strong>2050:</strong> projeção de cerca de <strong>68%</strong> da população vivendo em áreas urbanas.</li>",
+              "</ul>",
+              "<p>Esse processo ocorreu de maneira desigual entre os países, principalmente devido às diferenças no ritmo de crescimento e na capacidade de planejamento.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Urbanização desenvolvida e em desenvolvimento</h2>",
+              "<p>Nos <strong>países desenvolvidos</strong>, a urbanização ocorreu principalmente entre os séculos XVIII e XIX, de forma mais gradual, permitindo maior adaptação da infraestrutura.</p>",
+              "<p>Nos <strong>países em desenvolvimento</strong>, ocorreu principalmente no século XX, especialmente após 1950, de maneira mais rápida e frequentemente acompanhada por problemas de infraestrutura.</p>",
+              "<p>Quando o crescimento urbano supera a capacidade de atendimento da cidade, ocorre uma <strong>urbanização desintegrada</strong>, caracterizada por:</p>",
+              "<ul>",
+              "<li>Deficiência de infraestrutura;</li>",
+              "<li>Falta de serviços públicos;</li>",
+              "<li>Crescimento de áreas periféricas;</li>",
+              "<li>Aumento das desigualdades.</li>",
+              "</ul>",
+              "<p>Esse processo pode contribuir para a <strong>macrocefalia urbana</strong>, quando determinadas cidades concentram excessivamente população, atividades econômicas e serviços em relação às demais.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. Megacidades e cidades globais</h2>",
+              "<p>É importante diferenciar <strong>tamanho populacional</strong> de <strong>influência econômica</strong>:</p>",
+              "<ul>",
+              "<li><strong>Megacidade:</strong> possui mais de <strong>10 milhões de habitantes</strong>.</li>",
+              "<li><strong>Cidade global:</strong> possui grande influência econômica, política e financeira e forte conexão com redes internacionais.</li>",
+              "</ul>",
+              "<p>Na classificação <strong>GaWC</strong>, alguns exemplos são:</p>",
+              "<ul>",
+              "<li><strong>Alpha ++:</strong> Londres e Nova York.</li>",
+              "<li><strong>Alpha +:</strong> Tóquio, Pequim, Singapura, Xangai e Hong Kong.</li>",
+              "<li><strong>Alpha / Alpha -:</strong> São Paulo, Cidade do México e Buenos Aires.</li>",
+              "<li><strong>Beta:</strong> Rio de Janeiro, Lima e Bogotá.</li>",
+              "</ul>",
+              "<p>As cidades globais funcionam como <strong>nós das redes da globalização</strong>, concentrando fluxos de capital, informação, empresas e decisões.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Rede e hierarquia urbana brasileira</h2>",
+              "<p>A <strong>rede urbana</strong> é formada pela conexão entre cidades por meio de fluxos de pessoas, mercadorias, serviços, informações e capitais.</p>",
+              "<p>Segundo o <strong>IBGE (2018)</strong>, a hierarquia urbana brasileira apresenta diferentes níveis:</p>",
+              "<ol>",
+              "<li><strong>Grande Metrópole Nacional:</strong> São Paulo.</li>",
+              "<li><strong>Metrópoles Nacionais:</strong> Rio de Janeiro e Brasília.</li>",
+              "<li><strong>Metrópoles:</strong> como Belo Horizonte, Curitiba e Porto Alegre.</li>",
+              "<li><strong>Capitais Regionais.</strong></li>",
+              "<li><strong>Centros sub-regionais, de zona e locais.</strong></li>",
+              "</ol>",
+              "<p>Quanto maior a posição na hierarquia, maior tende a ser a <strong>área de influência</strong> e a capacidade de concentrar serviços e atividades econômicas.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Segregação e problemas urbanos</h2>",
+              "<p>O crescimento urbano desigual produz <strong>segregação socioespacial</strong>, separando grupos sociais conforme renda e acesso à infraestrutura.</p>",
+              "<p>Principais consequências:</p>",
+              "<ul>",
+              "<li><strong>Gentrificação:</strong> valorização de áreas urbanas que pode expulsar populações de menor renda.</li>",
+              "<li><strong>Favelização:</strong> expansão de assentamentos precários associada à falta de moradia adequada.</li>",
+              "<li><strong>Segregação socioespacial:</strong> concentração da pobreza e da infraestrutura precária em determinadas áreas.</li>",
+              "<li><strong>Degradação ambiental:</strong> poluição, ocupação de áreas de risco e pressão sobre recursos naturais.</li>",
+              "</ul>",
+              "<p>Um exemplo marcante é a proximidade entre <strong>Morumbi e Paraisópolis</strong>, em São Paulo, que evidencia o contraste socioespacial existente na cidade.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">6. Diferentes critérios de urbanização</h2>",
+              "<p>Não existe um <strong>critério universal</strong> para definir o que é uma área urbana. Cada país pode utilizar diferentes parâmetros populacionais ou administrativos.</p>",
+              "<p>Exemplos:</p>",
+              "<ul>",
+              "<li><strong>Argentina:</strong> localidades com pelo menos 2.000 habitantes.</li>",
+              "<li><strong>Suécia:</strong> assentamentos a partir de 200 habitantes, considerando também a proximidade entre as construções.</li>",
+              "<li><strong>Japão:</strong> mínimo de 50.000 habitantes associado a critérios econômicos.</li>",
+              "<li><strong>Singapura:</strong> praticamente toda a população é considerada urbana por sua própria organização territorial como cidade-Estado.</li>",
+              "</ul>",
+              "<p>Por isso, <strong>taxas de urbanização de diferentes países nem sempre são diretamente comparáveis</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>A urbanização é o <strong>crescimento e expansão das cidades</strong>, associado à transformação econômica e social.</li>",
+              "<li>A população urbana mundial tornou-se majoritária em <strong>2007</strong>.</li>",
+              "<li>Países desenvolvidos tiveram urbanização mais <strong>gradual</strong>, enquanto muitos países em desenvolvimento passaram por urbanização <strong>rápida e desintegrada</strong>.</li>",
+              "<li><strong>Megacidade</strong> indica tamanho populacional; <strong>cidade global</strong>, influência e conexão internacional.</li>",
+              "<li><strong>São Paulo</strong> ocupa o nível máximo da hierarquia urbana brasileira.</li>",
+              "<li>A urbanização desigual pode produzir <strong>macrocefalia, gentrificação, favelização e segregação socioespacial</strong>.</li>",
+              "<li>Os países utilizam <strong>diferentes critérios para definir áreas urbanas</strong>, dificultando comparações simplistas.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/YYg1DW54g6c?si=2QCy0ylnHebwP0R0",
+              "https://www.youtube.com/embed/ybmloQuzDg0?si=oX68uAJy5x-VZ8Bo",
+              "https://www.youtube.com/embed/w8wQtNJWibk?si=2742xO-aOR-5TETy",
+              "https://www.youtube.com/embed/5Q22Bf3PGCA?si=oCQDZ600NhZESb4t",
+              "https://www.youtube.com/embed/PKsut6kgCdI?si=O9VlYpIzV_2tCPWc",
+              "https://www.youtube.com/embed/ZK_C-Awf0O0?si=3PASFqYEaxPOe9Uv",
+              "https://www.youtube.com/embed/YPrPxfB9omM?si=5qD6PdZxsnW95J4U"
+            ],
+            "podcasts": [
+              {
+                "titulo": "A Desigualdade Por Trás Das Megacidades",
+                "embed": "https://archive.org/embed/a-desigualdade-por-tras-das-megacidades"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Geopolítica, Blocos Econômicos e Cooperação Internacional",
+        "itens": [
+          {
+            "textos": [
+              "<h2 class=\"subtitulo\">1. A diplomacia multilateral brasileira</h2>",
+              "<p>O Brasil possui uma tradição de participação em <strong>organizações internacionais</strong>, utilizando o multilateralismo para defender seus interesses e ampliar sua influência.</p>",
+              "<ul>",
+              "<li>É membro fundador da <strong>ONU</strong>, desde 1945.</li>",
+              "<li>Já ocupou <strong>11 vezes</strong> uma cadeira não permanente no Conselho de Segurança da ONU, ao lado do Japão.</li>",
+              "<li>Atua na elaboração de normas internacionais e na negociação de temas como comércio, meio ambiente, saúde e segurança.</li>",
+              "</ul>",
+              "<p>A participação internacional permite ao Brasil aumentar seu <strong>poder de negociação</strong> e atuar como ponte entre países desenvolvidos e países em desenvolvimento.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">2. Principais espaços de atuação</h2>",
+              "<p>A diplomacia brasileira atua em diferentes escalas:</p>",
+              "<ul>",
+              "<li><strong>Global:</strong> ONU, OMC, OMS e OIT.</li>",
+              "<li><strong>Regional:</strong> OEA, Mercosul, BRICS+ e CPLP.</li>",
+              "</ul>",
+              "<p>O Brasil também sedia organismos internacionais e regionais, fortalecendo sua importância diplomática e seu <strong>soft power</strong> — capacidade de influenciar por meio da cooperação, diplomacia e cultura, e não apenas pelo poder econômico ou militar.</p>",
+              "<p>Entre as instituições sediadas no Brasil estão:</p>",
+              "<ul>",
+              "<li><strong>ABACC:</strong> controle e cooperação nuclear entre Brasil e Argentina.</li>",
+              "<li><strong>OTCA:</strong> cooperação entre países da região amazônica.</li>",
+              "<li><strong>CJI-OEA:</strong> questões jurídicas e direito internacional.</li>",
+              "<li><strong>IAI:</strong> pesquisa sobre mudanças globais.</li>",
+              "<li><strong>OEI:</strong> educação, ciência e cultura.</li>",
+              "<li><strong>Parlatino:</strong> integração e cooperação parlamentar latino-americana.</li>",
+              "<li><strong>Ritla:</strong> cooperação tecnológica.</li>",
+              "</ul>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">3. Comércio e meio ambiente</h2>",
+              "<p>Dois importantes instrumentos da atuação internacional brasileira são o <strong>comércio</strong> e o <strong>meio ambiente</strong>.</p>",
+              "<h3>Comércio</h3>",
+              "<p>Na <strong>OMC</strong>, o Brasil defende principalmente seus interesses agrícolas, buscando:</p>",
+              "<ul>",
+              "<li>Redução de subsídios agrícolas dos países desenvolvidos;</li>",
+              "<li>Diminuição de barreiras comerciais;</li>",
+              "<li>Maior participação dos países em desenvolvimento no comércio mundial.</li>",
+              "</ul>",
+              "<p>O <strong>Mercosul</strong> é fundamental para ampliar a integração econômica regional e fortalecer a posição brasileira nas negociações internacionais.</p>",
+              "<h3>Meio ambiente</h3>",
+              "<p>A <strong>Amazônia</strong> dá ao Brasil grande importância estratégica nas negociações ambientais.</p>",
+              "<p>O país teve participação relevante em:</p>",
+              "<ul>",
+              "<li><strong>Rio-92</strong>;</li>",
+              "<li><strong>Acordo de Paris (2015)</strong>;</li>",
+              "<li><strong>COP-30</strong>, realizada em Belém em 2025.</li>",
+              "</ul>",
+              "<p>A proteção ambiental também funciona como instrumento diplomático, pois a biodiversidade e as florestas brasileiras são importantes para o <strong>equilíbrio climático mundial</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">4. Segurança e saúde</h2>",
+              "<p>O Brasil também utiliza a cooperação internacional para aumentar sua influência em questões de segurança e saúde.</p>",
+              "<ul>",
+              "<li><strong>MINUSTAH:</strong> o Brasil liderou a missão de paz da ONU no Haiti entre 2004 e 2017, coordenando ações militares, policiais e civis.</li>",
+              "<li><strong>Saúde:</strong> mantém cooperação com a <strong>OPAS</strong> e possui reconhecimento internacional por políticas de combate ao <strong>HIV/Aids</strong>.</li>",
+              "<li>Essas experiências fortalecem a imagem brasileira como país capaz de participar de ações de <strong>mediação, cooperação e estabilização</strong>.</li>",
+              "</ul>",
+              "<p>Essa atuação contribui para a reivindicação brasileira de um <strong>assento permanente no Conselho de Segurança da ONU</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">5. Blocos econômicos e níveis de integração</h2>",
+              "<p>Os blocos econômicos permitem aumentar o comércio e a integração entre países.</p>",
+              "<p>Existem diferentes níveis de integração:</p>",
+              "<ol>",
+              "<li><strong>Área de Livre Comércio:</strong> redução ou eliminação de tarifas entre os membros.</li>",
+              "<li><strong>União Aduaneira:</strong> além do comércio interno, utiliza uma <strong>Tarifa Externa Comum (TEC)</strong>.</li>",
+              "<li><strong>Mercado Comum:</strong> busca permitir a livre circulação de bens, serviços, capitais e pessoas.</li>",
+              "<li><strong>União Econômica e Monetária:</strong> maior integração, com coordenação das políticas econômicas e possibilidade de moeda comum.</li>",
+              "</ol>",
+              "<p>O <strong>Mercosul</strong> é uma <strong>união aduaneira imperfeita</strong>, pois possui exceções à TEC e ainda não alcançou plenamente o estágio de mercado comum.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">6. Brasil e a governança global</h2>",
+              "<p>O Brasil busca ampliar sua influência por meio do <strong>multilateralismo</strong>, da cooperação internacional e da participação em organizações e blocos econômicos.</p>",
+              "<p>Uma das principais reivindicações brasileiras é a <strong>reforma do Conselho de Segurança da ONU</strong>, defendida conjuntamente com os demais países do <strong>G4: Alemanha, Brasil, Índia e Japão</strong>.</p>",
+              "<p>A proposta busca tornar a governança internacional mais representativa da atual <strong>multipolaridade mundial</strong>.</p>",
+              "<hr>",
+              "<h2 class=\"subtitulo\">Síntese Final</h2>",
+              "<ul>",
+              "<li>O Brasil utiliza o <strong>multilateralismo</strong> para defender interesses nacionais e ampliar sua influência internacional.</li>",
+              "<li>Atua em organizações como <strong>ONU, OMC, OMS, OIT, OEA e Mercosul</strong>.</li>",
+              "<li><strong>Comércio, meio ambiente, saúde e segurança</strong> são importantes áreas de atuação diplomática.</li>",
+              "<li>A <strong>Amazônia</strong> aumenta o peso estratégico brasileiro nas negociações ambientais.</li>",
+              "<li>O <strong>Mercosul</strong> é uma união aduaneira imperfeita.</li>",
+              "<li>Os níveis de integração econômica vão de <strong>área de livre comércio</strong> até <strong>união econômica e monetária</strong>.</li>",
+              "<li>O Brasil defende, junto ao <strong>G4</strong>, a reforma do Conselho de Segurança e um sistema internacional mais representativo.</li>",
+              "</ul>"
+            ],
+            "videos": [
+              "https://www.youtube.com/embed/CB1YydpFP68?si=RSjjrwrC-NIGfdWc",
+              "https://www.youtube.com/embed/L1AzPYQE1uE?si=qNefZUc7HYrV1Fmf",
+              "https://www.youtube.com/embed/jk7cCPv-nBc?si=MBpyA_htYIxIfzJ8"
+            ],
+            "podcasts": [
+              {
+                "titulo": "O Novo Peso Global Do BRICS",
+                "embed": "https://archive.org/embed/o-novo-peso-global-do-brics"
+              }
             ]
           }
         ]

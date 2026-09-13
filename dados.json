@@ -67,11 +67,11 @@
       },
       {
         "nome": "Atualidades",
-        "arquivo":"dados/atualidades.json"
+        "arquivo": "dados/atualidades.json"
       },
       {
-      "nome": "Aprofundamento em Filosofia",
-      "arquivo": "dados/aprofundamento-em-filosofia.json"
+        "nome": "Aprofundamento em Filosofia",
+        "arquivo": "dados/aprofundamento-em-filosofia.json"
       },
       {
         "nome": "Aprofundamento em Geografia",
@@ -86,10 +86,10 @@
   {
     "id": "3",
     "bimestre": "3º Bimestre",
-    "disciplinas":[
+    "disciplinas": [
       {
-      "nome": "Língua Portuguesa",
-      "arquivo": "dados/lingua-portuguesa.json"
+        "nome": "Língua Portuguesa",
+        "arquivo": "dados/lingua-portuguesa.json"
       },
       {
         "nome": "Língua Inglesa",
@@ -109,15 +109,19 @@
       },
       {
         "nome": "Atualidades",
-        "arquivo":"dados/atualidades.json"
+        "arquivo": "dados/atualidades.json"
       },
       {
-      "nome": "Aprofundamento em Filosofia",
-      "arquivo": "dados/aprofundamento-em-filosofia.json"
+        "nome": "Aprofundamento em Filosofia",
+        "arquivo": "dados/aprofundamento-em-filosofia.json"
       },
       {
         "nome": "Aprofundamento em Sociologia",
         "arquivo": "dados/aprofundamento-em-sociologia.json"
+      },
+      {
+        "nome": "Aprofundamento em Geografia",
+        "arquivo": "dados/aprofundamento-em-geografia.json"
       }
     ]
   }

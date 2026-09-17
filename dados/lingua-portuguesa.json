@@ -4209,6 +4209,12 @@
               "https://www.youtube.com/embed/PcXqyBgGjJA?si=aQ9IwaxXWubIfqA8",
               "https://www.youtube.com/embed/GjL9gK4rGY8?si=udu0_cG0lT5ASq09",
               "https://www.youtube.com/embed/UFfwu1dbUys?si=a9MrPvnHYx2Uzaf3"
+            ],
+            "podcasts": [
+              {
+                "titulo": "Língua Entre O Preconceito E A Arte",
+                "embed": "https://archive.org/embed/lingua-entre-o-preconceito-e-a-arte"
+              }
             ]
           }
         ]

@@ -2511,5 +2511,48 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Antiguidade Clássica",
+        "itens": []
+      },
+      {
+        "titulo": "Período Medieval",
+        "itens": []
+      },
+      {
+        "titulo": "Mundo Moderno",
+        "itens": []
+      },
+      {
+        "titulo": "Mundo Contemporâneo",
+        "itens": []
+      },
+      {
+        "titulo": " Estados Unidos e América Latina: diálogos e tensões",
+        "itens": []
+      },
+      {
+        "titulo": "Os primeiros habitantes",
+        "itens": []
+      },
+      {
+        "titulo": "Conquista e colonização portuguesa",
+        "itens": []
+      },
+      {
+        "titulo": "Brasil Imperial",
+        "itens": []
+      },
+      {
+        "titulo": "Brasil República",
+        "itens": []
+      }
+    ]
   }
 ]

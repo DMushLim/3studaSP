@@ -2350,5 +2350,28 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Compreensão global e identificação da finalidade do texto",
+        "itens": []
+      },
+      {
+        "titulo": "Compreensão e interpretação de informações e relações textuais",
+        "itens": []
+      },
+      {
+        "titulo": "Articulação e integração de informações verbais e não verbais",
+        "itens": []
+      },
+      {
+        "titulo": "Análise crítica do discurso e compreensão dos recursos linguísticos",
+        "itens": []
+      }
+    ]
   }
 ]

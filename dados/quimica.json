@@ -1,0 +1,53 @@
+[
+    {
+        "bimestre": "Resumo Provão",
+        "bimestre_id": "5",
+        "canais": [],
+        "conteudos": [
+            {
+                "titulo": "Materiais: uso e propriedades",
+                "itens": []
+            },
+            {
+                "titulo": "Transformações químicas: evidências, representações e aspectos quantitativos",
+                "itens": []
+            },
+            {
+                "titulo": "Funções inorgânicas",
+                "itens": []
+            },
+            {
+                "titulo": "Química e meio ambiente",
+                "itens": []
+            },
+            {
+                "titulo": "O átomo isolado e sua estrutura",
+                "itens": []
+            },
+            {
+                "titulo": "O átomo ligado: tipos de ligações e substâncias químicas",
+                "itens": []
+            },
+            {
+                "titulo": "Polaridade e interações entre moléculas",
+                "itens": []
+            },
+            {
+                "titulo": "Água e soluções aquosas",
+                "itens": []
+            },
+            {
+                "titulo": "Transformações químicas: um processo dinâmico",
+                "itens": []
+            },
+            {
+                "titulo": "Transformações de substâncias químicas e energia",
+                "itens": []
+            },
+            {
+                "titulo": "Estudo dos compostos de carbono",
+                "itens": []
+            }
+        ]
+    }
+]

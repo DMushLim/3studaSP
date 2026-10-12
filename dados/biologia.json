@@ -1,0 +1,37 @@
+[
+    {
+        "bimestre": "Resumo Provão",
+        "bimestre_id": "5",
+        "canais": [],
+        "conteudos": [
+            {
+                "titulo": "Os seres vivos no ambiente",
+                "itens": []
+            },
+            {
+                "titulo": "Estudo químico e celular dos seres vivos, reprodução, desenvolvimento e metabolismo energético   ",
+                "itens": []
+            },
+            {
+                "titulo": "Níveis de organização dos seres vivos, classificação biológica dos seres vivos",
+                "itens": []
+            },
+            {
+                "titulo": "Biologia das plantas e dos animais",
+                "itens": []
+            },
+            {
+                "titulo": "Hereditariedade",
+                "itens": []
+            },
+            {
+                "titulo": "Origem e evolução da vida",
+                "itens": []
+            },
+            {
+                "titulo": "Investigação científica",
+                "itens": []
+            }
+        ]
+    }
+]

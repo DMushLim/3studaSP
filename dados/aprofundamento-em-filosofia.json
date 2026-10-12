@@ -1707,5 +1707,28 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Filosofia e visões de mundo",
+        "itens": []
+      },
+      {
+        "titulo": "Epistemologia",
+        "itens": []
+      },
+      {
+        "titulo": "Ética",
+        "itens": []
+      },
+      {
+        "titulo": "Filosofia política",
+        "itens": []
+      }
+    ]
   }
 ]

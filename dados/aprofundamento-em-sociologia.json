@@ -1651,5 +1651,32 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "O indivíduo e a sociedade",
+        "itens": []
+      },
+      {
+        "titulo": "A sociedade e o trabalho",
+        "itens": []
+      },
+      {
+        "titulo": "A sociedade e a cultura",
+        "itens": []
+      },
+      {
+        "titulo": "A sociedade e o Estado",
+        "itens": []
+      },
+      {
+        "titulo": "A sociedade brasileira",
+        "itens": []
+      }
+    ]
   }
 ]

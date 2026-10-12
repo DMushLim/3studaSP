@@ -2777,5 +2777,76 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Cinemática",
+        "itens": []
+      },
+      {
+        "titulo": "Movimento e as leis de Newton",
+        "itens": []
+      },
+      {
+        "titulo": "Gravitação newtoniana",
+        "itens": []
+      },
+      {
+        "titulo": "Trabalho e energia",
+        "itens": []
+      },
+      {
+        "titulo": "Termometria",
+        "itens": []
+      },
+      {
+        "titulo": "Calorimetria",
+        "itens": []
+      },
+      {
+        "titulo": "Propagação de calor",
+        "itens": []
+      },
+      {
+        "titulo": "Gases",
+        "itens": []
+      },
+      {
+        "titulo": "Termodinâmica",
+        "itens": []
+      },
+      {
+        "titulo": "Princípios da óptica geométrica",
+        "itens": []
+      },
+      {
+        "titulo": "Reflexão da luz e formação de imagem",
+        "itens": []
+      },
+      {
+        "titulo": "Refração luminosa",
+        "itens": []
+      },
+      {
+        "titulo": "Ondulatória",
+        "itens": []
+      },
+      {
+        "titulo": "Eletrostática",
+        "itens": []
+      },
+      {
+        "titulo": "Eletrodinâmica",
+        "itens": []
+      },
+      {
+        "titulo": "Eletromagnetismo",
+        "itens": []
+      }
+    ]
   }
 ]

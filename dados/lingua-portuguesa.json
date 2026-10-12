@@ -4220,5 +4220,36 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Funcionamento social da língua",
+        "itens": []
+      },
+      {
+        "titulo": "Morfossintaxe",
+        "itens": []
+      },
+      {
+        "titulo": "Processos sintático-semânticos",
+        "itens": []
+      },
+      {
+        "titulo": "Compreensão, interpretação e produção de textos de gêneros variados e de diversas mídias",
+        "itens": []
+      },
+      {
+        "titulo": "Literatura brasileira",
+        "itens": []
+      },
+      {
+        "titulo": "Literatura portuguesa",
+        "itens": []
+      }
+    ]
   }
 ]

@@ -1360,5 +1360,24 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "Resumo Provão",
+    "bimestre_id": "5",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Os espaços mundial e brasileiro",
+        "itens": []
+      },
+      {
+        "titulo": "As grandes paisagens naturais da Terra e a questão ambiental",
+        "itens": []
+      },
+      {
+        "titulo": "A cartografia sistemática, temática e suas tecnologias",
+        "itens": []
+      }
+    ]
   }
 ]

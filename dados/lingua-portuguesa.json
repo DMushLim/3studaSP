@@ -4228,27 +4228,79 @@
     "conteudos": [
       {
         "titulo": "Funcionamento social da língua",
-        "itens": []
+        "itens": [
+          {
+            "videos":[
+              "https://www.youtube.com/embed/d0fZoLzsDlM?si=wmIg338N46_EVDvO"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Morfossintaxe",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/GM0XRcaW00c?si=qiA79sYLiChKm0KJ",
+              "https://www.youtube.com/embed/mOZ94vR8jgM?si=Rq47KIymD6ohdMb1",
+              "https://www.youtube.com/embed/damQeTjeOpI?si=urLJ-ZFhiXe1UHlA",
+              "https://www.youtube.com/embed/PcXqyBgGjJA?si=LCEEwQqF1SpeqAhT",
+              "https://www.youtube.com/embed/7Cmno9rE1wc?si=0_R6ZVQAhBC748GW"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Processos sintático-semânticos",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/jYhX1K18WjA?si=HXnIAij8ElPyyZYA",
+              "https://www.youtube.com/embed/m7Jt2w3bHjQ?si=X50fv0JAaKgM4kWz",
+              "https://www.youtube.com/embed/1C88RhbZjgg?si=NlJX0O6bXd8B3uXC",
+              "https://www.youtube.com/embed/zN3Q2yMlAmI?si=YeV7Yh7p6EjgHbZP"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Compreensão, interpretação e produção de textos de gêneros variados e de diversas mídias",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/M2H35DwkR6o?si=cwNKFo9a4doKlsWb",
+              "https://www.youtube.com/embed/RXqDkeK6Qbg?si=04vdUGudsm3dBPWn",
+              "https://www.youtube.com/embed/ibwf_X3498c?si=fxsXyR3Zm4K3o5hb",
+              "https://www.youtube.com/embed/wWJfJ0fjRbw?si=xiEwKBCO4KmMrQ7S",
+              "https://www.youtube.com/embed/BJZx9hRujfc?si=dj4fnICxaKRPiTZA",
+              "https://www.youtube.com/embed/xfjSzZf6JA4?si=o_DcXpn1meocn_Ue"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Literatura brasileira",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/BzuiijVviaE?si=2HnaXsHAtto2Bsqv",
+              "https://www.youtube.com/embed/2pgwJraQlJc?si=S0Ax9J66Wjgwn0Di",
+              "https://www.youtube.com/embed/D8xQel1nhxg?si=_8jE_EcOIk1aTeGN"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Literatura portuguesa",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/VO-jfa7IcCE?si=U-GswsgivxAAG3nq",
+              "https://www.youtube.com/embed/Yny-_awoqyg?si=DY1nYdMMjYDnYODv",
+              "https://www.youtube.com/embed/V28ng3Znkpo?si=Lr9zc6Y0f9tN7Vye"
+            ]
+          }
+        ]
       }
     ]
   }

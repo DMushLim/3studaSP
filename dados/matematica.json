@@ -1961,43 +1961,124 @@
     "conteudos": [
       {
         "titulo": "Conjuntos numéricos",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/GLYEff_w-dE?si=vTbGDBQa37TmqC7Y",
+              "https://www.youtube.com/embed/EZv46COmpLg?si=XNmzATuGjPNP4RVq",
+              "https://www.youtube.com/embed/2C4T0qfs_o8?si=V3Ss9IrHAgBq0fEN",
+              "https://www.youtube.com/embed/Q_tHELEwVN0?si=HHcN5r56zRGTATWh",
+              "https://www.youtube.com/embed/RSixf97dzhc?si=5yRWz6I9lPqVsTUC",
+              "https://www.youtube.com/embed/b0AQkMYvWU8?si=u3YdqoJES31t2b59"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Análise combinatória",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/8JNrS7KApGs?si=jSnNDTnvPRCRuVxY",
+              "https://www.youtube.com/embed/f0OjyQhITv0?si=mrI9il8lvoMwNfQN"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Probabilidade",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/V5e8_Jp67M0?si=QA4Cs24kYbSDlzoE",
+              "https://www.youtube.com/embed/7E-rh5heeP8?si=WsUwmNZ8f3A50Hdj"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Sistemas lineares",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/nvT15exeXOA?si=e-nq6-viMLJ-05Nn",
+              "https://www.youtube.com/embed/hP59QyuhTbc?si=HXh2-sb4agOYky5h",
+              "https://www.youtube.com/embed/qoWPePPGZKA?si=R9_TBh54_cJZVHmA"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Funções",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/xpv-SWbDUr8?si=BXCYk_PaXwu8PnKp",
+              "https://www.youtube.com/embed/4q2N2HzSivA?si=42DP6vJlmyXUwmIf",
+              "https://www.youtube.com/embed/SKLtFgYEPwY?si=O0d7j4AfPp3i50uX",
+              "https://www.youtube.com/embed/qUGom1RNqds?si=tj0_kbOMhNL4fpYm",
+              "https://www.youtube.com/embed/oza6zrCMOPM?si=oioh-hLOQshZ56ia"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Trigonometria",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/DXM8rMf5u5I?si=OtFq8t3rGjlUAkSe",
+              "https://www.youtube.com/embed/oa70Er7rgi0?si=3EAwaOJ9SYkeFAgX",
+              "https://www.youtube.com/embed/bu42X5qf-BU?si=LlM5rATnT9BpUmgO",
+              "https://www.youtube.com/embed/Vp3gI7r1pUQ?si=Nvqs2ohGhskhHU4J",
+              "https://www.youtube.com/embed/6f72-ZyiTYw?si=Y49esxq2L_6f9KUK"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Geometria plana",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/VxNj6Nuhq1o?si=Gfe94zJf5XcRNL_Y",
+              "https://www.youtube.com/embed/IsCaApNtYas?si=wv8Td5ko7wji3YwA"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Geometria espacial",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/dub7K_ialEc?si=o2FObyzuoz75oI0C",
+              "https://www.youtube.com/embed/zJ0YjUMEfjI?si=pUyQ8rqwt_dMuBpV"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Tratamento da informação",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/XzZGAwfKs_k?si=Ma-e83RCLk1WqRBy",
+              "https://www.youtube.com/embed/M-UrLeWqfxo?si=Dgt_TIaSXo1wAlAb",
+              "https://www.youtube.com/embed/IgoKxQK5hGQ?si=0NmBT_Yhn0FzWxBl"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Sistemas de Medidas",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/lEyUFyKPqXA?si=TbhNdSvMimPGKJKy"
+            ]
+          }
+        ]
       }
     ]
   }

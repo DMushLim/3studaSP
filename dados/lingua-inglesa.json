@@ -2358,19 +2358,48 @@
     "conteudos": [
       {
         "titulo": "Compreensão global e identificação da finalidade do texto",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/rOvjODavDhk?si=dH3SBcWfpvrrATb-"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Compreensão e interpretação de informações e relações textuais",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/kKNhbV86Cyw?si=Rxs86H97TMXeUTE0",
+              "https://www.youtube.com/embed/vvj5SxN-Rc4?si=Qx1w8TdDAYxKwDDx",
+              "https://www.youtube.com/embed/aSayo14yYmw?si=UVTUZ4WfjdU-8lQj",
+              "https://www.youtube.com/embed/cmp5K7CW_fs?si=LC30vLTqq7oG-9-m"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Articulação e integração de informações verbais e não verbais",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/2Nc0F8fY3-E?si=4Jg-9rPbtV9IgwKL",
+              "https://www.youtube.com/embed/jbeefq7fNOY?si=FcHBm139dG_kuSs8"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Análise crítica do discurso e compreensão dos recursos linguísticos",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/Nl4cUp0f0ZE?si=fF4ZMche-dfoz8ek",
+              "https://www.youtube.com/embed/HfjWuqTwwGE?si=7wkf-YxmbISXwAhf"
+            ]
+          }
+        ]
       }
     ]
   }

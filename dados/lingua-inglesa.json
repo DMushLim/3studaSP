@@ -2352,6 +2352,20 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Desafios e Crises Ambientais Globais",
+        "itens": []
+      },
+      {
+        "titulo": "Fast Fashion e Ação Prática Comunitária",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

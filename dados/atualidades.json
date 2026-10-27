@@ -1208,5 +1208,19 @@
         ]
       }
     ]
+  },
+  {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Crise Climática e Justiça Ambiental",
+        "itens": []
+      },
+      {
+        "titulo": "Biotecnologia, Tecnociência e Futuros Possíveis",
+        "itens": []
+      }
+    ]
   }
 ]

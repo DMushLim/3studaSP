@@ -1709,25 +1709,90 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Subjetividade e genealogia",
+        "itens": []
+      },
+      {
+        "titulo": "Função social da arte",
+        "itens": []
+      },
+      {
+        "titulo": "Sociedade e consumo",
+        "itens": []
+      },
+      {
+        "titulo": "Sociedade e trabalho",
+        "itens": []
+      },
+      {
+        "titulo": "Filosofias contracoloniais",
+        "itens": []
+      },
+      {
+        "titulo": "Posições e oposições filosóficas",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],
     "conteudos": [
       {
         "titulo": "Filosofia e visões de mundo",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/66iKgQEJlsc?si=ZmDdfAbCdG4xP4nD",
+              "https://www.youtube.com/embed/gXaLBGQTkrw?si=dYitmsz2EGBezuX3",
+              "https://www.youtube.com/embed/4VzqshtvrcE?si=cDqHuBrcrqsjrjsK",
+              "https://www.youtube.com/embed/3hIbDDraUJE?si=LGpWFry_8orGq1ta"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Epistemologia",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/gbBPnh3wI-c?si=ppj82f7v-tcuwdQy",
+              "https://www.youtube.com/embed/Ne5NG1sen7M?si=ZNViheQ4a_L6NVBy",
+              "https://www.youtube.com/embed/MgGz6YCc72U?si=xaddv4D_5KI0RJ7F",
+              "https://www.youtube.com/embed/mzN9w1SGBQw?si=SmLsEsBGNuJOvWh5"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Ética",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/r1YjaQn3Wao?si=RCvtJteVJbLbZtLW",
+              "https://www.youtube.com/embed/AAac2n0rnLk?si=A7rrXsr9oxzC_523",
+              "https://www.youtube.com/embed/hQ3xPhjRcH8?si=hGAMminVtqX42sqb",
+              "https://www.youtube.com/embed/eCUKQU58SQI?si=miEAcki_irxjLBoi"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Filosofia política",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/_Rk7yRwrpQA?si=IJjwZkMxfUtfKTd-",
+              "https://www.youtube.com/embed/3GZHpnth0fM?si=OTjUOWCAXTE0lEie",
+              "https://www.youtube.com/embed/Y2uzjv9-Euk?si=LtQQh6chjGceC5rO"
+            ]
+          }
+        ]
       }
     ]
   }

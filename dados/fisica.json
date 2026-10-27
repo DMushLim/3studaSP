@@ -2779,6 +2779,36 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Indução Eletromagnética",
+        "itens": []
+      },
+      {
+        "titulo": "Física Quântica e Física Moderna",
+        "itens": []
+      },
+      {
+        "titulo": "Calorimetria",
+        "itens": []
+      },
+      {
+        "titulo": "Eletricidade",
+        "itens": []
+      },
+      {
+        "titulo": "Termodinâmica e Gases Ideais",
+        "itens": []
+      },
+      {
+        "titulo": "Hidrostática",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

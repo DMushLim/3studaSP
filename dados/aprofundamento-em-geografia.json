@@ -1362,6 +1362,32 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Globalização e Desigualdades Socioeconômicas Globais",
+        "itens": []
+      },
+      {
+        "titulo": "Tecnologia, Produtividade e Geopolítica Espacial",
+        "itens": []
+      },
+      {
+        "titulo": "Transformação Digital, Indústria 4.0 e o Mercado de Trabalho",
+        "itens": []
+      },
+      {
+        "titulo": "Geopolítica Financeira e Relações Monetárias",
+        "itens": []
+      },
+      {
+        "titulo": "Geopolítica da Informação, Big Techs e Simulação Prática",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

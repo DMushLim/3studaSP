@@ -1653,6 +1653,24 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Questão Indígena no Brasil",
+        "itens": []
+      },
+      {
+        "titulo": "Questão Negra no Brasil",
+        "itens": []
+      },
+      {
+        "titulo": "Questão de Gênero no Brasil",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

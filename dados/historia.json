@@ -2513,6 +2513,24 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "conteudos": [
+      {
+        "titulo": "Ditadura Civil-Militar",
+        "itens": []
+      },
+      {
+        "titulo": "Abertura Política, Redemocratização e a Constituição de 1988",
+        "itens": []
+      },
+      {
+        "titulo": "Nova República e Reestruturação Econômica nos Anos 1990",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

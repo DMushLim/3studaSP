@@ -4222,6 +4222,49 @@
     ]
   },
   {
+    "bimestre": "4º Bimestre",
+    "bimestre_id": "4",
+    "canais": [],
+    "conteudos": [
+      {
+        "titulo": "Textos Contemporâneos Africanos",
+        "itens": []
+      },
+      {
+        "titulo": "Textos Contemporâneos Portugueses",
+        "itens": []
+      },
+      {
+        "titulo": "Textos Contemporâneos Indígenas",
+        "itens": []
+      },
+      {
+        "titulo": "Texto Dissertativo-Argumentativo",
+        "itens": []
+      },
+      {
+        "titulo": "Literatura Brasileira: Poesia e Prosa",
+        "itens": []
+      },
+      {
+        "titulo": "Redação de Vestibular como Gênero",
+        "itens": []
+      },
+      {
+        "titulo": "Literatura Brasileira Contemporânea",
+        "itens": []
+      },
+      {
+        "titulo": "Literatura nas Redes Sociais e Digital",
+        "itens": []
+      },
+      {
+        "titulo": "Vozes das Mulheres na Literatura Contemporânea Brasileira",
+        "itens": []
+      }
+    ]
+  },
+  {
     "bimestre": "Resumo Provão",
     "bimestre_id": "5",
     "canais": [],

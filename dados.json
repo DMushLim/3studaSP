@@ -172,11 +172,11 @@
     "bimestre": "Resumo Provão",
     "disciplinas": [
       {
-        "nome": "Língua Portuguesa",
+        "nome": "Língua Portuguesa ✔",
         "arquivo": "dados/lingua-portuguesa.json"
       },
       {
-        "nome": "Língua Inglesa",
+        "nome": "Língua Inglesa ✔",
         "arquivo": "dados/lingua-inglesa.json"
       },
       {
@@ -188,11 +188,11 @@
         "arquivo": "dados/quimica.json"
       },
       {
-        "nome": "Biologia",
+        "nome": "Biologia ✔",
         "arquivo": "dados/biologia.json"
       },
       {
-        "nome": "Matemática",
+        "nome": "Matemática ✔",
         "arquivo": "dados/matematica.json"
       },
       {
@@ -208,7 +208,7 @@
         "arquivo": "dados/aprofundamento-em-sociologia.json"
       },
       {
-        "nome": "Filosofia",
+        "nome": "Filosofia ✔",
         "arquivo": "dados/aprofundamento-em-filosofia.json"
       }
     ]

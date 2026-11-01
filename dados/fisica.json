@@ -2815,67 +2815,200 @@
     "conteudos": [
       {
         "titulo": "Cinemática",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/D6gB4jnx9Wc?si=i1FFm9j67hn2Jquc",
+              "https://www.youtube.com/embed/UbRS2iHt-uo?si=YtEk-oPDVb_9JQ8x"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Movimento e as leis de Newton",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/yxKB5oB-Pco?si=_An-5Okc6mMFzwyi",
+              "https://www.youtube.com/embed/W9fnE9NdFzo?si=JGnnLBq9xdcOGwow",
+              "https://www.youtube.com/embed/A5cezdFBoiU?si=kzNCmlSfZ0nwFS7c",
+              "https://www.youtube.com/embed/WPDC2H5AT40?si=k38evd6HVTFzjjX4"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Gravitação newtoniana",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/nVHQ_mP_x7A?si=aGdMTwSiEYV8Irnh",
+              "https://www.youtube.com/embed/xS7sN2qM1V8?si=Q_oWpr5LFx1A44uu",
+              "https://www.youtube.com/embed/GDWKx90sxFw?si=6kc2mSvS5wI4u2qR"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Trabalho e energia",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/GbywMXWHS7E?si=dQNzzi9-N6MoS-1z",
+              "https://www.youtube.com/embed/B6w3uWYr6SA?si=b_TsUOrYThSK5JLR",
+              "https://www.youtube.com/embed/iBsUfL7fYfs?si=kIxMB3syzseYu9NX"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Termometria",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/NSVjSXqNecg?si=Ha7R1uFGfOdMy7wC",
+              "https://www.youtube.com/embed/8fo8_m-qP9M?si=fg4_dfcpr76qS18s"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Calorimetria",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/T5VeHW1cslo?si=14FhExEKR52O4tMF",
+              "https://www.youtube.com/embed/eYCDW-uSBss?si=6aLWjHy7dYWzp6Dg",
+              "https://www.youtube.com/embed/Hd4fDE91III?si=mBeTFgCrMu05cb47"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Propagação de calor",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/BiNNerc1e9U?si=00Hh_GpD-Zi8n-NE"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Gases",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/iPZTvch84Fg?si=n0RkcZRzQEYGQs46",
+              "https://www.youtube.com/embed/CLSiC92Ew04?si=DZGaXW0opQs0KvDF"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Termodinâmica",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/GYxXCr6HXcw?si=ffYOUndMw79zbpd5",
+              "https://www.youtube.com/embed/Nl1XybZ2rFA?si=-bQkE_zM-qqnw__n",
+              "https://www.youtube.com/embed/Hs0WmivIVRU?si=l2jZCx2LNBSiF-wV",
+              "https://www.youtube.com/embed/fLfd0P4EXHY?si=JTSuX9THmwXYCgYP",
+              "https://www.youtube.com/embed/6A-_VrHlOYk?si=GQgeaM72ZIKS7g55"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Princípios da óptica geométrica",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/kHYpjD6HYGs?si=BwkyDtReJ4IQdv_o",
+              "https://www.youtube.com/embed/skyN-MuTXIg?si=U1R538URAkc_-kEp" 
+            ]
+          }
+        ]
       },
       {
         "titulo": "Reflexão da luz e formação de imagem",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/DMx833a-htQ?si=UBWN4soDur9N7W02",
+              "https://www.youtube.com/embed/IsELRLIZqHo?si=ONSHh6m6DCdF0CE4",
+              "https://www.youtube.com/embed/rwWIiShNgpg?si=Gwpx_SkxYdxdZb67",
+              "https://www.youtube.com/embed/KPykPLP7osA?si=VQpICKgB6FfvhrlJ"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Refração luminosa",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/-GMtjKlPCOw?si=OOiAfiXcbIxcI6Az",
+              "https://www.youtube.com/embed/7ZyFvYqGs6k?si=wzoMmxYLyqW6jqEO",
+              "https://www.youtube.com/embed/gLoFBb_FmN8?si=Ovmw1Tpxfm7BC4TF",
+              "https://www.youtube.com/embed/JvV1w_14q6U?si=zOVnqk1Gwf65xloW"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Ondulatória",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/c-SFJSRnsKk?si=ZsX78pT4MQ_2g8NI",
+              "https://www.youtube.com/embed/caCRpfLJOFs?si=Vr-gNHI90HkuVoN8",
+              "https://www.youtube.com/embed/L801qdT0Twc?si=XsrS-9UFlWcoyTI4",
+              "https://www.youtube.com/embed/2h9yM65xVVk?si=8s83lY0h8-RlrTPn",
+              "https://www.youtube.com/embed/kR5FSlOPrhI?si=ecrYNy1rg0L_548L",
+              "https://www.youtube.com/embed/78WkQObqp3U?si=60o8BgdORHrRubbf"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Eletrostática",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/MyhfHd0iD0Q?si=8zad4AvqkXJUnBTa",
+              "https://www.youtube.com/embed/_QaGh1Y5cNM?si=0RmseOV5uvxqUrYh",
+              "https://www.youtube.com/embed/UvwO_c4vmKU?si=SIN3fGZUyLBFy0ZX"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Eletrodinâmica",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/5TfJELzSsEk?si=BIhBQNsoIehhkESn",
+              "https://www.youtube.com/embed/4jU7jtqHU8E?si=fnw0npN8ptLkBhdi",
+              "https://www.youtube.com/embed/WsyZf6nb7kI?si=-Mp6_WDky56OQZhJ",
+              "https://www.youtube.com/embed/ABSFFsxQSxg?si=Tf5eI_b13Rh9DODn",
+              "https://www.youtube.com/embed/1NOfPHLZb1o?si=3SLe7R1D_OMZUJMO"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Eletromagnetismo",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/DOHUL_ddpNM?si=2bnvbm8CBz5eLALr",
+              "https://www.youtube.com/embed/dKEo3Ru1qls?si=XplGiEg-iKYFSzbC",
+              "https://www.youtube.com/embed/P_Z4sjwuUXo?si=yxL9Ss1VnfuIsjSx",
+              "https://www.youtube.com/embed/yuRWx62DV54?si=3wGi0UuevPSYFzcF"
+            ]
+          }
+        ]
       }
     ]
   }

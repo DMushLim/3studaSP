@@ -6,47 +6,150 @@
         "conteudos": [
             {
                 "titulo": "Materiais: uso e propriedades",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/TMQGLstE7BQ?si=NKCclSauj-0fo3rF",
+                            "https://www.youtube.com/embed/ah0vLeIimcI?si=lzqDNIPmzANZIXyZ",
+                            "https://www.youtube.com/embed/Da2o6_0bBo8?si=512ZWzje9sLROzGN",
+                            "https://www.youtube.com/embed/YRGyXswza8g?si=IICyxPkgaIPihno3"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Transformações químicas: evidências, representações e aspectos quantitativos",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/sgLiinj4SpQ?si=f2C7f3E4dAcX28xh",
+                            "https://www.youtube.com/embed/VrUvy1N66U0?si=arU7bxMq3f82F9bq",
+                            "https://www.youtube.com/embed/-5od66vrCUA?si=ALulMKeSooIs8N9s",
+                            "https://www.youtube.com/embed/yF8o5vTOGc4?si=9JAUfm76T7eUmPo1",
+                            "https://www.youtube.com/embed/DPM30-1s3r0?si=TqbzeJyVKkUJUnh7",
+                            "https://www.youtube.com/embed/eiJJstzniDs?si=-3v2kNDnWJXcMq75"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Funções inorgânicas",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/2OS_tVes5gI?si=nE8p1OUijfIdGJn4",
+                            "https://www.youtube.com/embed/7F06LPKYeKM?si=MGXtJDWhdDRpzpNW",
+                            "https://www.youtube.com/embed/ArvnakiK_OE?si=-a9KpMJ-UTw7mwCj"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Química e meio ambiente",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/B9vpbIbsg9A?si=-CZubUh826uq7mnt",
+                            "https://www.youtube.com/embed/JFngu9q_o-U?si=CbK1nKNCPQSU4UtH",
+                            "https://www.youtube.com/embed/wgRk9mtJb4c?si=m6M-SKIVw2joF1u9"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "O átomo isolado e sua estrutura",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/lDrKIqubzdw?si=4WOItzd3l_dWTbQG",
+                            "https://www.youtube.com/embed/bn5FQ5VE5Fw?si=wnEA9WAT0-JdMFpK",
+                            "https://www.youtube.com/embed/xTVf7YXyhlo?si=Z1WXBRncLJGb40iC",
+                            "https://www.youtube.com/embed/Vsnq2hJ2UZc?si=vYo0NYV49uu2Z1Ak",
+                            "https://www.youtube.com/embed/aYBiI3U9zxI?si=WJSCciEicOe7HSau"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "O átomo ligado: tipos de ligações e substâncias químicas",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/jD5mZGt1158?si=z6-OTGYobE92I9l8",
+                            "https://www.youtube.com/embed/FDnxddw0P1g?si=iHUQEY17sj5TUI3U",
+                            "https://www.youtube.com/embed/zb_9QwohuZU?si=hg0CGk9NzjhPLE0y"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Polaridade e interações entre moléculas",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/NV93Bh7aXqk?si=8_7B0y0DUfbRasL_",
+                            "https://www.youtube.com/embed/hauugyrsoHo?si=bgJZ665Bnkq4PuXs",
+                            "https://www.youtube.com/embed/2ST6jwJG1I0?si=FIzX8IhQOIusrZqE"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Água e soluções aquosas",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/HTJ6y0umtvk?si=fAX0486thvAROiCq",
+                            "https://www.youtube.com/embed/AKpao58ahtA?si=ZNpnyv15x4RP-5br",
+                            "https://www.youtube.com/embed/ChNg0SkNiFs?si=axVJO7ZFKct5ifJc",
+                            "https://www.youtube.com/embed/SuzDtxr1GSg?si=_JqlnlOPpcaasYQs"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Transformações químicas: um processo dinâmico",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/tj638Wk3GNg?si=WSr8BQXInRPlZpAN",
+                            "https://www.youtube.com/embed/heWLNctZoIM?si=PS-Q-JjUay3d4NcC",
+                            "https://www.youtube.com/embed/uVJ3bCszgNo?si=v97_DT90SsBBeMpi",
+                            "https://www.youtube.com/embed/rSG5YItKl1Y?si=Qo3_80kPdH8_LFuj",
+                            "https://www.youtube.com/embed/2KCRv3mKaNs?si=pJcLCzCIXjIjc_UH"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Transformações de substâncias químicas e energia",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/esqhgvFljIY?si=Ji0X4of9q5i8Xf0q",
+                            "https://www.youtube.com/embed/JW89VPpk3Lc?si=aBbhPMKa0CKN5wqG",
+                            "https://www.youtube.com/embed/-RU1ywag0Dg?si=stzEopyd4oivNDX3",
+                            "https://www.youtube.com/embed/wphktISJEIM?si=IfucBYne8XUJwwo5",
+                            "https://www.youtube.com/embed/4X4sLlVGVF4?si=LMGX4VyT3HjHQeTa"
+                        ]
+                    }
+                ]
             },
             {
                 "titulo": "Estudo dos compostos de carbono",
-                "itens": []
+                "itens": [
+                    {
+                        "videos": [
+                            "https://www.youtube.com/embed/l98rzw-1YI8?si=45Sb6SWfF1VC_RfI",
+                            "https://www.youtube.com/embed/fY8E1dhNGNc?si=UmFJmLcTb2LZyTqt",
+                            "https://www.youtube.com/embed/Q_5rB0iF6oI?si=Vp1zbO33yjfo7lAa",
+                            "https://www.youtube.com/embed/eQLDd7p3mUw?si=NMRvp9ALh1Pq8VxQ",
+                            "https://www.youtube.com/embed/UkxZzSBX2-w?si=NGL5-CwIZpj7LKYS",
+                            "https://www.youtube.com/embed/dPWaJG5Fwys?si=SMwXnSo8WkDZGpk5",
+                            "https://www.youtube.com/embed/0q6Fn2r6koU?si=Zpajv_vidpq3iZUL"
+                        ]
+                    }
+                ]
             }
         ]
     }

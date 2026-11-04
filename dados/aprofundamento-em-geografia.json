@@ -1394,15 +1394,51 @@
     "conteudos": [
       {
         "titulo": "Os espaços mundial e brasileiro",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/Z-B4a48MRSA?si=VUD6bx6X0UgOwZqJ",
+              "https://www.youtube.com/embed/i0kLFcQdol0?si=Oy-bbmKKhhLpB115",
+              "https://www.youtube.com/embed/Uhgh6cAOhCg?si=9sItdK044bJuw5Ft",
+              "https://www.youtube.com/embed/7f8CXiFp6fk?si=et-CiHxPU0BKeAoS",
+              "https://www.youtube.com/embed/PKsut6kgCdI?si=EMu2nrJ8RErnSGJP",
+              "https://www.youtube.com/embed/omeGkWLmkHk?si=DOJFa_ZghC2ZPMFx",
+              "https://www.youtube.com/embed/h5WjNMGztvE?si=gkjzVXOa692ku8uT",
+              "https://www.youtube.com/embed/kzLGv1f5rzg?si=shIDCkaZCVrL7lj1",
+              "https://www.youtube.com/embed/LKoWNlF0-5U?si=_og05TdK3t2zkRfZ"
+
+            ]
+          }
+        ]
       },
       {
         "titulo": "As grandes paisagens naturais da Terra e a questão ambiental",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/XtH2NzCg1e4?si=bhuiVPtvFwquQuMD",
+              "https://www.youtube.com/embed/E9oeChbKvwI?si=eqLzneQyeAifAve3",
+              "https://www.youtube.com/embed/gZph9ax8Xpg?si=bKRDR0K8cmYdm3Y6",
+              "https://www.youtube.com/embed/kej3_SuE08k?si=Pv4ur6R_TYBF4EOA",
+              "https://www.youtube.com/embed/eEPabXAVzNA?si=XbramC2YI2Z9mo8o",
+              "https://www.youtube.com/embed/sX94nKsEKws?si=hzJojhLkNBOKtDAd",
+              "https://www.youtube.com/embed/ueU83pICyek?si=PYxw8L3oD5Ql17cY",
+              "https://www.youtube.com/embed/I_llIySJ85s?si=ftTlBhRGrdU6enen"
+            ]
+          }
+        ]
       },
       {
         "titulo": "A cartografia sistemática, temática e suas tecnologias",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/tR_rXa4BdpE?si=0iOPn-o9k8eb17Fl",
+              "https://www.youtube.com/embed/2kvFTq8fSjk?si=h5q6yRRh2z5la1oi",
+              "https://www.youtube.com/embed/80vkvtxVvXg?si=7t5CsQqSeUfr7P94"
+            ]
+          }
+        ]
       }
     ]
   }

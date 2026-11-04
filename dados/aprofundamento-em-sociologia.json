@@ -1677,23 +1677,67 @@
     "conteudos": [
       {
         "titulo": "O indivíduo e a sociedade",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/2zwXhDCuJgs?si=m0orTuViD-v-YN_4",
+              "https://www.youtube.com/embed/L5_Em9DkMgc?si=ydRiyvWT9-b8NG5D",
+              "https://www.youtube.com/embed/aOIY0nwqPCI?si=eQQkS4Tot8WKRffu",
+              "https://www.youtube.com/embed/o4WmwI8QkU4?si=iudKVxDtrrTNo8Z5"
+            ]
+          }
+        ]
       },
       {
         "titulo": "A sociedade e o trabalho",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/UG6PTnPpYrM?si=Z10ZgQiDyZc5J98-",
+              "https://www.youtube.com/embed/LQPffshbEvE?si=jVGUt24ty66Hn9cd",
+              "https://www.youtube.com/embed/6pBHMMnzyZU?si=O3KHB05SkO16lzNi",
+              "https://www.youtube.com/embed/neU-WO4IYrc?si=Q-s2f1QBZoJ2bRYG"
+            ]
+          }
+        ]
       },
       {
         "titulo": "A sociedade e a cultura",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/Shj8Dh_NLxw?si=nU9ythZQNpobqRVE",
+              "https://www.youtube.com/embed/BhFic-YkXOA?si=Dupr6VeDL4Y_IQtt"
+            ]
+          }
+        ]
       },
       {
         "titulo": "A sociedade e o Estado",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/UI67v44GQ6A?si=otO_I2St1LIwtb5_",
+              "https://www.youtube.com/embed/4Lt-v2NCkL8?si=YBSnAMyilqYPpKuy",
+              "https://www.youtube.com/embed/XO5CWrWLncc?si=ywsxA5m-G9hDFgpQ",
+              "https://www.youtube.com/embed/c3mjvCfwRxc?si=JwAinl4Bnl_RU7HV"
+            ]
+          }
+        ]
       },
       {
         "titulo": "A sociedade brasileira",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/YFSnf7TzQbM?si=j9nd40Y9nSRLB-pP",
+              "https://www.youtube.com/embed/WRyyj9DP910?si=OsmDqOZeYFbL_tAq",
+              "https://www.youtube.com/embed/c-_NwkrFzGI?si=bUnKK8IgKmeHm1BX",
+              "https://www.youtube.com/embed/3_AKJSs9eBM?si=NUx_tNcjauERX2Oz",
+              "https://www.youtube.com/embed/C-L8yAKTF8g?si=Cef1g4I_ypSdyEUA"
+            ]
+          }
+        ]
       }
     ]
   }

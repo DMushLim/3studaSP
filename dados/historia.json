@@ -2537,39 +2537,123 @@
     "conteudos": [
       {
         "titulo": "Antiguidade Clássica",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/xG7_VtgqYuc?si=IbUbGM_ATXvGvEXq",
+              "https://www.youtube.com/embed/QNK9uTncolU?si=PzzfqVIE9ULxjVxl",
+              "https://www.youtube.com/embed/lG0TRXM3S8c?si=RavUTAZt21yRGiA8"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Período Medieval",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/xYRsIQT-Qmc?si=3OMEgxUN6mgMZiE7",
+              "https://www.youtube.com/embed/HihjI7ceC6E?si=HfZtp4fPpfJtrhwg"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Mundo Moderno",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/cKPcV8FR-qE?si=o1KEQY_ZxSmzFqlk",
+              "https://www.youtube.com/embed/hYTQ7VnQ5lU?si=nrxaTaIJyjeiCLbf",
+              "https://www.youtube.com/embed/TBI-iFSBn58?si=Q0Z4UcHwMabgpYmh",
+              "https://www.youtube.com/embed/hEUJRWOAgqQ?si=MLKGnkJWDrrQLaf4",
+              "https://www.youtube.com/embed/qUWs5sZE4xc?si=3PXvv2TwMNnnhk2q",
+              "https://www.youtube.com/embed/aVQ_1srdzK4?si=KCiboZhpZTqJGeyV"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Mundo Contemporâneo",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/I8q0S_XGwdg?si=soFfQPHMzWxI4o7w",
+              "https://www.youtube.com/embed/QR-spg4aBJs?si=NNBfMfJEXe3X5e3P",
+              "https://www.youtube.com/embed/4kFKmhNik9s?si=fed0NETifscTANfW",
+              "https://www.youtube.com/embed/TdI_vQk276Q?si=X-sL5OKCqhFngIFk",
+              "https://www.youtube.com/embed/4se98HyqhtU?si=lYDrM_V48pPBHXZb",
+              "https://www.youtube.com/embed/TAbyRJIyC1A?si=6uWVwC5HI51JBr8Y",
+              "https://www.youtube.com/embed/BKrTxdKMRYk?si=tZX2d_uFJXQ3Dg-b",
+              "https://www.youtube.com/embed/mEP9HQb2Hn8?si=rmS8BwDw34k3SzE7",
+              "https://www.youtube.com/embed/ZffDTZTmLGI?si=wTM-TAFjzUmKJN8K",
+              "https://www.youtube.com/embed/cAwsLaO4HGQ?si=eVQRpF2ne7NE4gXe",
+              "https://www.youtube.com/embed/3sZXeQq68mA?si=ejTmSFUJU5wkAVk5",
+              "https://www.youtube.com/embed/4eq30dGYl0U?si=s1GVFOn8tVyytsu5"
+            ]
+          }
+        ]
       },
       {
         "titulo": " Estados Unidos e América Latina: diálogos e tensões",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/0ynfo-Sv1as?si=srMISUy7NX0qstGi"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Os primeiros habitantes",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/VzjQEIKrkp8?si=aKMrZcWNVLWp1oCG"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Conquista e colonização portuguesa",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/lpbyx9O8PP0?si=V8Hg5Zm_wwrp1W4J",
+              "https://www.youtube.com/embed/KIWJClnWMO8?si=dSWwwi4guLMP1qjT",
+              "https://www.youtube.com/embed/QNoxN_ZTRiE?si=__ykNsI7HLjwn2wi",
+              "https://www.youtube.com/embed/7ES7XZUflrQ?si=YL1RGWsiUDJ8yOtV"
+            ]
+          }
+        ]
       },
       {
         "titulo": "Brasil Imperial",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/eERlMeLvQlI?si=dM9AYs2IJKHuPK44",
+              "https://www.youtube.com/embed/gW9_Dx5HLjI?si=GlAqpgGQiD5PDRKn"
+              
+            ]
+          }
+        ]
       },
       {
         "titulo": "Brasil República",
-        "itens": []
+        "itens": [
+          {
+            "videos": [
+              "https://www.youtube.com/embed/4xSQkZ8jzeM?si=BU6JJ5qT4A0Z9ZAx",
+              "https://www.youtube.com/embed/q1knhnv_1pY?si=igaEUBSSONj_kjv-",
+              "https://www.youtube.com/embed/2T56FWFnJNA?si=ZLqljJefSp2N8QPH",
+              "https://www.youtube.com/embed/0vMNJBtGEvU?si=FTndZ5BKARV6o_fY",
+              "https://www.youtube.com/embed/HGrq8Eit31E?si=K0npL6miwnChBQAJ",
+              "https://www.youtube.com/embed/DAxqtxYnqU0?si=mU4AkdPewWLuCzvX",
+              "https://www.youtube.com/embed/-jbmb6PxXjY?si=IfT_McASNY4CUZvH"
+            ]
+          }
+        ]
       }
     ]
   }
